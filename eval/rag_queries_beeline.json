@@ -1,0 +1,154 @@
+{
+  "company": "beeline",
+  "queries": [
+    {"q": "совсем нет сети, не ловит билайн нигде в доме", "relevant": ["beeline_no_signal"]},
+    {"q": "телефон не видит сеть, ноль делений, звонить не могу", "relevant": ["beeline_no_signal"]},
+    {"q": "пропала связь полностью, ищет сеть и не находит", "relevant": ["beeline_no_signal"]},
+    {"q": "нет покрытия билайн у меня в районе, что делать", "relevant": ["beeline_no_signal"]},
+
+    {"q": "не работает мобильный интернет, а звонки проходят нормально", "relevant": ["beeline_mobile_internet_down"]},
+    {"q": "инет на телефоне завис, ничего не открывается", "relevant": ["beeline_mobile_internet_down"]},
+    {"q": "почему не грузит интернет на симке билайн, трафик не кончился", "relevant": ["beeline_mobile_internet_down"]},
+    {"q": "4g показывает но данные не идут вообще", "relevant": ["beeline_mobile_internet_down"]},
+
+    {"q": "какие настройки apn у билайна, надо вручную ввести", "relevant": ["beeline_apn_settings"]},
+    {"q": "новый телефон не выходит в инет, нужна точка доступа internet.beeline.ru", "relevant": ["beeline_apn_settings"]},
+    {"q": "пришлите параметры точки доступа для мобильного интернета", "relevant": ["beeline_apn_settings"]},
+    {"q": "вставил сим, интернета нет, видимо apn сбился как прописать", "relevant": ["beeline_apn_settings"]},
+
+    {"q": "лечу в тайланд, как роуминг подключить чтоб интернет был", "relevant": ["beeline_roaming_world"]},
+    {"q": "сколько стоит интернет в роуминге за границей в италии", "relevant": ["beeline_roaming_world"]},
+    {"q": "еду в турцию, какой пакет роуминга выгоднее взять", "relevant": ["beeline_roaming_world"]},
+    {"q": "буду в эмиратах, хочу звонить домой недорого из за рубежа", "relevant": ["beeline_roaming_world"]},
+
+    {"q": "поеду на машине в крым, роуминг по россии будет списываться?", "relevant": ["beeline_roaming_russia"]},
+    {"q": "уезжаю в соседний регион, тариф там тот же останется?", "relevant": ["beeline_roaming_russia"]},
+    {"q": "буду в командировке в новосибирске, интернет дороже станет по стране", "relevant": ["beeline_roaming_russia"]},
+    {"q": "внутрисетевой роуминг это как, я в россии но в другом городе", "relevant": ["beeline_roaming_russia"]},
+
+    {"q": "хочу перейти на esim, как это сделать у билайна", "relevant": ["beeline_esim"]},
+    {"q": "мой телефон с есим поддержкой, можно электронную симку оформить?", "relevant": ["beeline_esim"]},
+    {"q": "как получить qr-код для активации esim", "relevant": ["beeline_esim"]},
+    {"q": "хочу виртуальную симку второй чтобы без пластика", "relevant": ["beeline_esim"]},
+
+    {"q": "симка перестала работать, нужна замена с тем же номером", "relevant": ["beeline_sim_replacement"]},
+    {"q": "сломал sim карту пополам, как восстановить тот же номер", "relevant": ["beeline_sim_replacement"]},
+    {"q": "новый телефон требует нано сим, надо обменять старую", "relevant": ["beeline_sim_replacement"]},
+    {"q": "потерял симку, хочу перевыпустить её на свой номер", "relevant": ["beeline_sim_replacement", "beeline_block_number"]},
+
+    {"q": "хочу перейти к билайну от мтс и оставить свой номер", "relevant": ["beeline_mnp_port_in"]},
+    {"q": "как сохранить номер при переходе к вам от другого оператора", "relevant": ["beeline_mnp_port_in"]},
+    {"q": "перенос номера к билайну сколько дней занимает", "relevant": ["beeline_mnp_port_in"]},
+    {"q": "хочу к вам но номер свой оставить, так можно?", "relevant": ["beeline_mnp_port_in"]},
+
+    {"q": "баланс сколько?", "relevant": ["beeline_balance_check"]},
+    {"q": "какой командой проверить деньги на счету билайн", "relevant": ["beeline_balance_check"]},
+    {"q": "как узнать остаток на балансе через ussd", "relevant": ["beeline_balance_check"]},
+    {"q": "хочу глянуть состояние счёта в приложении мой билайн", "relevant": ["beeline_balance_check"]},
+
+    {"q": "как пополнить счёт с банковской карты", "relevant": ["beeline_topup"]},
+    {"q": "хочу закинуть деньги на номер, какие варианты", "relevant": ["beeline_topup"]},
+    {"q": "можно положить деньги на билайн без комиссии?", "relevant": ["beeline_topup"]},
+    {"q": "пополнил баланс деньги не дошли, что делать", "relevant": ["beeline_topup"]},
+
+    {"q": "подключите автоплатёж чтоб баланс сам пополнялся", "relevant": ["beeline_autopay"]},
+    {"q": "как настроить автопополнение счёта с карты", "relevant": ["beeline_autopay"]},
+    {"q": "отключите автоплатёж пожалуйста, не хочу автосписания", "relevant": ["beeline_autopay"]},
+    {"q": "хочу чтоб при нуле автоматически списывало с карты, как настроить", "relevant": ["beeline_autopay"]},
+
+    {"q": "хочу сменить тариф на подешевле", "relevant": ["beeline_tariff_change"]},
+    {"q": "как поменять тарифный план через мой билайн", "relevant": ["beeline_tariff_change"]},
+    {"q": "переведите меня на другой тариф, текущий не устраивает", "relevant": ["beeline_tariff_change"]},
+    {"q": "хочу тариф где больше гигабайт интернета", "relevant": ["beeline_tariff_change"]},
+
+    {"q": "что входит в мой тариф, сколько минут гигов смс", "relevant": ["beeline_tariff_details"]},
+    {"q": "расскажите условия моего тарифного плана подробно", "relevant": ["beeline_tariff_details"]},
+    {"q": "сколько у меня по тарифу включено интернета в месяц", "relevant": ["beeline_tariff_details"]},
+    {"q": "какой тариф у меня сейчас и что он включает", "relevant": ["beeline_tariff_details"]},
+
+    {"q": "пришлите детализацию звонков за прошлый месяц", "relevant": ["beeline_detailization"]},
+    {"q": "хочу выписку расходов, куда деньги уходят непонятно", "relevant": ["beeline_detailization"]},
+    {"q": "как заказать расшифровку звонков и смс на email", "relevant": ["beeline_detailization"]},
+    {"q": "нужна детализация, списывают много за что то непонятное", "relevant": ["beeline_detailization", "beeline_paid_subscriptions"]},
+
+    {"q": "заблокируйте номер срочно, телефон украли", "relevant": ["beeline_block_number"]},
+    {"q": "как временно заблокировать сим пока ищу потерянный телефон", "relevant": ["beeline_block_number"]},
+    {"q": "поставьте блокировку на мой номер чтоб не пользовались", "relevant": ["beeline_block_number"]},
+    {"q": "уезжаю на месяц, можно заморозить номер чтоб не списывали", "relevant": ["beeline_block_number"]},
+
+    {"q": "снимают деньги за подписки которые я не подключал", "relevant": ["beeline_paid_subscriptions"]},
+    {"q": "как отключить все платные подписки на номере билайн", "relevant": ["beeline_paid_subscriptions"]},
+    {"q": "каждый день списывают мелочь за подписку, отключите её", "relevant": ["beeline_paid_subscriptions"]},
+    {"q": "проверьте какие платные услуги и контент у меня подключены", "relevant": ["beeline_paid_subscriptions"]},
+
+    {"q": "замучили спам звонки, как их заблокировать", "relevant": ["beeline_spam_filter"]},
+    {"q": "подключите защиту от рекламных и мошеннических звонков", "relevant": ["beeline_spam_filter"]},
+    {"q": "постоянно звонят с рекламой, есть антиспам услуга?", "relevant": ["beeline_spam_filter"]},
+    {"q": "как включить блокировку нежелательных номеров и определитель", "relevant": ["beeline_spam_filter"]},
+
+    {"q": "подключили домашний интернет, помогите настроить роутер и вайфай", "relevant": ["beeline_home_internet_setup"]},
+    {"q": "мастер провёл инет, как теперь wifi дома настроить", "relevant": ["beeline_home_internet_setup"]},
+    {"q": "хочу подключить домашний интернет билайн, что нужно", "relevant": ["beeline_home_internet_setup"]},
+    {"q": "первичная настройка домашнего интернета с нуля как делается", "relevant": ["beeline_home_internet_setup"]},
+
+    {"q": "дома пропал интернет совсем, не работает второй день", "relevant": ["beeline_home_internet_down"]},
+    {"q": "домашний инет отвалился, на роутере горит красным", "relevant": ["beeline_home_internet_down"]},
+    {"q": "нет домашнего интернета вообще, у вас авария может?", "relevant": ["beeline_home_internet_down"]},
+    {"q": "проводной интернет не пашет, всё подключено как надо", "relevant": ["beeline_home_internet_down"]},
+
+    {"q": "роутер завис как его перезагрузить нормально", "relevant": ["beeline_router_reboot"]},
+    {"q": "интернет глючит, советуют ребутнуть роутер, как это сделать", "relevant": ["beeline_router_reboot"]},
+    {"q": "выдернул роутер из розетки и обратно, не помогло что ещё", "relevant": ["beeline_router_reboot"]},
+    {"q": "как сбросить роутер и заново запустить чтоб инет заработал", "relevant": ["beeline_router_reboot"]},
+
+    {"q": "вай фай слабо ловит в дальней комнате квартиры", "relevant": ["beeline_wifi_weak"]},
+    {"q": "сигнал wifi слабый на кухне, как усилить покрытие", "relevant": ["beeline_wifi_weak"]},
+    {"q": "интернет есть но вайфай еле добивает до спальни", "relevant": ["beeline_wifi_weak"]},
+    {"q": "скорость по wifi падает чем дальше от роутера отхожу", "relevant": ["beeline_wifi_weak"]},
+
+    {"q": "телевидение не работает, на приставке нет сигнала", "relevant": ["beeline_iptv_no_signal"]},
+    {"q": "iptv чёрный экран, каналы не показывают", "relevant": ["beeline_iptv_no_signal"]},
+    {"q": "каналы пропали все, приставка пишет нет сигнала", "relevant": ["beeline_iptv_no_signal"]},
+    {"q": "цифровое тв билайн зависло, картинки нет", "relevant": ["beeline_iptv_no_signal"]},
+
+    {"q": "хочу подключить домашний стационарный телефон", "relevant": ["beeline_home_phone"]},
+    {"q": "не работает городской телефон, гудка нет совсем", "relevant": ["beeline_home_phone"]},
+    {"q": "сколько стоит домашний телефон в месяц у билайна", "relevant": ["beeline_home_phone"]},
+    {"q": "как настроить переадресацию на стационарном телефоне", "relevant": ["beeline_home_phone"]},
+
+    {"q": "переезжаю в другую квартиру, можно перенести домашний интернет", "relevant": ["beeline_relocation"]},
+    {"q": "меняю адрес, как перевести подключение на новую квартиру", "relevant": ["beeline_relocation"]},
+    {"q": "съезжаю хочу забрать интернет и тв на новый адрес", "relevant": ["beeline_relocation"]},
+    {"q": "переезд скоро, что делать с домашними услугами билайн", "relevant": ["beeline_relocation"]},
+
+    {"q": "хочу взять смартфон в рассрочку у вас", "relevant": ["beeline_device_installment"]},
+    {"q": "можно купить телефон частями без переплаты?", "relevant": ["beeline_device_installment"]},
+    {"q": "какие условия рассрочки на технику, какая переплата", "relevant": ["beeline_device_installment"]},
+    {"q": "взял устройство в рассрочку, как теперь ежемесячно платить", "relevant": ["beeline_device_installment"]},
+
+    {"q": "оператор мне нахамил, хочу извинений от компании", "relevant": ["beeline_apology_script"]},
+    {"q": "ужасный сервис, столько жду, хоть бы извинились", "relevant": ["beeline_apology_script"]},
+    {"q": "я крайне недоволен поддержкой билайна, это кошмар", "relevant": ["beeline_apology_script"]},
+    {"q": "обещали перезвонить и не перезвонили, это безобразие", "relevant": ["beeline_apology_script"]},
+
+    {"q": "два дня не было интернета, верните деньги за это", "relevant": ["beeline_compensation"]},
+    {"q": "хочу компенсацию за неделю без связи", "relevant": ["beeline_compensation"]},
+    {"q": "списали лишнее по ошибке, как вернуть деньги обратно", "relevant": ["beeline_compensation"]},
+    {"q": "из за аварии не было тв, положена компенсация мне?", "relevant": ["beeline_compensation"]},
+
+    {"q": "хочу уйти от вас, но может предложите что-то чтоб остался", "relevant": ["beeline_retention"]},
+    {"q": "думаю расторгать, у других дешевле, чем удержите меня?", "relevant": ["beeline_retention"]},
+    {"q": "ухожу к другому оператору если скидку не дадите", "relevant": ["beeline_retention"]},
+    {"q": "собираюсь отключаться, какие бонусы чтобы передумал", "relevant": ["beeline_retention", "beeline_contract_termination"]},
+
+    {"q": "хочу расторгнуть договор и отключить все услуги полностью", "relevant": ["beeline_contract_termination"]},
+    {"q": "как окончательно закрыть договор с билайном", "relevant": ["beeline_contract_termination"]},
+    {"q": "расторжение договора какие документы потребуются", "relevant": ["beeline_contract_termination"]},
+    {"q": "ухожу от вас, верните остаток со счёта при закрытии", "relevant": ["beeline_contract_termination", "beeline_compensation"]},
+
+    {"q": "первая линия не помогла, дайте старшего специалиста", "relevant": ["beeline_escalation_l2"]},
+    {"q": "проблему неделю не решают, переведите на руководителя", "relevant": ["beeline_escalation_l2"]},
+    {"q": "хочу чтоб жалобу передали на вторую линию", "relevant": ["beeline_escalation_l2"]},
+    {"q": "случай сложный технический, нужен инженер не оператор", "relevant": ["beeline_escalation_l2"]}
+  ]
+}

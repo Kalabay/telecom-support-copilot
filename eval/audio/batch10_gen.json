@@ -1,0 +1,41 @@
+[
+  {"id":"res115","file":"res115.mp3","batch":10,"emotion":"sad","voice_name":"Marina RU [crying+sobbing]","voice_id":"ymDCYd8puC7gYjxIamPt","stability":0.45,
+   "send_text":"[crying] [sobbing] Я потеряла всё… телефон, контакты, фотографии… там были последние снимки мамы… помогите, пожалуйста…",
+   "clean_text":"Я потеряла всё, телефон, контакты, фотографии, там были последние снимки мамы, помогите пожалуйста.","note":"Marina полный плач — sad или angry?"},
+
+  {"id":"res116","file":"res116.mp3","batch":10,"emotion":"sad","voice_name":"Marina RU [trembling+choked]","voice_id":"ymDCYd8puC7gYjxIamPt","stability":0.6,
+   "send_text":"[voice trembling] [choked up] Я звоню, а голос дрожит… так тяжело… связь отключили, и я даже скорую вызвать не могу… мне страшно…",
+   "clean_text":"Я звоню, а голос дрожит, так тяжело, связь отключили, и я даже скорую вызвать не могу, мне страшно.","note":"дрожащий голос"},
+
+  {"id":"res117","file":"res117.mp3","batch":10,"emotion":"sad","voice_name":"Marina RU [whispering]","voice_id":"ymDCYd8puC7gYjxIamPt","stability":0.55,
+   "send_text":"[whispering] [sad] Простите… мне так тяжело говорить… я совсем одна осталась… и даже позвонить родным не на что…",
+   "clean_text":"Простите, мне так тяжело говорить, я совсем одна осталась, и даже позвонить родным не на что.","note":"шёпот, очень тихо"},
+
+  {"id":"res118","file":"res118.mp3","batch":10,"emotion":"sad","voice_name":"Marina RU [flat monotone stab0.75]","voice_id":"ymDCYd8puC7gYjxIamPt","stability":0.75,
+   "send_text":"[sighs] [tired] Уже ничего не хочется… интернет не работает неделю… а я лежу и просто смотрю в потолок… всё равно уже…",
+   "clean_text":"Уже ничего не хочется, интернет не работает неделю, а я лежу и просто смотрю в потолок, всё равно уже.","note":"экстремально плоский монотон"},
+
+  {"id":"res119","file":"res119.mp3","batch":10,"emotion":"sad","voice_name":"Marina RU [grief death]","voice_id":"ymDCYd8puC7gYjxIamPt","stability":0.6,
+   "send_text":"[sad] [crying softly] Мужа похоронила месяц назад… это был его номер… не могу заставить себя его отключить… так больно…",
+   "clean_text":"Мужа похоронила месяц назад, это был его номер, не могу заставить себя его отключить, так больно.","note":"горе, тихий плач"},
+
+  {"id":"res120","file":"res120.mp3","batch":10,"emotion":"sad","voice_name":"Larisa RU [whimpering+sniffling]","voice_id":"AB9XsbSA4eLG12t2myjN","stability":0.5,
+   "send_text":"[whimpering] [sniffling] У меня украли сумку… там был телефон, все документы… я не знаю, что теперь делать… так страшно…",
+   "clean_text":"У меня украли сумку, там был телефон, все документы, я не знаю что теперь делать, так страшно.","note":"Larisa тихий скулёж вместо громкого плача"},
+
+  {"id":"res121","file":"res121.mp3","batch":10,"emotion":"sad","voice_name":"Larisa RU [holding back tears]","voice_id":"AB9XsbSA4eLG12t2myjN","stability":0.65,
+   "send_text":"[voice trembling] [holding back tears] Я держусь из последних сил… денег нет, связь отключили… а мне нужно дозвониться в больницу к дочке…",
+   "clean_text":"Я держусь из последних сил, денег нет, связь отключили, а мне нужно дозвониться в больницу к дочке.","note":"сдерживает слёзы"},
+
+  {"id":"res122","file":"res122.mp3","batch":10,"emotion":"sad","voice_name":"Nadia RU [sad+trembling stab0.7]","voice_id":"gedzfqL7OGdPbwm0ynTP","stability":0.7,
+   "send_text":"[sad] [voice trembling] Так тяжело на душе… ничего не получается, интернета нет, работу из дома теряю… опускаются руки…",
+   "clean_text":"Так тяжело на душе, ничего не получается, интернета нет, работу из дома теряю, опускаются руки.","note":"Nadia плоско+дрожь"},
+
+  {"id":"res123","file":"res123.mp3","batch":10,"emotion":"sad","voice_name":"Brian EN [choked up] (муж)","voice_id":"nPczCjzI2devNBz1zQrb","stability":0.7,
+   "send_text":"[choked up] [sad] Тяжело об этом говорить… остался совсем один… только телефон и связывал меня с детьми… а теперь и его нет…",
+   "clean_text":"Тяжело об этом говорить, остался совсем один, только телефон и связывал меня с детьми, а теперь и его нет.","note":"последняя попытка мужского sad"},
+
+  {"id":"res124","file":"res124.mp3","batch":10,"emotion":"sad","voice_name":"Marina RU [sobbing+broken]","voice_id":"ymDCYd8puC7gYjxIamPt","stability":0.5,
+   "send_text":"[sobbing] [broken voice] Я… я не знаю, как дальше… всё рушится… помогите хоть чем-нибудь, пожалуйста…",
+   "clean_text":"Я не знаю как дальше, всё рушится, помогите хоть чем-нибудь, пожалуйста.","note":"надломленный голос, фрагментарно"}
+]

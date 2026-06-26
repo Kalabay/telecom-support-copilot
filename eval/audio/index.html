@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>ElevenLabs озвучки — прослушка + вердикт SER</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 940px;
+         margin: 24px auto; padding: 0 16px; color: #1a1a1a; background:#fafafa; }
+  h1 { font-size: 22px; } h2 { margin-top: 24px; font-size:18px; }
+  h3 { margin:16px 0 6px; padding:6px 10px; border-radius:6px; font-size:16px; }
+  h3.angry { background:#fde2e1; } h3.sad { background:#dfe7fb; } h3.neutral { background:#e6e6e6; }
+  h3.positive { background:#e2f7e2; } h3.other { background:#f3e8ff; }
+  .sect { background:#fff; border:1px solid #ddd; border-radius:10px; padding:8px 16px 16px; margin:14px 0; }
+  .card { background:#fff; border:1px solid #e0e0e0; border-radius:8px; padding:11px 13px; margin:9px 0; }
+  .row { display:flex; align-items:center; gap:9px; flex-wrap:wrap; }
+  .id { font-weight:600; font-family:monospace; }
+  .b { font-size:11px; color:#fff; background:#888; padding:1px 7px; border-radius:9px; }
+  .b2 { background:#5b8def; } .b3 { background:#9b59b6; } .b1 { background:#aaa; }
+  .voice { font-size:12px; color:#333; background:#eef; padding:2px 8px; border-radius:10px; }
+  .stab { font-size:12px; color:#666; background:#f0f0f0; padding:2px 7px; border-radius:10px; }
+  .text { margin:7px 0 4px; font-size:15px; line-height:1.4; }
+  .tags { margin:3px 0; font-size:12.5px; color:#555; font-family:monospace;
+          background:#f7f7f7; padding:4px 8px; border-radius:6px; word-break:break-word; }
+  .verdict { font-size:13px; padding:3px 8px; border-radius:6px; display:inline-block; }
+  .ok  { background:#d6f5d6; color:#176117; } .bad { background:#ffe0e0; color:#a11; }
+  audio { width:100%; margin-top:6px; }
+  .summary { font-size:14px; background:#eef6ff; border:1px solid #cfe2ff; padding:10px 14px; border-radius:8px; }
+  table { border-collapse:collapse; margin:8px 0; font-size:13px; } td,th { border:1px solid #ccc; padding:4px 9px; }
+  .find { font-size:13.5px; background:#f3fff3; border:1px solid #cfe8cf; padding:10px 14px; border-radius:8px; margin-top:10px;}
+</style>
+</head>
+<body>
+<h1>🎧 Озвучки клиента (ElevenLabs v3) — прослушай и сверь с SER</h1>
+
+<div class="summary">
+<b>Прогресс по батчам</b> (SER угадал / всего):
+<table>
+<tr><th>Батч</th><th>Что меняли</th><th>SER acc</th></tr>
+<tr><td>1 (Mark/Alice)</td><td>мягкие теги, stab 0.5</td><td id="s1">—</td></tr>
+<tr><td>2 (research)</td><td>агрессивные теги, stab 0.3, новые голоса</td><td id="s2">—</td></tr>
+<tr><td>3 (research)</td><td>+голоса, рецепты грусти [crying]/[sniffles]</td><td id="s3">—</td></tr>
+</table>
+<div class="find" id="findings"></div>
+</div>
+
+<div id="app"></div>
+
+<script src="audio_data.js"></script>
+<script>
+const D = window.AUDIO_DATA;
+document.getElementById("s1").textContent = D.stats.batch1;
+document.getElementById("s2").textContent = D.stats.batch2 || "—";
+document.getElementById("s3").textContent = D.stats.batch3 || "—";
+document.getElementById("findings").innerHTML =
+  "<b>Выводы:</b> 😡 <b>злость управляема</b> — небодрый голос (Adam/Harry/Callum/<b>Lily жен.</b>) + агрессивные теги + stab 0.3 → 0.90–1.00. " +
+  "😐 <b>нейтрал</b> — серьёзный диктор (Daniel/Eric) → 0.84–0.94. " +
+  "😢 <b>грусть НЕ синтезируется</b> — 0/6 попыток; [crying] читается как angry/positive, sad-вероятность ≈0. Для sad нужен реальный Dusha.";
+
+const TITLE = {angry:"😡 ANGRY", sad:"😢 SAD", neutral:"😐 NEUTRAL", positive:"😊 POSITIVE", other:"❓ OTHER"};
+const EMOS = ["angry","sad","positive","neutral","other"];
+const app = document.getElementById("app");
+
+function card(d, showTags) {
+  const conf = (d.conf !== "" && d.conf != null) ? ` (${d.conf})` : "";
+  const v = d.ok ? `<span class="verdict ok">✓ SER: ${d.ser}${conf}</span>`
+                 : `<span class="verdict bad">✗ SER: ${d.ser}${conf}</span>`;
+  const tagsHtml = showTags ? `<div class="tags">TTS: ${d.tags}</div>` : "";
+  const c = document.createElement("div"); c.className = "card";
+  c.innerHTML = `<div class="row"><span class="id">${d.id}</span>
+      <span class="b b${d.batch}">батч ${d.batch}</span>
+      <span class="voice">${d.voice}</span><span class="stab">stab ${d.stab}</span> ${v}</div>
+      <div class="text">«${d.text}»</div>${tagsHtml}
+      <audio controls preload="none" src="${d.id}.mp3"></audio>`;
+  return c;
+}
+
+function section(title, data, showTags) {
+  const s = document.createElement("div"); s.className = "sect";
+  const h = document.createElement("h2"); h.textContent = title; s.appendChild(h);
+  EMOS.forEach(emo => {
+    const items = data.filter(d => d.emotion === emo);
+    if (!items.length) return;
+    const sh = document.createElement("h3"); sh.className = emo;
+    const hits = items.filter(i => i.ok).length;
+    sh.textContent = `${TITLE[emo]}  (${hits}/${items.length} ✓)`; s.appendChild(sh);
+    items.forEach(d => s.appendChild(card(d, showTags)));
+  });
+  app.appendChild(s);
+}
+
+section("🔬 Research (батчи 2+) — сгруппировано по эмоции", D.research, true);
+section("Батч 1 — первые голоса Mark/Alice", D.batch1, false);
+</script>
+</body>
+</html>

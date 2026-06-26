@@ -1,0 +1,50 @@
+[
+  {
+    "id": "res29", "file": "res29.mp3", "batch": 7, "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU (жен.)", "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Ой, спасибо вам огромное! Наконец-то интернет летает, я так рада, вы прямо спасли!",
+    "clean_text": "Ой, спасибо вам огромное! Наконец-то интернет летает, я так рада, вы прямо спасли!",
+    "note": "рус. актриса upbeat, благодарность, жен. род (рада)"
+  },
+  {
+    "id": "res30", "file": "res30.mp3", "batch": 7, "emotion": "positive",
+    "voice_name": "Nadia — Energetic RU (жен.)", "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[cheerful] [happy] Спасибо, девушка, вы мне очень помогли — прямо гора с плеч, отличный у вас сервис!",
+    "clean_text": "Спасибо, девушка, вы мне очень помогли, прямо гора с плеч, отличный у вас сервис!",
+    "note": "рус. энергичный женский, благодарность"
+  },
+  {
+    "id": "res31", "file": "res31.mp3", "batch": 7, "emotion": "positive",
+    "voice_name": "Dmitry — Energetic RU (муж.)", "voice_id": "hU3rD0Yk7DoiYULTX1pD",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, всё работает как часы! Очень доволен, спасибо что так быстро всё решили!",
+    "clean_text": "Отлично, всё работает как часы! Очень доволен, спасибо что так быстро всё решили!",
+    "note": "рус. энергичный мужской, муж. род (доволен)"
+  },
+  {
+    "id": "res32", "file": "res32.mp3", "batch": 7, "emotion": "positive",
+    "voice_name": "Nikolay — Confident RU (муж.)", "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "[happy] Класс, теперь и роуминг подключён, спасибо что подсказали — поеду спокойно!",
+    "clean_text": "Класс, теперь и роуминг подключён, спасибо что подсказали, поеду спокойно!",
+    "note": "рус. уверенный мужской, радость"
+  },
+  {
+    "id": "res33", "file": "res33.mp3", "batch": 7, "emotion": "positive",
+    "voice_name": "Alice — Bright EN (жен.)", "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+    "stability": 0.35,
+    "send_text": "[excited] [happy] Я так рада, всё подключили, вы просто лучшие, спасибо большое!",
+    "clean_text": "Я так рада, всё подключили, вы просто лучшие, спасибо большое!",
+    "note": "англ. бодрый женский (раньше уезжал в positive) — контроль, жен. род"
+  },
+  {
+    "id": "res34", "file": "res34.mp3", "batch": 7, "emotion": "positive",
+    "voice_name": "Mark — EN (муж.)", "voice_id": "UgBBYS2sOqTuMpoF3BR0",
+    "stability": 0.4,
+    "send_text": "[happy] Спасибо вам огромное, так быстро всё решили, я прямо счастлив!",
+    "clean_text": "Спасибо вам огромное, так быстро всё решили, я прямо счастлив!",
+    "note": "англ. мужской, муж. род (счастлив) — контроль"
+  }
+]

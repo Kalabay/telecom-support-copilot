@@ -1,0 +1,154 @@
+{
+  "company": "rostelecom",
+  "queries": [
+    {"q": "только что подключили интернет домой, как мне его настроить с нуля? провод воткнул а дальше что", "relevant": ["rostelecom_home_internet_setup"]},
+    {"q": "пришёл мастер оставил роутер, теперь сам подключаю первый раз, с чего начать настройку", "relevant": ["rostelecom_home_internet_setup"]},
+    {"q": "купили новую квартиру подключили ростелеком, надо настроить домашний интернет, инструкция есть?", "relevant": ["rostelecom_home_internet_setup"]},
+    {"q": "как ввести логин пароль чтобы интернет заработал в первый раз после подключения", "relevant": ["rostelecom_home_internet_setup", "rostelecom_pppoe_setup"]},
+
+    {"q": "интернета вообще нет, всё лежит, ничего не грузит совсем, помогите!!", "relevant": ["rostelecom_home_internet_down"]},
+    {"q": "пропал интернет дома, вчера был сегодня вообще ноль, что случилось", "relevant": ["rostelecom_home_internet_down"]},
+    {"q": "у нас авария что ли? интернет полностью отвалился у всего подъезда наверное", "relevant": ["rostelecom_home_internet_down"]},
+    {"q": "интернет не работает совсем, ни на телефоне ни на компе, провод вроде на месте", "relevant": ["rostelecom_home_internet_down", "rostelecom_cable_check"]},
+
+    {"q": "интернет тупит, говорят надо роутер перезагрузить, как это правильно сделать", "relevant": ["rostelecom_router_reboot"]},
+    {"q": "как ребутнуть роутер, выдернуть из розетки и обратно или есть кнопка?", "relevant": ["rostelecom_router_reboot"]},
+    {"q": "оператор сказал перезагрузить модем но я не знаю как это делается", "relevant": ["rostelecom_router_reboot"]},
+    {"q": "роутер глючит, надо его перезапустить, сколько ждать после выключения?", "relevant": ["rostelecom_router_reboot"]},
+
+    {"q": "вайфай в дальней комнате еле ловит, у роутера норм а там почти нет сигнала", "relevant": ["rostelecom_wifi_weak"]},
+    {"q": "слабый вай фай на кухне, телефон одну палку показывает, как усилить?", "relevant": ["rostelecom_wifi_weak"]},
+    {"q": "на балконе wifi не добивает совсем, через стену сигнал пропадает", "relevant": ["rostelecom_wifi_weak"]},
+    {"q": "интернет по проводу хороший а по вайфаю слабый и далеко не достаёт", "relevant": ["rostelecom_wifi_weak", "rostelecom_speed_slow"]},
+
+    {"q": "на роутере лампочки моргают красным, что это значит, нормально или нет?", "relevant": ["rostelecom_router_indicators"]},
+    {"q": "какой индикатор должен гореть когда интернет работает, а то у меня один потух", "relevant": ["rostelecom_router_indicators"]},
+    {"q": "на модеме горит оранжевая лампочка вместо зелёной, это поломка?", "relevant": ["rostelecom_router_indicators"]},
+    {"q": "лампочка los мигает красным на роутере что делать", "relevant": ["rostelecom_router_indicators", "rostelecom_cable_check"]},
+
+    {"q": "как проверить что кабель нормально воткнут и не перебит, интернета нет", "relevant": ["rostelecom_cable_check"]},
+    {"q": "провод от роутера вроде болтается, как понять что дело в кабеле", "relevant": ["rostelecom_cable_check"]},
+    {"q": "может оптику пережали, как проверить кабель который в квартиру заходит", "relevant": ["rostelecom_cable_check"]},
+    {"q": "вытащил кабель из роутера и обратно, проверяю соединение, куда что втыкать", "relevant": ["rostelecom_cable_check", "rostelecom_router_indicators"]},
+
+    {"q": "надо настроить pppoe подключение, где вводить имя пользователя и пароль на роутере", "relevant": ["rostelecom_pppoe_setup"]},
+    {"q": "сбросил роутер до заводских, теперь не знаю как заново настроить pppoe", "relevant": ["rostelecom_pppoe_setup"]},
+    {"q": "какой тип подключения у ростелекома, pppoe или динамический, и как прописать", "relevant": ["rostelecom_pppoe_setup"]},
+    {"q": "поставил свой роутер, надо ввести данные для интернета чтобы заработало", "relevant": ["rostelecom_pppoe_setup", "rostelecom_home_internet_setup"]},
+
+    {"q": "телек пишет нет сигнала, приставка включена а на экране ничего", "relevant": ["rostelecom_iptv_no_signal"]},
+    {"q": "iptv не показывает, чёрный экран и надпись нет сигнала на всех каналах", "relevant": ["rostelecom_iptv_no_signal"]},
+    {"q": "интерактивное тв перестало работать, пишет отсутствует сигнал, интернет при этом есть", "relevant": ["rostelecom_iptv_no_signal"]},
+    {"q": "приставка ростелеком не выдаёт картинку, телевизор показывает нет сигнала", "relevant": ["rostelecom_iptv_no_signal", "rostelecom_iptv_channels"]},
+
+    {"q": "как настроить винк на телевизоре, скачал приложение а войти не могу", "relevant": ["rostelecom_wink_setup"]},
+    {"q": "wink не запускается на смарт тв, как подключить и активировать", "relevant": ["rostelecom_wink_setup"]},
+    {"q": "хочу смотреть фильмы через wink, как зарегистрироваться и привязать к договору", "relevant": ["rostelecom_wink_setup"]},
+    {"q": "установил винк но он просит код, где взять и как настроить просмотр", "relevant": ["rostelecom_wink_setup"]},
+
+    {"q": "пропали некоторые каналы на тв, остальные есть а часть исчезла", "relevant": ["rostelecom_iptv_channels"]},
+    {"q": "как добавить каналы в пакет, хочу спортивные подключить", "relevant": ["rostelecom_iptv_channels"]},
+    {"q": "список каналов поменялся, не могу найти первый канал, как обновить", "relevant": ["rostelecom_iptv_channels"]},
+    {"q": "тв показывает но половина каналов пустая, остальные нормально идут", "relevant": ["rostelecom_iptv_channels", "rostelecom_iptv_no_signal"]},
+
+    {"q": "домашний телефон не работает, гудка нет когда трубку поднимаю", "relevant": ["rostelecom_home_phone"]},
+    {"q": "как подключить городской телефон к роутеру, провод куда вставлять", "relevant": ["rostelecom_home_phone"]},
+    {"q": "стационарный телефон молчит, ни позвонить ни принять не могу", "relevant": ["rostelecom_home_phone"]},
+    {"q": "хочу узнать номер своего домашнего телефона и работает ли он вообще", "relevant": ["rostelecom_home_phone"]},
+
+    {"q": "интернет работает но медленно, страницы грузятся вечность, скорость низкая", "relevant": ["rostelecom_speed_slow"]},
+    {"q": "плачу за 100 мегабит а по факту 10, замерил скорость очень мало", "relevant": ["rostelecom_speed_slow"]},
+    {"q": "тормозит интернет, видео постоянно буферит, фильм не посмотреть", "relevant": ["rostelecom_speed_slow"]},
+    {"q": "скорость просела жутко, интернет есть но всё еле ползает, что не так", "relevant": ["rostelecom_speed_slow", "rostelecom_home_internet_down"]},
+
+    {"q": "хочу сменить тариф на домашний интернет на более дешёвый", "relevant": ["rostelecom_tariff_change_home"]},
+    {"q": "как поменять тарифный план дома, сейчас дорого плачу хочу другой", "relevant": ["rostelecom_tariff_change_home"]},
+    {"q": "можно перейти на тариф с большей скоростью для домашнего интернета?", "relevant": ["rostelecom_tariff_change_home"]},
+    {"q": "хочу добавить тв к интернету, сменить тариф на пакет с телевидением", "relevant": ["rostelecom_tariff_change_home"]},
+
+    {"q": "как узнать сколько денег на счету за интернет, где баланс посмотреть", "relevant": ["rostelecom_balance_check"]},
+    {"q": "хочу проверить баланс лицевого счёта, в личном кабинете не нашёл", "relevant": ["rostelecom_balance_check"]},
+    {"q": "сколько я должен заплатить в этом месяце, какой баланс по договору", "relevant": ["rostelecom_balance_check"]},
+    {"q": "где посмотреть остаток средств на счету ростелеком домашний", "relevant": ["rostelecom_balance_check"]},
+
+    {"q": "как пополнить счёт за домашний интернет с карты", "relevant": ["rostelecom_topup"]},
+    {"q": "хочу оплатить интернет, какие способы пополнения есть", "relevant": ["rostelecom_topup"]},
+    {"q": "закинул деньги на счёт но они не зачислились, как пополнить правильно", "relevant": ["rostelecom_topup"]},
+    {"q": "можно ли оплатить через сбербанк онлайн по лицевому счёту", "relevant": ["rostelecom_topup", "rostelecom_balance_check"]},
+
+    {"q": "хочу подключить автоплатёж чтобы каждый месяц само списывалось", "relevant": ["rostelecom_autopay"]},
+    {"q": "как настроить автоматическую оплату интернета с банковской карты", "relevant": ["rostelecom_autopay"]},
+    {"q": "надоело каждый раз платить вручную, можно сделать автосписание?", "relevant": ["rostelecom_autopay"]},
+    {"q": "как отключить автоплатёж, привязал карту а теперь не хочу", "relevant": ["rostelecom_autopay"]},
+
+    {"q": "переезжаю в другую квартиру, хочу перенести интернет на новый адрес", "relevant": ["rostelecom_relocation"]},
+    {"q": "как перевести договор на новую квартиру при переезде, что делать с оборудованием", "relevant": ["rostelecom_relocation"]},
+    {"q": "меняю адрес проживания, можно ли сохранить тариф и номер при переносе", "relevant": ["rostelecom_relocation"]},
+    {"q": "переехали в новый дом, возможно ли подключить там тот же договор", "relevant": ["rostelecom_relocation"]},
+
+    {"q": "расторгаю договор, куда сдавать роутер и приставку обратно", "relevant": ["rostelecom_equipment_return"]},
+    {"q": "как вернуть оборудование ростелеком, отключаюсь от услуг", "relevant": ["rostelecom_equipment_return"]},
+    {"q": "надо сдать модем и тв приставку, в какой офис нести и нужен ли чек", "relevant": ["rostelecom_equipment_return"]},
+    {"q": "отключился но требуют вернуть роутер, что будет если не сдам", "relevant": ["rostelecom_equipment_return", "rostelecom_contract_termination"]},
+
+    {"q": "хочу вызвать мастера на дом, интернет сам не могу починить", "relevant": ["rostelecom_technician_visit"]},
+    {"q": "как записаться на визит техника, нужно настроить оборудование", "relevant": ["rostelecom_technician_visit"]},
+    {"q": "когда придёт мастер которого я вызвал, можно уточнить время визита", "relevant": ["rostelecom_technician_visit"]},
+    {"q": "нужен выезд специалиста, сам не разберусь с подключением, как заказать", "relevant": ["rostelecom_technician_visit"]},
+
+    {"q": "на мобильном нет сети совсем, телефон пишет нет сигнала, не дозвониться", "relevant": ["rostelecom_mobile_no_signal"]},
+    {"q": "сотовая связь пропала, ни позвонить ни смс, индикатор сети пустой", "relevant": ["rostelecom_mobile_no_signal"]},
+    {"q": "телефон не ловит сеть ростелеком, в зоне покрытия а связи нет", "relevant": ["rostelecom_mobile_no_signal"]},
+    {"q": "нет приёма на мобильном, звонки не проходят, что с сетью", "relevant": ["rostelecom_mobile_no_signal", "rostelecom_mobile_internet_down"]},
+
+    {"q": "мобильный интернет не работает, звонки идут а интернета на телефоне нет", "relevant": ["rostelecom_mobile_internet_down"]},
+    {"q": "пропал интернет на смартфоне, передача данных включена а не грузит", "relevant": ["rostelecom_mobile_internet_down"]},
+    {"q": "4g не работает на телефоне, значок есть но страницы не открываются", "relevant": ["rostelecom_mobile_internet_down"]},
+    {"q": "мобильный интернет отвалился, сеть ловит звонить могу а в интернет не выйти", "relevant": ["rostelecom_mobile_internet_down", "rostelecom_mobile_no_signal"]},
+
+    {"q": "хочу сменить тариф на мобильном, нужно больше гигабайт", "relevant": ["rostelecom_mobile_tariff_change"]},
+    {"q": "как поменять тарифный план на симке, сейчас минут мало", "relevant": ["rostelecom_mobile_tariff_change"]},
+    {"q": "перейти на безлимит по мобильному интернету, как сменить тариф", "relevant": ["rostelecom_mobile_tariff_change"]},
+    {"q": "хочу подешевле тариф на телефон, как изменить на мобильном", "relevant": ["rostelecom_mobile_tariff_change"]},
+
+    {"q": "потерял симку, надо восстановить с тем же номером", "relevant": ["rostelecom_sim_replacement"]},
+    {"q": "сломалась сим карта, как заменить на новую сохранив номер", "relevant": ["rostelecom_sim_replacement"]},
+    {"q": "украли телефон с симкой, хочу перевыпустить sim", "relevant": ["rostelecom_sim_replacement"]},
+    {"q": "нужна симка меньшего формата под новый телефон, как поменять", "relevant": ["rostelecom_sim_replacement"]},
+
+    {"q": "еду за границу, как подключить роуминг чтобы был интернет и звонки", "relevant": ["rostelecom_roaming_world"]},
+    {"q": "сколько стоит роуминг в турции, хочу пользоваться телефоном в отпуске", "relevant": ["rostelecom_roaming_world"]},
+    {"q": "как включить международный роуминг перед поездкой за рубеж", "relevant": ["rostelecom_roaming_world"]},
+    {"q": "буду в европе, нужен интернет на телефоне там, как настроить роуминг", "relevant": ["rostelecom_roaming_world"]},
+
+    {"q": "хочу детализацию звонков за прошлый месяц, куда уходят деньги непонятно", "relevant": ["rostelecom_detailization"]},
+    {"q": "как заказать распечатку звонков и смс по моему номеру", "relevant": ["rostelecom_detailization"]},
+    {"q": "нужна детализация расходов, списали много а за что не пойму", "relevant": ["rostelecom_detailization"]},
+    {"q": "можно получить отчёт куда тратятся гигабайты и минуты на симке", "relevant": ["rostelecom_detailization"]},
+
+    {"q": "я очень недоволен, неделю без интернета, хочу чтобы извинились и объяснили", "relevant": ["rostelecom_apology_script"]},
+    {"q": "сколько можно терпеть эти сбои, мне даже не извинились ни разу!", "relevant": ["rostelecom_apology_script"]},
+    {"q": "отвратительный сервис, постоянные проблемы, кто за это ответит", "relevant": ["rostelecom_apology_script"]},
+    {"q": "вы сорвали мне работу из дома своим отключением, это безобразие", "relevant": ["rostelecom_apology_script", "rostelecom_compensation"]},
+
+    {"q": "интернета не было три дня, требую компенсацию за простой и перерасчёт", "relevant": ["rostelecom_compensation"]},
+    {"q": "хочу вернуть деньги за дни когда услуга не работала, как сделать перерасчёт", "relevant": ["rostelecom_compensation"]},
+    {"q": "из за аварии сидел без связи неделю, положена ли компенсация", "relevant": ["rostelecom_compensation"]},
+    {"q": "списали абонентку а интернета не было, хочу возврат за это время", "relevant": ["rostelecom_compensation"]},
+
+    {"q": "хочу уйти к другому оператору, но может предложите что то чтобы остаться", "relevant": ["rostelecom_retention"]},
+    {"q": "думаю отключаться, дорого, есть ли скидки чтобы я не уходил", "relevant": ["rostelecom_retention"]},
+    {"q": "у конкурентов дешевле, чем удержите меня, какие бонусы дадите", "relevant": ["rostelecom_retention", "rostelecom_contract_termination"]},
+    {"q": "надоело всё, хочу расторгнуть, но если будет выгодное предложение подумаю", "relevant": ["rostelecom_retention", "rostelecom_contract_termination"]},
+
+    {"q": "хочу полностью расторгнуть договор и отключить все услуги ростелеком", "relevant": ["rostelecom_contract_termination"]},
+    {"q": "как написать заявление на отключение интернета и закрытие договора", "relevant": ["rostelecom_contract_termination"]},
+    {"q": "переезжаю за границу, надо закрыть договор насовсем, что для этого нужно", "relevant": ["rostelecom_contract_termination"]},
+    {"q": "расторгаю всё, какие документы нужны и будет ли штраф за досрочное", "relevant": ["rostelecom_contract_termination", "rostelecom_equipment_return"]},
+
+    {"q": "вы мне уже третий раз не помогли, переключите на старшего специалиста немедленно", "relevant": ["rostelecom_escalation_l2"]},
+    {"q": "требую соединить с руководителем, рядовой оператор не решает мою проблему", "relevant": ["rostelecom_escalation_l2"]},
+    {"q": "это уже не первое обращение и ничего не делается, эскалируйте мой вопрос наверх", "relevant": ["rostelecom_escalation_l2"]},
+    {"q": "проблему не могут решить на первой линии, передайте специалистам второго уровня", "relevant": ["rostelecom_escalation_l2"]}
+  ]
+}

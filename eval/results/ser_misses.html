@@ -1,0 +1,403 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
+<title>Промахи SER — Вектор</title>
+<style>
+  body{background:#0e1621;color:#e9f0f7;font-family:system-ui,Segoe UI,Roboto,sans-serif;margin:0;padding:24px;}
+  h1{font-size:20px;margin:0 0 4px} h2{font-size:16px;margin:28px 0 12px}
+  .sub{color:#8b949e;font-size:13px;margin-bottom:16px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+  .card{background:#17212b;border:1px solid #0b1118;border-radius:12px;padding:12px}
+  .row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+  .badge{padding:2px 8px;border-radius:999px;font-size:12px;font-weight:600}
+  .arrow{color:#8b949e}
+  .meta{color:#6b7785;font-size:11px;margin-left:auto;font-family:monospace}
+  audio{width:100%;height:34px}
+  .text{font-size:14px;line-height:1.4;margin-top:8px;color:#cdd9e5}
+  table{border-collapse:collapse;font-size:13px} td{padding:3px 14px 3px 0;color:#cdd9e5}
+  .hl{border-left:3px solid #e5484d;padding-left:12px}
+</style></head><body>
+<h1>Промахи SER — синтетика «Вектор» (34 из 125 реплик)</h1>
+<div class="sub">Общая точность 4 класса 0.728 · objединённая (neutral+positive) 0.856.
+Аудио играется при открытии файла локально в браузере.</div>
+<table><tr><td>Нейтрально → Позитив</td><td>11</td></tr><tr><td>Нейтрально → Раздражён</td><td>10</td></tr><tr><td>Расстроен → Нейтрально</td><td>7</td></tr><tr><td>Позитив → Нейтрально</td><td>5</td></tr><tr><td>Позитив → Раздражён</td><td>1</td></tr></table>
+
+<h2 class="hl">Ложный гнев: было нейтрально/позитивно → распознали angry (11)</h2>
+<div class="sub">То, что тебя интересует — спокойные реплики, ошибочно принятые за раздражение.</div>
+<div class="grid">
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#f5a62322;color:#f5a623">оставлено</span>
+        <span class="meta">vek_11 · t4 · Sergey Deep RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_11_t4.mp3"></audio>
+      <div class="text">А чтобы я снова случайно за границей не влетел — можно вообще запретить этот роуминг, чтоб он сам не включался?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#f5a62322;color:#f5a623">оставлено</span>
+        <span class="meta">vek_13 · t4 · Sergey Deep RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_13_t4.mp3"></audio>
+      <div class="text">Ладно, подключите 15 гигабайт, хоть так. Спасибо, что объяснили по-человечески, а не отмахнулись.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_13 · t6 · Sergey Deep RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_13_t6.mp3"></audio>
+      <div class="text">И чтоб я больше так не попадал — как мне в следующий раз не потерять гигабайты при смене тарифа?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_15 · t10 · Sergey Deep RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_15_t10.mp3"></audio>
+      <div class="text">И последнее: сделайте так, чтобы меня по этой жалобе не футболили между линиями. Я не хочу пересказывать всё снова десять раз.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_17 · t6 · Sergey Deep RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_17_t6.mp3"></audio>
+      <div class="text">А если мне всё-таки нужный звонок прилетит с незнакомого номера, его не заблокирует случайно? А то так и важное пропущу.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_18 · t4 · Nikolay Confident RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_18_t4.mp3"></audio>
+      <div class="text">Заработало. Ладно. Но я не хочу каждый раз так нервничать — есть способ, чтобы это вообще не повторялось? И те 300 точно дойдут?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_21 · t6 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_21_t6.mp3"></audio>
+      <div class="text">А если я ещё в одну страну заскочу по дороге, опция там тоже сработает или надо отдельно что-то делать?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_29 · t6 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_29_t6.mp3"></audio>
+      <div class="text">Да, отключите всё лишнее и защиту поставьте. А ещё там есть списание побольше, рублей сто, раз в месяц — это что, тоже подписка?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_29 · t10 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_29_t10.mp3"></audio>
+      <div class="text">Спасибо. А чтобы я вообще держал расходы под контролем — есть способ видеть остатки и баланс быстро, не открывая детализацию каждый раз?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#26a26922;color:#26a269">истина: Позитив</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_30 · t0 · Larisa Actrisa RU · stab 0.35</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_30_t0.mp3"></audio>
+      <div class="text">Добрый день! У нас в семье четыре телефона, платим за каждый отдельно, выходит дорого. Можно что-то выгоднее?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">распознали: Раздражён</span>
+        <span class="badge" style="background:#e5484d22;color:#e5484d">исключено из метрики</span>
+        <span class="meta">vek_30 · t8 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_30_t8.mp3"></audio>
+      <div class="text">Здорово. А детям можно поставить ограничение по гигабайтам внутри семьи, чтобы они весь пакет за неделю не скачали?</div>
+    </div></div>
+
+<h2>Остальные промахи (23)</h2>
+<div class="grid">
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_01 · t4 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_01_t4.mp3"></audio>
+      <div class="text">Я переставила карту и перезагрузила, но боюсь, пока телефон включается, врач как раз позвонит и не дозвонится. А этот Wi-Fi-звонок — он точно сработает? У меня дома интернет есть.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_03 · t2 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_03_t2.mp3"></audio>
+      <div class="text">Нашла кнопку, нажимаю... появляются надписи HDMI 1, HDMI 2. Я боюсь нажать не то и совсем всё сломать.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#26a26922;color:#26a269">истина: Позитив</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_04 · t6 · Marina Soft RU · stab 0.35</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_04_t6.mp3"></audio>
+      <div class="text">Спасибо вам огромное, вы меня правда выручили в трудный момент. Хоть немного отлегло.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_05 · t2 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_05_t2.mp3"></audio>
+      <div class="text">Лампочка Internet красная горит, и ещё одна, кажется PON, мигает красным. Я выключала из розетки уже два раза, не помогает. У меня сил нет, и ребёнок на руках...</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_07 · t2 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_07_t2.mp3"></audio>
+      <div class="text">Нажал... теперь просит номер ввести и ждать какой-то код в смс. Я боюсь что-то не то нажать и совсем заблокировать, мне тогда вообще никто не поможет.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_07 · t4 · Marina Soft RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_07_t4.mp3"></audio>
+      <div class="text">Получилось, зашёл, вижу свои платежи. Спасибо вам за терпение, доброго вы человека.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_08 · t0 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_08_t0.mp3"></audio>
+      <div class="text">Здравствуйте... мне так горько. Я считаю каждую копейку, муж нас оставил, тяну двоих детей одна. И вот вижу — с моего счёта месяцами по тридцать рублей в день куда-то утекали, какие-то подписки. Это же сколько денег ушло, которые детям нужны были... сижу и плачу.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#26a26922;color:#26a269">истина: Позитив</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_08 · t6 · Marina Soft RU · stab 0.35</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_08_t6.mp3"></audio>
+      <div class="text">Спасибо вам огромное... хоть часть вернётся, и больше тянуть не будут. Прямо камень с души.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_09 · t2 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_09_t2.mp3"></audio>
+      <div class="text">Паспорт назову, кодовое слово «Сирень». А деньги они не успели снять? Я так боюсь, что они всё заберут, у меня там карта привязана.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#3b82f622;color:#3b82f6">истина: Расстроен</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_09 · t6 · Marina Soft RU · stab 0.7</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_09_t6.mp3"></audio>
+      <div class="text">Спасибо... с этим щитом мне поспокойнее. А если вдруг снова что-то странное в кабинете замечу, что делать?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_10 · t4 · Nikolay Confident RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_10_t4.mp3"></audio>
+      <div class="text">Ну хорошо, раз признали и возвращаете — это уже по-человечески. Жду тогда заявку.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_12 · t10 · Nikolay Confident RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_12_t10.mp3"></audio>
+      <div class="text">Хорошо. И ещё: дайте мне письменно подтверждение по компенсации, чтобы потом не оказалось, что ничего не начисляли. У меня бизнес, мне нужны бумаги.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_16 · t6 · Nikolay Confident RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_16_t6.mp3"></audio>
+      <div class="text">Ладно. А почему я вообще должен сам узнавать про аварии? Хоть бы смс прислали. Можно как-то сделать, чтобы предупреждали?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_16 · t10 · Nikolay Confident RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_16_t10.mp3"></audio>
+      <div class="text">Ладно. А если такая авария повторится — мне опять весь день гадать? Хоть компенсацию в следующий раз сами начислите без моих звонков?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_17 · t4 · Sergey Deep RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_17_t4.mp3"></audio>
+      <div class="text">Ну вот, давно бы так. Поставили блокировку — посмотрим, станет ли тише. Спасибо.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_21 · t2 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_21_t2.mp3"></audio>
+      <div class="text">Звучит нормально. Подключите, пожалуйста. И что ещё сделать перед поездкой?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#26a26922;color:#26a269">истина: Позитив</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_24 · t0 · Nadia Energetic RU · stab 0.35</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_24_t0.mp3"></audio>
+      <div class="text">Добрый день! Хочу перейти к вам от другого оператора, но сохранить свой номер. Расскажите, как это работает?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#26a26922;color:#26a269">истина: Позитив</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_24 · t4 · Nadia Energetic RU · stab 0.35</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_24_t4.mp3"></audio>
+      <div class="text">Долгов нет, всё на меня оформлено. Тогда оформлюсь онлайн сегодня. А статус смогу отслеживать?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_25 · t4 · Maxim Calm RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_25_t4.mp3"></audio>
+      <div class="text">Переключился на обычную сеть — стало заметно лучше! Но всё равно у окна слабовато. Что ещё можно?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_25 · t6 · Maxim Calm RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_25_t6.mp3"></audio>
+      <div class="text">А этот mesh сложно ставить? Я в технике не очень, боюсь сам не справлюсь.</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#26a26922;color:#26a269">истина: Позитив</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#8b949e22;color:#8b949e">распознали: Нейтрально</span>
+        
+        <span class="meta">vek_28 · t8 · Nadia Energetic RU · stab 0.35</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_28_t8.mp3"></audio>
+      <div class="text">Понял, всё забираю с собой. Спасибо, очень удобно, что ничего заново покупать не надо!</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_30 · t2 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_30_t2.mp3"></audio>
+      <div class="text">Звучит хорошо. А гигабайты общие — если кто-то много потратит, другим не хватит?</div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="badge" style="background:#8b949e22;color:#8b949e">истина: Нейтрально</span>
+        <span class="arrow">→</span>
+        <span class="badge" style="background:#26a26922;color:#26a269">распознали: Позитив</span>
+        
+        <span class="meta">vek_30 · t4 · Larisa Actrisa RU · stab 0.4</span>
+      </div>
+      <audio controls preload="none" src="../audio/e2e/vek_30_t4.mp3"></audio>
+      <div class="text">Удобно. А у нас бабушка пожилая, ей много интернета не надо, в основном звонки. Её тоже в семью подключать или ей что-то отдельное лучше?</div>
+    </div></div>
+</body></html>

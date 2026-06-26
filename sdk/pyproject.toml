@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "telecom-copilot-sdk"
+version = "0.1.0"
+description = "Тонкий Python-SDK для встраивания LLM-копилота телеком-саппорта (обёртка над REST /api/assist)."
+requires-python = ">=3.10"
+dependencies = ["requests>=2.28"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["telecom_copilot*"]

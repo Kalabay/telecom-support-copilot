@@ -1,0 +1,431 @@
+[
+  {
+    "dialogue_id": "dlg_01",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] У меня уже второй день вообще нет сети! Ни позвонить, ни выйти никуда не могу, телефон пишет «Только экстренные вызовы». Это вообще нормально?!",
+    "clean_text": "У меня уже второй день вообще нет сети! Ни позвонить, ни выйти никуда не могу, телефон пишет «Только экстренные вызовы». Это вообще нормально?!",
+    "gold_doc_ids": [
+      "mts_no_signal"
+    ],
+    "file": "dlg_01_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_01",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Перезагрузил, всё равно ничего. На другой симке в этом же телефоне сеть есть. И что мне теперь делать?",
+    "clean_text": "Перезагрузил, всё равно ничего. На другой симке в этом же телефоне сеть есть. И что мне теперь делать?",
+    "gold_doc_ids": [
+      "mts_no_signal",
+      "mts_sim_replacement"
+    ],
+    "file": "dlg_01_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_01",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Ладно, а за эти два дня без связи мне что-то вернут? Я же платил за тариф.",
+    "clean_text": "Ладно, а за эти два дня без связи мне что-то вернут? Я же платил за тариф.",
+    "gold_doc_ids": [
+      "mts_compensation"
+    ],
+    "file": "dlg_01_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_02",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.55,
+    "send_text": "[sad] [sighs] Здравствуйте. Вернулся из Турции, а с меня списали кучу денег за интернет... Я не понимаю, как так вышло, и так в отпуске потратился.",
+    "clean_text": "Здравствуйте. Вернулся из Турции, а с меня списали кучу денег за интернет... Я не понимаю, как так вышло, и так в отпуске потратился.",
+    "gold_doc_ids": [
+      "mts_roaming_world"
+    ],
+    "file": "dlg_02_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_02",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Понятно. А как в следующий раз сделать, чтобы такого не было?",
+    "clean_text": "Понятно. А как в следующий раз сделать, чтобы такого не было?",
+    "gold_doc_ids": [
+      "mts_roaming_world"
+    ],
+    "file": "dlg_02_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_03",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Добрый день! Купил новый айфон, хочу перенести свой номер на eSIM. Подскажете, как это сделать?",
+    "clean_text": "Добрый день! Купил новый айфон, хочу перенести свой номер на eSIM. Подскажете, как это сделать?",
+    "gold_doc_ids": [
+      "beeline_esim"
+    ],
+    "file": "dlg_03_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_03",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отсканировал, всё подключилось, интернет работает. Спасибо большое, очень выручили!",
+    "clean_text": "Отсканировал, всё подключилось, интернет работает. Спасибо большое, очень выручили!",
+    "gold_doc_ids": [
+      "beeline_esim"
+    ],
+    "file": "dlg_03_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_04",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Что у вас за безобразие?! С меня каждую неделю снимают деньги за какие-то подписки, которые я в глаза не видел!",
+    "clean_text": "Что у вас за безобразие?! С меня каждую неделю снимают деньги за какие-то подписки, которые я в глаза не видел!",
+    "gold_doc_ids": [
+      "beeline_paid_subscriptions"
+    ],
+    "file": "dlg_04_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_04",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Отключите, конечно. И сделайте, чтобы это больше никогда не повторялось.",
+    "clean_text": "Отключите, конечно. И сделайте, чтобы это больше никогда не повторялось.",
+    "gold_doc_ids": [
+      "beeline_paid_subscriptions"
+    ],
+    "file": "dlg_04_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_05",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Здравствуйте, хочу сменить тариф — текущий дороговат, а интернета мне нужно побольше. Что посоветуете?",
+    "clean_text": "Здравствуйте, хочу сменить тариф — текущий дороговат, а интернета мне нужно побольше. Что посоветуете?",
+    "gold_doc_ids": [
+      "megafon_tariff_change"
+    ],
+    "file": "dlg_05_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_05",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Гигов 30 и минут 500 хватит. А как потом смотреть, сколько у меня осталось из пакета?",
+    "clean_text": "Гигов 30 и минут 500 хватит. А как потом смотреть, сколько у меня осталось из пакета?",
+    "gold_doc_ids": [
+      "megafon_balance_check"
+    ],
+    "file": "dlg_05_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_05",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] О, супер, как раз то что нужно. Спасибо, что так быстро всё разложили по полочкам!",
+    "clean_text": "О, супер, как раз то что нужно. Спасибо, что так быстро всё разложили по полочкам!",
+    "gold_doc_ids": [
+      "megafon_tariff_change"
+    ],
+    "file": "dlg_05_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_06",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.55,
+    "send_text": "[sad] [sighs] Здравствуйте... у меня на счету ноль, а до зарплаты ещё несколько дней. Остался совсем без связи, даже позвонить родным не могу.",
+    "clean_text": "Здравствуйте... у меня на счету ноль, а до зарплаты ещё несколько дней. Остался совсем без связи, даже позвонить родным не могу.",
+    "gold_doc_ids": [
+      "megafon_topup"
+    ],
+    "file": "dlg_06_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_06",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "А как потом нормально пополнить, когда деньги придут? Без комиссии можно?",
+    "clean_text": "А как потом нормально пополнить, когда деньги придут? Без комиссии можно?",
+    "gold_doc_ids": [
+      "megafon_topup"
+    ],
+    "file": "dlg_06_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_06",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Связь снова появилась, спасибо вам огромное, прямо выручили!",
+    "clean_text": "Связь снова появилась, спасибо вам огромное, прямо выручили!",
+    "gold_doc_ids": [
+      "megafon_topup"
+    ],
+    "file": "dlg_06_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_07",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Достало уже! Звонки идут, а интернет не пашет вообще — ни одна страница не грузится. Что за связь такая?",
+    "clean_text": "Достало уже! Звонки идут, а интернет не пашет вообще — ни одна страница не грузится. Что за связь такая?",
+    "gold_doc_ids": [
+      "tele2_mobile_internet_down"
+    ],
+    "file": "dlg_07_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_07",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Перезагрузил, трафик вроде есть, но всё равно не грузится. Может, в настройках что-то слетело?",
+    "clean_text": "Перезагрузил, трафик вроде есть, но всё равно не грузится. Может, в настройках что-то слетело?",
+    "gold_doc_ids": [
+      "tele2_mobile_internet_down",
+      "tele2_apn_settings"
+    ],
+    "file": "dlg_07_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_07",
+    "company": "tele2",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] О, заработало! Прям сразу страницы открылись. Спасибо, выручили.",
+    "clean_text": "О, заработало! Прям сразу страницы открылись. Спасибо, выручили.",
+    "gold_doc_ids": [
+      "tele2_apn_settings"
+    ],
+    "file": "dlg_07_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_08",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Привет! Хочу перейти к вам, но номер свой терять не хочу — друзья очень хвалят ваши тарифы. Так можно?",
+    "clean_text": "Привет! Хочу перейти к вам, но номер свой терять не хочу — друзья очень хвалят ваши тарифы. Так можно?",
+    "gold_doc_ids": [
+      "tele2_mnp_port_in"
+    ],
+    "file": "dlg_08_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_08",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "А долго это? И что нужно, чтобы перенос прошёл нормально?",
+    "clean_text": "А долго это? И что нужно, чтобы перенос прошёл нормально?",
+    "gold_doc_ids": [
+      "tele2_mnp_port_in"
+    ],
+    "file": "dlg_08_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_09",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] У меня уже третий день нет интернета! Я работаю из дома, это просто кошмар. Когда вы это почините?!",
+    "clean_text": "У меня уже третий день нет интернета! Я работаю из дома, это просто кошмар. Когда вы это почините?!",
+    "gold_doc_ids": [
+      "rostelecom_home_internet_down"
+    ],
+    "file": "dlg_09_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_09",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Не горит вообще. Ладно, оформляйте мастера. А за эти три дня без интернета мне что, всё равно платить?",
+    "clean_text": "Не горит вообще. Ладно, оформляйте мастера. А за эти три дня без интернета мне что, всё равно платить?",
+    "gold_doc_ids": [
+      "rostelecom_home_internet_down",
+      "rostelecom_compensation"
+    ],
+    "file": "dlg_09_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_10",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.55,
+    "send_text": "[sad] [sighs] Добрый вечер. Телевизор пишет «Нет сигнала», хотел вечером кино с семьёй посмотреть, а ничего не показывает... обидно.",
+    "clean_text": "Добрый вечер. Телевизор пишет «Нет сигнала», хотел вечером кино с семьёй посмотреть, а ничего не показывает... обидно.",
+    "gold_doc_ids": [
+      "rostelecom_iptv_no_signal"
+    ],
+    "file": "dlg_10_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_10",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Переключил вход — теперь заставка приставки висит и дальше не грузится. Что делать?",
+    "clean_text": "Переключил вход — теперь заставка приставки висит и дальше не грузится. Что делать?",
+    "gold_doc_ids": [
+      "rostelecom_iptv_no_signal",
+      "rostelecom_router_reboot"
+    ],
+    "file": "dlg_10_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "dlg_10",
+    "company": "rostelecom",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Ура, всё загрузилось, каналы показывают! Спасибо большое, успеем кино посмотреть!",
+    "clean_text": "Ура, всё загрузилось, каналы показывают! Спасибо большое, успеем кино посмотреть!",
+    "gold_doc_ids": [
+      "rostelecom_router_reboot"
+    ],
+    "file": "dlg_10_t4.mp3",
+    "ok": true,
+    "error": ""
+  }
+]

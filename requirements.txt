@@ -1,0 +1,45 @@
+# Бэкенд телеком-копилота. Установка: pip install -r requirements.txt
+# (для GPU-версии torch добавьте индекс: --extra-index-url https://download.pytorch.org/whl/cu124)
+
+# API
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+websockets>=13.0
+python-multipart>=0.0.12
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+
+# ML
+torch>=2.5.0
+torchaudio>=2.5.0
+transformers>=4.46.0
+accelerate>=1.0.0
+
+# Распознавание речи
+faster-whisper>=1.0.3
+av>=12.0.0
+soundfile>=0.12.1
+librosa>=0.10.2
+silero-vad>=5.1
+omegaconf>=2.3.0
+
+# Поиск (RAG)
+sentence-transformers>=3.2.0
+chromadb>=0.5.15
+rank-bm25>=0.2.2
+
+# Языковая модель
+llama-cpp-python>=0.3.0
+
+# Утилиты
+httpx>=0.27.0
+loguru>=0.7.2
+rich>=13.9.0
+tqdm>=4.66.0
+numpy>=1.26.0,<2.0
+razdel>=0.5.0
+
+# Опционально, только для расширенных режимов:
+#   onnx-asr[cpu,hub]   — переключаемые ASR-движки (GigaAM, T-one)
+#   gigaam              — высокоточный ансамбль распознавания эмоции
+#   scikit-learn, peft, datasets — обучение/исследовательские скрипты (eval/)

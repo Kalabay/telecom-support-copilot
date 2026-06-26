@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "PowerShell(*)",
+      "WebFetch",
+      "WebSearch",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "Monitor(*)",
+      "Agent(*)",
+      "TaskCreate(*)",
+      "TaskUpdate(*)",
+      "TaskStop(*)",
+      "TaskGet(*)",
+      "TaskList(*)",
+      "TaskOutput(*)",
+      "ToolSearch(*)"
+    ]
+  }
+}

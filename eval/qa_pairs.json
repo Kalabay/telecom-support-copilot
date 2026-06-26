@@ -1,0 +1,80 @@
+{
+  "description": "Evaluation set: реалистичные реплики клиента → ожидаемый doc_id в top-k. Использован для измерения Recall@k и MRR retrieval-модуля.",
+  "metric_targets": {
+    "Recall@1": ">= 0.4",
+    "Recall@5": ">= 0.85",
+    "MRR@10": ">= 0.6"
+  },
+  "items": [
+    {
+      "id": "qa_01",
+      "query": "У меня третий день не работает интернет, что делать?",
+      "expected_doc_id": "diagnose_general",
+      "alt_doc_ids": ["outage_map"],
+      "intent": "no_internet"
+    },
+    {
+      "id": "qa_02",
+      "query": "Перезагрузил роутер уже два раза, ничего не помогло",
+      "expected_doc_id": "router_reboot",
+      "alt_doc_ids": ["router_indicators", "cable_check"],
+      "intent": "router_reboot"
+    },
+    {
+      "id": "qa_03",
+      "query": "На роутере горит красная лампочка, что это значит?",
+      "expected_doc_id": "router_indicators",
+      "alt_doc_ids": [],
+      "intent": "router_indicators"
+    },
+    {
+      "id": "qa_04",
+      "query": "В моем районе есть авария? Не работает интернет уже час",
+      "expected_doc_id": "outage_map",
+      "alt_doc_ids": ["planned_works"],
+      "intent": "outage_check"
+    },
+    {
+      "id": "qa_05",
+      "query": "Интернет очень медленный, всё тормозит, скорость не та что я плачу",
+      "expected_doc_id": "slow_speed",
+      "alt_doc_ids": ["tariff_limit", "wifi_weak_signal"],
+      "intent": "slow_internet"
+    },
+    {
+      "id": "qa_06",
+      "query": "Не работает интернет на телефоне, на телефоне 4G но ничего не открывается",
+      "expected_doc_id": "mobile_no_internet",
+      "alt_doc_ids": ["apn_settings", "tariff_limit"],
+      "intent": "mobile_internet"
+    },
+    {
+      "id": "qa_07",
+      "query": "Хочу расторгнуть договор, надоело, ухожу к другому оператору",
+      "expected_doc_id": "retention_offer",
+      "alt_doc_ids": ["apology_script"],
+      "intent": "retention"
+    },
+    {
+      "id": "qa_08",
+      "query": "Я плачу деньги, а интернета нет уже два дня, верните мне деньги",
+      "expected_doc_id": "compensation",
+      "alt_doc_ids": ["apology_script", "retention_offer"],
+      "intent": "compensation"
+    },
+    {
+      "id": "qa_09",
+      "query": "Купил новый роутер, подключил, интернета нет",
+      "expected_doc_id": "mac_binding",
+      "alt_doc_ids": ["pppoe_setup", "router_factory_reset"],
+      "intent": "router_config"
+    },
+    {
+      "id": "qa_10",
+      "query": "Переезжаю в другую квартиру, можно ли перенести интернет?",
+      "expected_doc_id": "relocation_setup",
+      "alt_doc_ids": [],
+      "intent": "relocation"
+    }
+  ]
+}

@@ -1,0 +1,4195 @@
+[
+  {
+    "dialogue_id": "vek_01",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Девушка, миленькая, помогите, я вас умоляю... Мама в реанимации, мне врач должен позвонить в любую минуту, а у меня сеть пропала совсем, ни одной палочки. Я тут одна сижу, руки трясутся, телефон в руках держу и не понимаю, почему он молчит...",
+    "clean_text": "Девушка, миленькая, помогите, я вас умоляю... Мама в реанимации, мне врач должен позвонить в любую минуту, а у меня сеть пропала совсем, ни одной палочки. Я тут одна сижу, руки трясутся, телефон в руках держу и не понимаю, почему он молчит...",
+    "gold_doc_ids": [
+      "vektor_no_signal"
+    ],
+    "file": "vek_01_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_01",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Выбрала вручную, написало «Вектор»... но всё равно одна палочка мигает и пропадает. Я боюсь, что звонок не пройдёт, а мне ведь сказать про неё могут что угодно...",
+    "clean_text": "Выбрала вручную, написало «Вектор»... но всё равно одна палочка мигает и пропадает. Я боюсь, что звонок не пройдёт, а мне ведь сказать про неё могут что угодно...",
+    "gold_doc_ids": [
+      "vektor_no_signal"
+    ],
+    "file": "vek_01_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_01",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Я переставила карту и перезагрузила, но боюсь, пока телефон включается, врач как раз позвонит и не дозвонится. А этот Wi-Fi-звонок — он точно сработает? У меня дома интернет есть.",
+    "clean_text": "Я переставила карту и перезагрузила, но боюсь, пока телефон включается, врач как раз позвонит и не дозвонится. А этот Wi-Fi-звонок — он точно сработает? У меня дома интернет есть.",
+    "gold_doc_ids": [
+      "vektor_no_signal"
+    ],
+    "file": "vek_01_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_01",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Включила Wi-Fi-звонки, и сразу появились три палочки сети! Заработало. Спасибо вам огромное, я уж думала совсем пропаду тут одна.",
+    "clean_text": "Включила Wi-Fi-звонки, и сразу появились три палочки сети! Заработало. Спасибо вам огромное, я уж думала совсем пропаду тут одна.",
+    "gold_doc_ids": [
+      "vektor_no_signal"
+    ],
+    "file": "vek_01_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_02",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... я не знаю, как сказать. Мужа похоронила две недели назад, а вчера на кладбище потеряла его телефон. Это был его номер, его последние сообщения там... У меня внутри всё оборвалось, я не могу, чтобы кто-то чужой влез туда. Заблокируйте, пожалуйста, заблокируйте скорее.",
+    "clean_text": "Здравствуйте... я не знаю, как сказать. Мужа похоронила две недели назад, а вчера на кладбище потеряла его телефон. Это был его номер, его последние сообщения там... У меня внутри всё оборвалось, я не могу, чтобы кто-то чужой влез туда. Заблокируйте, пожалуйста, заблокируйте скорее.",
+    "gold_doc_ids": [
+      "vektor_sim_block"
+    ],
+    "file": "vek_02_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_02",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Кодовое слово он мне говорил когда-то... кажется, «Ладога». Пополняла я сама на той неделе, тысячу рублей с карты. А номер... номер ведь не отнимут? Я не вынесу, если этот номер кому-то другому отдадут.",
+    "clean_text": "Кодовое слово он мне говорил когда-то... кажется, «Ладога». Пополняла я сама на той неделе, тысячу рублей с карты. А номер... номер ведь не отнимут? Я не вынесу, если этот номер кому-то другому отдадут.",
+    "gold_doc_ids": [
+      "vektor_sim_block"
+    ],
+    "file": "vek_02_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_02",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Спасибо вам... хоть это сохранилось. Хорошо, что номер не пропадёт, мне это сейчас важнее всего.",
+    "clean_text": "Спасибо вам... хоть это сохранилось. Хорошо, что номер не пропадёт, мне это сейчас важнее всего.",
+    "gold_doc_ids": [
+      "vektor_sim_block",
+      "vektor_service_suspend"
+    ],
+    "file": "vek_02_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_03",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Доченька, у меня телевизор погас, пишет «нет сигнала», чёрный экран. Я ведь одна совсем осталась, дети далеко, и этот телевизор — единственное, что у меня есть, с ним хоть не так пусто в квартире. А теперь и его нет, и так на душе тяжело, хоть плачь.",
+    "clean_text": "Доченька, у меня телевизор погас, пишет «нет сигнала», чёрный экран. Я ведь одна совсем осталась, дети далеко, и этот телевизор — единственное, что у меня есть, с ним хоть не так пусто в квартире. А теперь и его нет, и так на душе тяжело, хоть плачь.",
+    "gold_doc_ids": [
+      "vektor_tv_no_signal"
+    ],
+    "file": "vek_03_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_03",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Нашла кнопку, нажимаю... появляются надписи HDMI 1, HDMI 2. Я боюсь нажать не то и совсем всё сломать.",
+    "clean_text": "Нашла кнопку, нажимаю... появляются надписи HDMI 1, HDMI 2. Я боюсь нажать не то и совсем всё сломать.",
+    "gold_doc_ids": [
+      "vektor_tv_no_signal"
+    ],
+    "file": "vek_03_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_03",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Ой! На HDMI 2 картинка появилась, телевизор заработал! И огонёк зелёный горит. Спасибо тебе, дорогая, а то совсем я приуныла.",
+    "clean_text": "Ой! На HDMI 2 картинка появилась, телевизор заработал! И огонёк зелёный горит. Спасибо тебе, дорогая, а то совсем я приуныла.",
+    "gold_doc_ids": [
+      "vektor_tv_no_signal"
+    ],
+    "file": "vek_03_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_04",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... мне так неловко звонить. Я работу потерял месяц назад, денег нет совсем, последнее на еду уходит. А у дочки сегодня онлайн-экзамен, ей интернет нужен, и тут на счету ноль, всё отключилось. Руки опускаются, я даже это не могу для ребёнка обеспечить...",
+    "clean_text": "Здравствуйте... мне так неловко звонить. Я работу потерял месяц назад, денег нет совсем, последнее на еду уходит. А у дочки сегодня онлайн-экзамен, ей интернет нужен, и тут на счету ноль, всё отключилось. Руки опускаются, я даже это не могу для ребёнка обеспечить...",
+    "gold_doc_ids": [
+      "vektor_promised_payment",
+      "vektor_mobile_internet_down"
+    ],
+    "file": "vek_04_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_04",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А это точно бесплатно? Я правда не могу сейчас ничего платить, совсем ничего. И когда отдавать, я же не знаю, когда деньги появятся...",
+    "clean_text": "А это точно бесплатно? Я правда не могу сейчас ничего платить, совсем ничего. И когда отдавать, я же не знаю, когда деньги появятся...",
+    "gold_doc_ids": [
+      "vektor_promised_payment"
+    ],
+    "file": "vek_04_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_04",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Подключилось, интернет появился, дочка уже зашла на экзамен. А можно как-то сделать, чтобы в такой момент связь больше не отрубалась внезапно?",
+    "clean_text": "Подключилось, интернет появился, дочка уже зашла на экзамен. А можно как-то сделать, чтобы в такой момент связь больше не отрубалась внезапно?",
+    "gold_doc_ids": [
+      "vektor_data_limit"
+    ],
+    "file": "vek_04_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_04",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Спасибо вам огромное, вы меня правда выручили в трудный момент. Хоть немного отлегло.",
+    "clean_text": "Спасибо вам огромное, вы меня правда выручили в трудный момент. Хоть немного отлегло.",
+    "gold_doc_ids": [
+      "vektor_promised_payment"
+    ],
+    "file": "vek_04_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_05",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Помогите, пожалуйста... У меня малыш заболел, температура, я одна с ним, муж в командировке. Хотела врача по видео вызвать через интернет, а он не работает совсем, весь дом без связи. Я в панике, не знаю, что делать, ребёнок плачет, и я тут как в ловушке.",
+    "clean_text": "Помогите, пожалуйста... У меня малыш заболел, температура, я одна с ним, муж в командировке. Хотела врача по видео вызвать через интернет, а он не работает совсем, весь дом без связи. Я в панике, не знаю, что делать, ребёнок плачет, и я тут как в ловушке.",
+    "gold_doc_ids": [
+      "vektor_home_internet_down"
+    ],
+    "file": "vek_05_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_05",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Лампочка Internet красная горит, и ещё одна, кажется PON, мигает красным. Я выключала из розетки уже два раза, не помогает. У меня сил нет, и ребёнок на руках...",
+    "clean_text": "Лампочка Internet красная горит, и ещё одна, кажется PON, мигает красным. Я выключала из розетки уже два раза, не помогает. У меня сил нет, и ребёнок на руках...",
+    "gold_doc_ids": [
+      "vektor_home_internet_down",
+      "vektor_router_indicators"
+    ],
+    "file": "vek_05_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_05",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Кабель вроде на месте, я его не трогала. А мастер когда приедет? Мне же сейчас врача надо, я не могу ждать до завтра, у ребёнка температура поднимается...",
+    "clean_text": "Кабель вроде на месте, я его не трогала. А мастер когда приедет? Мне же сейчас врача надо, я не могу ждать до завтра, у ребёнка температура поднимается...",
+    "gold_doc_ids": [
+      "vektor_technician_visit"
+    ],
+    "file": "vek_05_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_05",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Хорошо, давайте через телефон, только подскажите, я в этом совсем не разбираюсь, руки трясутся.",
+    "clean_text": "Хорошо, давайте через телефон, только подскажите, я в этом совсем не разбираюсь, руки трясутся.",
+    "gold_doc_ids": [
+      "vektor_mobile_internet_setup"
+    ],
+    "file": "vek_05_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_05",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Получилось, интернет с телефона раздался, я уже звоню врачу! Спасибо вам огромное, я хоть немного выдохнула.",
+    "clean_text": "Получилось, интернет с телефона раздался, я уже звоню врачу! Спасибо вам огромное, я хоть немного выдохнула.",
+    "gold_doc_ids": [
+      "vektor_mobile_internet_setup"
+    ],
+    "file": "vek_05_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_05",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Спасибо, что и про перерасчёт сами, мне сейчас не до этого. Главное, что с врачом связалась. Очень вы меня поддержали.",
+    "clean_text": "Спасибо, что и про перерасчёт сами, мне сейчас не до этого. Главное, что с врачом связалась. Очень вы меня поддержали.",
+    "gold_doc_ids": [
+      "vektor_compensation"
+    ],
+    "file": "vek_05_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_06",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... я учусь далеко от дома, и у меня интернет почти перестал работать, всё тормозит. А мне с мамой связаться надо, она болеет сильно, я каждый день переживаю. И вот именно сейчас связи нормальной нет, так тоскливо и страшно, будто я её бросила одну.",
+    "clean_text": "Здравствуйте... я учусь далеко от дома, и у меня интернет почти перестал работать, всё тормозит. А мне с мамой связаться надо, она болеет сильно, я каждый день переживаю. И вот именно сейчас связи нормальной нет, так тоскливо и страшно, будто я её бросила одну.",
+    "gold_doc_ids": [
+      "vektor_data_limit",
+      "vektor_internet_slow"
+    ],
+    "file": "vek_06_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_06",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Да, наверное, я и правда много в видео с ней говорила... Денег у меня немного, стипендия только через неделю. Что мне делать, я не могу без связи с ней сейчас остаться.",
+    "clean_text": "Да, наверное, я и правда много в видео с ней говорила... Денег у меня немного, стипендия только через неделю. Что мне делать, я не могу без связи с ней сейчас остаться.",
+    "gold_doc_ids": [
+      "vektor_data_limit"
+    ],
+    "file": "vek_06_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_06",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Подключите, пожалуйста, и пакет, и безлимит. О, уже работает быстро! Спасибо вам, теперь хоть смогу её видеть каждый день и не бояться.",
+    "clean_text": "Подключите, пожалуйста, и пакет, и безлимит. О, уже работает быстро! Спасибо вам, теперь хоть смогу её видеть каждый день и не бояться.",
+    "gold_doc_ids": [
+      "vektor_social_unlim"
+    ],
+    "file": "vek_06_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_06",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "А этот безлимит точно бесплатно? Я просто правда считаю каждый рубль, мне сейчас тяжело, не хочу попасть на лишние списания.",
+    "clean_text": "А этот безлимит точно бесплатно? Я просто правда считаю каждый рубль, мне сейчас тяжело, не хочу попасть на лишние списания.",
+    "gold_doc_ids": [
+      "vektor_social_unlim"
+    ],
+    "file": "vek_06_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_07",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... вы простите, я медленно говорю, после болезни плохо соображаю. Не могу зайти в приложение, пароль забыл совсем, а там у меня все платежи. Чувствую себя совсем беспомощным, ничего сам не могу, обидно до слёз.",
+    "clean_text": "Здравствуйте... вы простите, я медленно говорю, после болезни плохо соображаю. Не могу зайти в приложение, пароль забыл совсем, а там у меня все платежи. Чувствую себя совсем беспомощным, ничего сам не могу, обидно до слёз.",
+    "gold_doc_ids": [
+      "vektor_app_password"
+    ],
+    "file": "vek_07_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_07",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Нажал... теперь просит номер ввести и ждать какой-то код в смс. Я боюсь что-то не то нажать и совсем заблокировать, мне тогда вообще никто не поможет.",
+    "clean_text": "Нажал... теперь просит номер ввести и ждать какой-то код в смс. Я боюсь что-то не то нажать и совсем заблокировать, мне тогда вообще никто не поможет.",
+    "gold_doc_ids": [
+      "vektor_app_password"
+    ],
+    "file": "vek_07_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_07",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Получилось, зашёл, вижу свои платежи. Спасибо вам за терпение, доброго вы человека.",
+    "clean_text": "Получилось, зашёл, вижу свои платежи. Спасибо вам за терпение, доброго вы человека.",
+    "gold_doc_ids": [
+      "vektor_app_password"
+    ],
+    "file": "vek_07_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_08",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... мне так горько. Я считаю каждую копейку, муж нас оставил, тяну двоих детей одна. И вот вижу — с моего счёта месяцами по тридцать рублей в день куда-то утекали, какие-то подписки. Это же сколько денег ушло, которые детям нужны были... сижу и плачу.",
+    "clean_text": "Здравствуйте... мне так горько. Я считаю каждую копейку, муж нас оставил, тяну двоих детей одна. И вот вижу — с моего счёта месяцами по тридцать рублей в день куда-то утекали, какие-то подписки. Это же сколько денег ушло, которые детям нужны были... сижу и плачу.",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_08_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_08",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Отключите всё, я ничего такого не подключала специально. И поставьте, чтобы больше никогда это не повторилось, я не выдержу снова это увидеть.",
+    "clean_text": "Отключите всё, я ничего такого не подключала специально. И поставьте, чтобы больше никогда это не повторилось, я не выдержу снова это увидеть.",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_08_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_08",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А раньше, чем за месяц, вернуть никак нельзя? Их же столько месяцев тянули, обидно до слёз.",
+    "clean_text": "А раньше, чем за месяц, вернуть никак нельзя? Их же столько месяцев тянули, обидно до слёз.",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions",
+      "vektor_refund"
+    ],
+    "file": "vek_08_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_08",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Спасибо вам огромное... хоть часть вернётся, и больше тянуть не будут. Прямо камень с души.",
+    "clean_text": "Спасибо вам огромное... хоть часть вернётся, и больше тянуть не будут. Прямо камень с души.",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_08_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_09",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Помогите, мне так стыдно и страшно... Мне позвонили, представились вашей службой безопасности, я поверила, назвала код из смс. А теперь вижу — в кабинет кто-то зашёл, переадресацию какую-то поставили. Я всё испортила, как я могла так попасться, реву и не знаю, что делать...",
+    "clean_text": "Помогите, мне так стыдно и страшно... Мне позвонили, представились вашей службой безопасности, я поверила, назвала код из смс. А теперь вижу — в кабинет кто-то зашёл, переадресацию какую-то поставили. Я всё испортила, как я могла так попасться, реву и не знаю, что делать...",
+    "gold_doc_ids": [
+      "vektor_suspicious_calls",
+      "vektor_password_reset_security"
+    ],
+    "file": "vek_09_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_09",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Паспорт назову, кодовое слово «Сирень». А деньги они не успели снять? Я так боюсь, что они всё заберут, у меня там карта привязана.",
+    "clean_text": "Паспорт назову, кодовое слово «Сирень». А деньги они не успели снять? Я так боюсь, что они всё заберут, у меня там карта привязана.",
+    "gold_doc_ids": [
+      "vektor_password_reset_security"
+    ],
+    "file": "vek_09_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_09",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Новый пароль сделала. А они мне ещё раз позвонят? Я теперь каждого звонка боюсь, вся трясусь, вдруг опять обманут...",
+    "clean_text": "Новый пароль сделала. А они мне ещё раз позвонят? Я теперь каждого звонка боюсь, вся трясусь, вдруг опять обманут...",
+    "gold_doc_ids": [
+      "vektor_fraud_protection"
+    ],
+    "file": "vek_09_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_09",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо... с этим щитом мне поспокойнее. А если вдруг снова что-то странное в кабинете замечу, что делать?",
+    "clean_text": "Спасибо... с этим щитом мне поспокойнее. А если вдруг снова что-то странное в кабинете замечу, что делать?",
+    "gold_doc_ids": [
+      "vektor_account_security"
+    ],
+    "file": "vek_09_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_09",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Хорошо, поняла. Спасибо, что не отругали и всё так быстро закрыли, мне правда стало легче.",
+    "clean_text": "Хорошо, поняла. Спасибо, что не отругали и всё так быстро закрыли, мне правда стало легче.",
+    "gold_doc_ids": [
+      "vektor_password_reset_security"
+    ],
+    "file": "vek_09_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_09",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Спасибо... а можно как-то проверить, не успели ли они с моего номера ещё что-то натворить, кроме переадресации? Я вся на нервах.",
+    "clean_text": "Спасибо... а можно как-то проверить, не успели ли они с моего номера ещё что-то натворить, кроме переадресации? Я вся на нервах.",
+    "gold_doc_ids": [
+      "vektor_detailization"
+    ],
+    "file": "vek_09_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_10",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Это вообще ни в какие ворота! Я пополнил счёт один раз, а с карты у меня сняли дважды! Вы что там, деньги печатаете за мой счёт? Немедленно верните, я не намерен вам дарить свои кровные!",
+    "clean_text": "Это вообще ни в какие ворота! Я пополнил счёт один раз, а с карты у меня сняли дважды! Вы что там, деньги печатаете за мой счёт? Немедленно верните, я не намерен вам дарить свои кровные!",
+    "gold_doc_ids": [
+      "vektor_refund"
+    ],
+    "file": "vek_10_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_10",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ну вот, опять чек ищи им. Ладно, нашёл: сегодня в 14:32, 500 рублей, два раза подряд списало. И сколько мне ждать своих денег теперь, тоже месяц?",
+    "clean_text": "Ну вот, опять чек ищи им. Ладно, нашёл: сегодня в 14:32, 500 рублей, два раза подряд списало. И сколько мне ждать своих денег теперь, тоже месяц?",
+    "gold_doc_ids": [
+      "vektor_refund"
+    ],
+    "file": "vek_10_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_10",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ну хорошо, раз признали и возвращаете — это уже по-человечески. Жду тогда заявку.",
+    "clean_text": "Ну хорошо, раз признали и возвращаете — это уже по-человечески. Жду тогда заявку.",
+    "gold_doc_ids": [
+      "vektor_refund"
+    ],
+    "file": "vek_10_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_11",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вы меня просто ограбили! Съездил в отпуск на неделю, а вы мне намотали такой счёт за интернет, что у меня глаза на лоб полезли! Почему меня никто не предупредил, что это космические деньги?! Это грабёж среди бела дня!",
+    "clean_text": "Вы меня просто ограбили! Съездил в отпуск на неделю, а вы мне намотали такой счёт за интернет, что у меня глаза на лоб полезли! Почему меня никто не предупредил, что это космические деньги?! Это грабёж среди бела дня!",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_11_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_11",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да отключайте уже всё! И что теперь, я должен оплатить эти бешеные деньги? Я бы за эту опцию заплатил копейки, если бы знал!",
+    "clean_text": "Да отключайте уже всё! И что теперь, я должен оплатить эти бешеные деньги? Я бы за эту опцию заплатил копейки, если бы знал!",
+    "gold_doc_ids": [
+      "vektor_roaming_disable",
+      "vektor_roaming_world"
+    ],
+    "file": "vek_11_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_11",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "А чтобы я снова случайно за границей не влетел — можно вообще запретить этот роуминг, чтоб он сам не включался?",
+    "clean_text": "А чтобы я снова случайно за границей не влетел — можно вообще запретить этот роуминг, чтоб он сам не включался?",
+    "gold_doc_ids": [
+      "vektor_roaming_disable"
+    ],
+    "file": "vek_11_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_12",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Сколько можно?! Третий день интернет в офисе еле дышит, у меня сотрудники сидят без работы, клиенты срываются! Я вам деньги плачу за бизнес-тариф, а получаю черепаху! Это вы мне убытки компенсировать будете?!",
+    "clean_text": "Сколько можно?! Третий день интернет в офисе еле дышит, у меня сотрудники сидят без работы, клиенты срываются! Я вам деньги плачу за бизнес-тариф, а получаю черепаху! Это вы мне убытки компенсировать будете?!",
+    "gold_doc_ids": [
+      "vektor_home_speed_slow"
+    ],
+    "file": "vek_12_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_12",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Замерил по кабелю — 20 мегабит, а у меня в тарифе 300! Это что вообще такое? Я за что плачу полную цену?!",
+    "clean_text": "Замерил по кабелю — 20 мегабит, а у меня в тарифе 300! Это что вообще такое? Я за что плачу полную цену?!",
+    "gold_doc_ids": [
+      "vektor_home_speed_slow"
+    ],
+    "file": "vek_12_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_12",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Перерасчёт — это хорошо, но мне работать сейчас надо! У меня сделки горят, а не через два дня! Что мне делать прямо сегодня?!",
+    "clean_text": "Перерасчёт — это хорошо, но мне работать сейчас надо! У меня сделки горят, а не через два дня! Что мне делать прямо сегодня?!",
+    "gold_doc_ids": [
+      "vektor_compensation"
+    ],
+    "file": "vek_12_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_12",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Резервный канал давайте, хоть что-то. И почему мне каждый раз приходится с нуля всё объяснять разным операторам? Это бесит!",
+    "clean_text": "Резервный канал давайте, хоть что-то. И почему мне каждый раз приходится с нуля всё объяснять разным операторам? Это бесит!",
+    "gold_doc_ids": [
+      "vektor_corporate_support"
+    ],
+    "file": "vek_12_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_12",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вот выделенный менеджер — это другое дело. Спасибо, что хоть разобрались и дали реальное решение, а не отписку.",
+    "clean_text": "Вот выделенный менеджер — это другое дело. Спасибо, что хоть разобрались и дали реальное решение, а не отписку.",
+    "gold_doc_ids": [
+      "vektor_corporate_support",
+      "vektor_compensation"
+    ],
+    "file": "vek_12_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_12",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Хорошо. И ещё: дайте мне письменно подтверждение по компенсации, чтобы потом не оказалось, что ничего не начисляли. У меня бизнес, мне нужны бумаги.",
+    "clean_text": "Хорошо. И ещё: дайте мне письменно подтверждение по компенсации, чтобы потом не оказалось, что ничего не начисляли. У меня бизнес, мне нужны бумаги.",
+    "gold_doc_ids": [
+      "vektor_compensation",
+      "vektor_corporate_support"
+    ],
+    "file": "vek_12_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_13",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Что за безобразие?! Я сменил тариф, а у меня все гигабайты, за которые я заплатил, просто испарились! И ещё абонплату новую сразу содрали! Вы меня за дурака держите? Верните мои гигабайты!",
+    "clean_text": "Что за безобразие?! Я сменил тариф, а у меня все гигабайты, за которые я заплатил, просто испарились! И ещё абонплату новую сразу содрали! Вы меня за дурака держите? Верните мои гигабайты!",
+    "gold_doc_ids": [
+      "vektor_tariff_change"
+    ],
+    "file": "vek_13_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_13",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И почему я должен был это знать? Нигде же чёткими буквами не написано! И что мне теперь, без интернета сидеть до конца месяца?",
+    "clean_text": "И почему я должен был это знать? Нигде же чёткими буквами не написано! И что мне теперь, без интернета сидеть до конца месяца?",
+    "gold_doc_ids": [
+      "vektor_tariff_change",
+      "vektor_data_limit"
+    ],
+    "file": "vek_13_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_13",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Ладно, подключите 15 гигабайт, хоть так. Спасибо, что объяснили по-человечески, а не отмахнулись.",
+    "clean_text": "Ладно, подключите 15 гигабайт, хоть так. Спасибо, что объяснили по-человечески, а не отмахнулись.",
+    "gold_doc_ids": [
+      "vektor_data_limit"
+    ],
+    "file": "vek_13_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_13",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "И чтоб я больше так не попадал — как мне в следующий раз не потерять гигабайты при смене тарифа?",
+    "clean_text": "И чтоб я больше так не попадал — как мне в следующий раз не потерять гигабайты при смене тарифа?",
+    "gold_doc_ids": [
+      "vektor_tariff_change"
+    ],
+    "file": "vek_13_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_14",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Всё, с меня хватит! Связь постоянно пропадает, цена растёт, а толку ноль! Я ухожу к другому оператору, расторгайте мой договор немедленно! Надоело платить за нервотрёпку!",
+    "clean_text": "Всё, с меня хватит! Связь постоянно пропадает, цена растёт, а толку ноль! Я ухожу к другому оператору, расторгайте мой договор немедленно! Надоело платить за нервотрёпку!",
+    "gold_doc_ids": [
+      "vektor_retention",
+      "vektor_contract_termination"
+    ],
+    "file": "vek_14_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_14",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И то, и другое! Дома вечно сеть отваливается, а плачу как за золото. У конкурентов и дешевле, и стабильнее, чего мне с вами сидеть?",
+    "clean_text": "И то, и другое! Дома вечно сеть отваливается, а плачу как за золото. У конкурентов и дешевле, и стабильнее, чего мне с вами сидеть?",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_14_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_14",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Ну... скидка двадцать пять процентов, проверка и перерасчёт, если что — это уже честно. Ладно, давайте попробуем, остаюсь пока.",
+    "clean_text": "Ну... скидка двадцать пять процентов, проверка и перерасчёт, если что — это уже честно. Ладно, давайте попробуем, остаюсь пока.",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_14_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_15",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Я в ярости! Прошлый ваш сотрудник нахамил мне и бросил трубку! А до этого с меня списали непонятно за что! Я хочу официальную жалобу, и чтобы кто-то за это ответил! Это возмутительно!",
+    "clean_text": "Я в ярости! Прошлый ваш сотрудник нахамил мне и бросил трубку! А до этого с меня списали непонятно за что! Я хочу официальную жалобу, и чтобы кто-то за это ответил! Это возмутительно!",
+    "gold_doc_ids": [
+      "vektor_complaint"
+    ],
+    "file": "vek_15_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_15",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вот давайте, покажите, за что вы у меня деньги тянете! Какие-то мелкие списания каждый день, я их не понимаю!",
+    "clean_text": "Вот давайте, покажите, за что вы у меня деньги тянете! Какие-то мелкие списания каждый день, я их не понимаю!",
+    "gold_doc_ids": [
+      "vektor_detailization",
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_15_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_15",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Отключайте всё! И что, эти деньги, что у меня уже сняли за эти подписки, тоже сгорят? Я их так и подарю вам?!",
+    "clean_text": "Отключайте всё! И что, эти деньги, что у меня уже сняли за эти подписки, тоже сгорят? Я их так и подарю вам?!",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions",
+      "vektor_refund"
+    ],
+    "file": "vek_15_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_15",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И что мне сделают с тем грубияном? Я хочу знать, что это не просто так замяли. Письменный ответ дадите?",
+    "clean_text": "И что мне сделают с тем грубияном? Я хочу знать, что это не просто так замяли. Письменный ответ дадите?",
+    "gold_doc_ids": [
+      "vektor_escalation_l2"
+    ],
+    "file": "vek_15_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_15",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Ну вот, наконец-то по существу. Подписки убрали, возврат оформили, жалобу приняли с письменным ответом. Жду тогда.",
+    "clean_text": "Ну вот, наконец-то по существу. Подписки убрали, возврат оформили, жалобу приняли с письменным ответом. Жду тогда.",
+    "gold_doc_ids": [
+      "vektor_complaint"
+    ],
+    "file": "vek_15_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_15",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "И последнее: сделайте так, чтобы меня по этой жалобе не футболили между линиями. Я не хочу пересказывать всё снова десять раз.",
+    "clean_text": "И последнее: сделайте так, чтобы меня по этой жалобе не футболили между линиями. Я не хочу пересказывать всё снова десять раз.",
+    "gold_doc_ids": [
+      "vektor_escalation_l2"
+    ],
+    "file": "vek_15_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_16",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Это просто издевательство! Сутки нет ни интернета, ни телевизора, а вы даже не удосужились предупредить! Я весь день как дурак роутер передёргиваю! За что я вам плачу, если ничего не работает?!",
+    "clean_text": "Это просто издевательство! Сутки нет ни интернета, ни телевизора, а вы даже не удосужились предупредить! Я весь день как дурак роутер передёргиваю! За что я вам плачу, если ничего не работает?!",
+    "gold_doc_ids": [
+      "vektor_home_internet_down",
+      "vektor_compensation"
+    ],
+    "file": "vek_16_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_16",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ну хоть честно сказали, что это вы виноваты! И когда почините? И что мне с того, что я сутки без всего просидел?",
+    "clean_text": "Ну хоть честно сказали, что это вы виноваты! И когда почините? И что мне с того, что я сутки без всего просидел?",
+    "gold_doc_ids": [
+      "vektor_compensation"
+    ],
+    "file": "vek_16_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_16",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А телевизор? У меня жена сериал не досмотрела, ребёнок мультики ждёт, а там чёрный экран который час! Это вы тоже почините?",
+    "clean_text": "А телевизор? У меня жена сериал не досмотрела, ребёнок мультики ждёт, а там чёрный экран который час! Это вы тоже почините?",
+    "gold_doc_ids": [
+      "vektor_tv_no_signal"
+    ],
+    "file": "vek_16_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_16",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ладно. А почему я вообще должен сам узнавать про аварии? Хоть бы смс прислали. Можно как-то сделать, чтобы предупреждали?",
+    "clean_text": "Ладно. А почему я вообще должен сам узнавать про аварии? Хоть бы смс прислали. Можно как-то сделать, чтобы предупреждали?",
+    "gold_doc_ids": [
+      "vektor_app_notifications"
+    ],
+    "file": "vek_16_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_16",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вот это по совести. Перерасчёт, бонус, ТВ само вернётся и уведомления — спасибо, хоть так. Жду, что починят сегодня.",
+    "clean_text": "Вот это по совести. Перерасчёт, бонус, ТВ само вернётся и уведомления — спасибо, хоть так. Жду, что починят сегодня.",
+    "gold_doc_ids": [
+      "vektor_compensation"
+    ],
+    "file": "vek_16_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_16",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ладно. А если такая авария повторится — мне опять весь день гадать? Хоть компенсацию в следующий раз сами начислите без моих звонков?",
+    "clean_text": "Ладно. А если такая авария повторится — мне опять весь день гадать? Хоть компенсацию в следующий раз сами начислите без моих звонков?",
+    "gold_doc_ids": [
+      "vektor_compensation"
+    ],
+    "file": "vek_16_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_17",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Меня уже достали эти звонки! По десять раз на дню «служба безопасности банка», «у вас кредит оформлен»! Сил нет! Почему вы это не блокируете?! Я за связь плачу, а получаю поток мошенников!",
+    "clean_text": "Меня уже достали эти звонки! По десять раз на дню «служба безопасности банка», «у вас кредит оформлен»! Сил нет! Почему вы это не блокируете?! Я за связь плачу, а получаю поток мошенников!",
+    "gold_doc_ids": [
+      "vektor_fraud_protection",
+      "vektor_spam_filter"
+    ],
+    "file": "vek_17_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_17",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Подключайте, и чтоб они вообще не проходили! И главное запомните: я этим мошенникам ничего не говорил, не дождутся!",
+    "clean_text": "Подключайте, и чтоб они вообще не проходили! И главное запомните: я этим мошенникам ничего не говорил, не дождутся!",
+    "gold_doc_ids": [
+      "vektor_spam_filter",
+      "vektor_suspicious_calls"
+    ],
+    "file": "vek_17_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_17",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Ну вот, давно бы так. Поставили блокировку — посмотрим, станет ли тише. Спасибо.",
+    "clean_text": "Ну вот, давно бы так. Поставили блокировку — посмотрим, станет ли тише. Спасибо.",
+    "gold_doc_ids": [
+      "vektor_spam_filter"
+    ],
+    "file": "vek_17_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_17",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "А если мне всё-таки нужный звонок прилетит с незнакомого номера, его не заблокирует случайно? А то так и важное пропущу.",
+    "clean_text": "А если мне всё-таки нужный звонок прилетит с незнакомого номера, его не заблокирует случайно? А то так и важное пропущу.",
+    "gold_doc_ids": [
+      "vektor_spam_filter"
+    ],
+    "file": "vek_17_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_18",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вы что творите?! Я оплатил час назад, деньги с карты ушли, а у меня связь отрубили! Я из-за вас важный звонок пропустил! Где мои деньги?! Немедленно включайте!",
+    "clean_text": "Вы что творите?! Я оплатил час назад, деньги с карты ушли, а у меня связь отрубили! Я из-за вас важный звонок пропустил! Где мои деньги?! Немедленно включайте!",
+    "gold_doc_ids": [
+      "vektor_topup",
+      "vektor_refund"
+    ],
+    "file": "vek_18_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_18",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Час назад, 300 рублей, чек у меня есть, номер 7782341. И почему вообще платёж за час не дошёл?! Это нормально вообще?",
+    "clean_text": "Час назад, 300 рублей, чек у меня есть, номер 7782341. И почему вообще платёж за час не дошёл?! Это нормально вообще?",
+    "gold_doc_ids": [
+      "vektor_topup"
+    ],
+    "file": "vek_18_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_18",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Заработало. Ладно. Но я не хочу каждый раз так нервничать — есть способ, чтобы это вообще не повторялось? И те 300 точно дойдут?",
+    "clean_text": "Заработало. Ладно. Но я не хочу каждый раз так нервничать — есть способ, чтобы это вообще не повторялось? И те 300 точно дойдут?",
+    "gold_doc_ids": [
+      "vektor_autopay"
+    ],
+    "file": "vek_18_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_18",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вот автоплатёж давайте. Раз разобрались и сразу включили — спасибо, претензий больше нет.",
+    "clean_text": "Вот автоплатёж давайте. Раз разобрались и сразу включили — спасибо, претензий больше нет.",
+    "gold_doc_ids": [
+      "vektor_promised_payment"
+    ],
+    "file": "vek_18_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_19",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Хочу подобрать тариф поудобнее. Сейчас плачу непонятно за что, гигабайтов вечно не хватает. Что у вас есть?",
+    "clean_text": "Здравствуйте. Хочу подобрать тариф поудобнее. Сейчас плачу непонятно за что, гигабайтов вечно не хватает. Что у вас есть?",
+    "gold_doc_ids": [
+      "vektor_tariffs_overview"
+    ],
+    "file": "vek_19_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_19",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "В основном интернет, сижу в соцсетях и видео смотрю. Звоню мало. 30 гигабайт, наверное, хватит?",
+    "clean_text": "В основном интернет, сижу в соцсетях и видео смотрю. Звоню мало. 30 гигабайт, наверное, хватит?",
+    "gold_doc_ids": [
+      "vektor_tariffs_overview",
+      "vektor_tariff_youth"
+    ],
+    "file": "vek_19_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_19",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Да, давайте «Драйв». Первая смена бесплатная же?",
+    "clean_text": "Да, давайте «Драйв». Первая смена бесплатная же?",
+    "gold_doc_ids": [
+      "vektor_tariff_change"
+    ],
+    "file": "vek_19_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_19",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Спасибо. А если на «Драйве» гигабайтов всё-таки не хватит к концу месяца — что делать?",
+    "clean_text": "Спасибо. А если на «Драйве» гигабайтов всё-таки не хватит к концу месяца — что делать?",
+    "gold_doc_ids": [
+      "vektor_data_limit"
+    ],
+    "file": "vek_19_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_20",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Добрый день. Купил новый телефон с поддержкой eSIM, хочу перенести свой номер на неё. Это реально?",
+    "clean_text": "Добрый день. Купил новый телефон с поддержкой eSIM, хочу перенести свой номер на неё. Это реально?",
+    "gold_doc_ids": [
+      "vektor_esim"
+    ],
+    "file": "vek_20_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_20",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, телефон чистый, не залочен, Wi-Fi есть. Жду код, спасибо!",
+    "clean_text": "Отлично, телефон чистый, не залочен, Wi-Fi есть. Жду код, спасибо!",
+    "gold_doc_ids": [
+      "vektor_esim"
+    ],
+    "file": "vek_20_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_21",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте, через неделю лечу в Турцию. Хочу заранее подключить роуминг, чтобы не влететь на деньги.",
+    "clean_text": "Здравствуйте, через неделю лечу в Турцию. Хочу заранее подключить роуминг, чтобы не влететь на деньги.",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_21_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_21",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Звучит нормально. Подключите, пожалуйста. И что ещё сделать перед поездкой?",
+    "clean_text": "Звучит нормально. Подключите, пожалуйста. И что ещё сделать перед поездкой?",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_21_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_21",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Понял, спасибо большое! Удобно, что только за дни использования.",
+    "clean_text": "Понял, спасибо большое! Удобно, что только за дни использования.",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_21_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_21",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "А если я ещё в одну страну заскочу по дороге, опция там тоже сработает или надо отдельно что-то делать?",
+    "clean_text": "А если я ещё в одну страну заскочу по дороге, опция там тоже сработает или надо отдельно что-то делать?",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_21_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_22",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Добрый вечер. Хочу смотреть футбол на вашем ТВ, а нужных каналов нет. Как добавить?",
+    "clean_text": "Добрый вечер. Хочу смотреть футбол на вашем ТВ, а нужных каналов нет. Как добавить?",
+    "gold_doc_ids": [
+      "vektor_tv_packages"
+    ],
+    "file": "vek_22_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_22",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Хорошо, подключайте «Спорт Про». Как потом каналы появятся?",
+    "clean_text": "Хорошо, подключайте «Спорт Про». Как потом каналы появятся?",
+    "gold_doc_ids": [
+      "vektor_tv_packages",
+      "vektor_tv_channels"
+    ],
+    "file": "vek_22_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_22",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Супер, как раз к матчу успею. Спасибо!",
+    "clean_text": "Супер, как раз к матчу успею. Спасибо!",
+    "gold_doc_ids": [
+      "vektor_tv_packages"
+    ],
+    "file": "vek_22_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_22",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Отлично. А записать матч можно, если я не успею к эфиру? Иногда поздно с работы прихожу.",
+    "clean_text": "Отлично. А записать матч можно, если я не успею к эфиру? Иногда поздно с работы прихожу.",
+    "gold_doc_ids": [
+      "vektor_tv_recording"
+    ],
+    "file": "vek_22_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_23",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Постоянно забываю пополнять счёт и остаюсь без связи. Хочу настроить автопополнение.",
+    "clean_text": "Здравствуйте. Постоянно забываю пополнять счёт и остаюсь без связи. Хочу настроить автопополнение.",
+    "gold_doc_ids": [
+      "vektor_autopay"
+    ],
+    "file": "vek_23_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_23",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Давайте по порогу, чтобы пополнялось, когда мало остаётся. А карта у меня привязана?",
+    "clean_text": "Давайте по порогу, чтобы пополнялось, когда мало остаётся. А карта у меня привязана?",
+    "gold_doc_ids": [
+      "vektor_autopay"
+    ],
+    "file": "vek_23_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_23",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Поставил порог 100 рублей и сумму 300. Готово вроде. А если карта вдруг истечёт?",
+    "clean_text": "Поставил порог 100 рублей и сумму 300. Готово вроде. А если карта вдруг истечёт?",
+    "gold_doc_ids": [
+      "vektor_autopay"
+    ],
+    "file": "vek_23_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_24",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Добрый день! Хочу перейти к вам от другого оператора, но сохранить свой номер. Расскажите, как это работает?",
+    "clean_text": "Добрый день! Хочу перейти к вам от другого оператора, но сохранить свой номер. Расскажите, как это работает?",
+    "gold_doc_ids": [
+      "vektor_mnp_in"
+    ],
+    "file": "vek_24_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_24",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "А есть какие-то условия? Не хочется, чтобы отказали.",
+    "clean_text": "А есть какие-то условия? Не хочется, чтобы отказали.",
+    "gold_doc_ids": [
+      "vektor_mnp_in"
+    ],
+    "file": "vek_24_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_24",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Долгов нет, всё на меня оформлено. Тогда оформлюсь онлайн сегодня. А статус смогу отслеживать?",
+    "clean_text": "Долгов нет, всё на меня оформлено. Тогда оформлюсь онлайн сегодня. А статус смогу отслеживать?",
+    "gold_doc_ids": [
+      "vektor_mnp_status"
+    ],
+    "file": "vek_24_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_25",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. В дальней комнате Wi-Fi почти не ловит, у окна совсем пропадает. С роутером что-то не так?",
+    "clean_text": "Здравствуйте. В дальней комнате Wi-Fi почти не ловит, у окна совсем пропадает. С роутером что-то не так?",
+    "gold_doc_ids": [
+      "vektor_wifi_weak"
+    ],
+    "file": "vek_25_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_25",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Кажется, к той, что с «-5G». А есть разница?",
+    "clean_text": "Кажется, к той, что с «-5G». А есть разница?",
+    "gold_doc_ids": [
+      "vektor_wifi_weak"
+    ],
+    "file": "vek_25_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_25",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Переключился на обычную сеть — стало заметно лучше! Но всё равно у окна слабовато. Что ещё можно?",
+    "clean_text": "Переключился на обычную сеть — стало заметно лучше! Но всё равно у окна слабовато. Что ещё можно?",
+    "gold_doc_ids": [
+      "vektor_wifi_weak",
+      "vektor_mesh_repeater"
+    ],
+    "file": "vek_25_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_25",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "А этот mesh сложно ставить? Я в технике не очень, боюсь сам не справлюсь.",
+    "clean_text": "А этот mesh сложно ставить? Я в технике не очень, боюсь сам не справлюсь.",
+    "gold_doc_ids": [
+      "vektor_mesh_repeater",
+      "vektor_technician_visit"
+    ],
+    "file": "vek_25_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_26",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Добрый день. Уезжаю в отпуск, хочу, чтобы звонки шли на номер коллеги. Как настроить переадресацию?",
+    "clean_text": "Добрый день. Уезжаю в отпуск, хочу, чтобы звонки шли на номер коллеги. Как настроить переадресацию?",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_26_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_26",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "А как потом отключить, когда вернусь?",
+    "clean_text": "А как потом отключить, когда вернусь?",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_26_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_26",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Понятно. А если коллега не возьмёт, можно чтобы сообщение оставляли?",
+    "clean_text": "Понятно. А если коллега не возьмёт, можно чтобы сообщение оставляли?",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_26_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_27",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Здравствуйте! Увидел на приставке раздел «Вектор Кино». Что это, фильмы платные?",
+    "clean_text": "Здравствуйте! Увидел на приставке раздел «Вектор Кино». Что это, фильмы платные?",
+    "gold_doc_ids": [
+      "vektor_online_cinema"
+    ],
+    "file": "vek_27_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_27",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] О, пробный период есть — хочу попробовать. Как оформить?",
+    "clean_text": "О, пробный период есть — хочу попробовать. Как оформить?",
+    "gold_doc_ids": [
+      "vektor_online_cinema"
+    ],
+    "file": "vek_27_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_27",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Класс, оформил пробный. Спасибо за подсказку!",
+    "clean_text": "Класс, оформил пробный. Спасибо за подсказку!",
+    "gold_doc_ids": [
+      "vektor_online_cinema"
+    ],
+    "file": "vek_27_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_27",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Класс. А на телефоне в дороге это кино тоже можно смотреть или только на телевизоре?",
+    "clean_text": "Класс. А на телефоне в дороге это кино тоже можно смотреть или только на телевизоре?",
+    "gold_doc_ids": [
+      "vektor_tv_app"
+    ],
+    "file": "vek_27_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_28",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Добрый день. Через месяц переезжаю в новую квартиру. Можно перенести туда домашний интернет «Вектор»?",
+    "clean_text": "Добрый день. Через месяц переезжаю в новую квартиру. Можно перенести туда домашний интернет «Вектор»?",
+    "gold_doc_ids": [
+      "vektor_home_relocation"
+    ],
+    "file": "vek_28_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_28",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Улица Лесная, дом 14. Проверьте, пожалуйста. И роутер мне новый покупать?",
+    "clean_text": "Улица Лесная, дом 14. Проверьте, пожалуйста. И роутер мне новый покупать?",
+    "gold_doc_ids": [
+      "vektor_home_relocation"
+    ],
+    "file": "vek_28_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_28",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Отлично. А это платно? И как с интернетом в те дни, пока я переезжаю и линию ещё не подключили?",
+    "clean_text": "Отлично. А это платно? И как с интернетом в те дни, пока я переезжаю и линию ещё не подключили?",
+    "gold_doc_ids": [
+      "vektor_home_relocation",
+      "vektor_service_suspend"
+    ],
+    "file": "vek_28_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_28",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Удобно. А ТВ-приставку тоже забрать с собой и она там заработает? У меня же ещё телевидение от вас.",
+    "clean_text": "Удобно. А ТВ-приставку тоже забрать с собой и она там заработает? У меня же ещё телевидение от вас.",
+    "gold_doc_ids": [
+      "vektor_tv_setup"
+    ],
+    "file": "vek_28_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_28",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Понял, всё забираю с собой. Спасибо, очень удобно, что ничего заново покупать не надо!",
+    "clean_text": "Понял, всё забираю с собой. Спасибо, очень удобно, что ничего заново покупать не надо!",
+    "gold_doc_ids": [
+      "vektor_home_relocation"
+    ],
+    "file": "vek_28_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_28",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Понятно. А скорость на новом адресе будет такая же по моему тарифу? Не хочу потерять в качестве после переезда.",
+    "clean_text": "Понятно. А скорость на новом адресе будет такая же по моему тарифу? Не хочу потерять в качестве после переезда.",
+    "gold_doc_ids": [
+      "vektor_home_speed_slow",
+      "vektor_home_relocation"
+    ],
+    "file": "vek_28_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_29",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Хочу понять, куда уходят деньги — баланс тает быстрее, чем должен. Можно как-то посмотреть все списания?",
+    "clean_text": "Здравствуйте. Хочу понять, куда уходят деньги — баланс тает быстрее, чем должен. Можно как-то посмотреть все списания?",
+    "gold_doc_ids": [
+      "vektor_detailization"
+    ],
+    "file": "vek_29_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_29",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Давайте за последний месяц. И можно ли потом самому такое смотреть, без звонка вам?",
+    "clean_text": "Давайте за последний месяц. И можно ли потом самому такое смотреть, без звонка вам?",
+    "gold_doc_ids": [
+      "vektor_detailization"
+    ],
+    "file": "vek_29_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_29",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Получил, спасибо. Вижу какие-то мелкие списания по 20 рублей почти каждый день — что это?",
+    "clean_text": "Получил, спасибо. Вижу какие-то мелкие списания по 20 рублей почти каждый день — что это?",
+    "gold_doc_ids": [
+      "vektor_detailization",
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_29_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_29",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Да, отключите всё лишнее и защиту поставьте. А ещё там есть списание побольше, рублей сто, раз в месяц — это что, тоже подписка?",
+    "clean_text": "Да, отключите всё лишнее и защиту поставьте. А ещё там есть списание побольше, рублей сто, раз в месяц — это что, тоже подписка?",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions",
+      "vektor_extra_services"
+    ],
+    "file": "vek_29_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_29",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Точно, голосовая почта, я ей не пользуюсь. Отключайте. Вот они откуда, эти траты. Спасибо, что помогли разобраться!",
+    "clean_text": "Точно, голосовая почта, я ей не пользуюсь. Отключайте. Вот они откуда, эти траты. Спасибо, что помогли разобраться!",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_29_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_29",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Спасибо. А чтобы я вообще держал расходы под контролем — есть способ видеть остатки и баланс быстро, не открывая детализацию каждый раз?",
+    "clean_text": "Спасибо. А чтобы я вообще держал расходы под контролем — есть способ видеть остатки и баланс быстро, не открывая детализацию каждый раз?",
+    "gold_doc_ids": [
+      "vektor_balance_check"
+    ],
+    "file": "vek_29_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_30",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Добрый день! У нас в семье четыре телефона, платим за каждый отдельно, выходит дорого. Можно что-то выгоднее?",
+    "clean_text": "Добрый день! У нас в семье четыре телефона, платим за каждый отдельно, выходит дорого. Можно что-то выгоднее?",
+    "gold_doc_ids": [
+      "vektor_tariff_family",
+      "vektor_tariffs_overview"
+    ],
+    "file": "vek_30_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_30",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Звучит хорошо. А гигабайты общие — если кто-то много потратит, другим не хватит?",
+    "clean_text": "Звучит хорошо. А гигабайты общие — если кто-то много потратит, другим не хватит?",
+    "gold_doc_ids": [
+      "vektor_tariff_family"
+    ],
+    "file": "vek_30_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_30",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Удобно. А у нас бабушка пожилая, ей много интернета не надо, в основном звонки. Её тоже в семью подключать или ей что-то отдельное лучше?",
+    "clean_text": "Удобно. А у нас бабушка пожилая, ей много интернета не надо, в основном звонки. Её тоже в семью подключать или ей что-то отдельное лучше?",
+    "gold_doc_ids": [
+      "vektor_tariff_senior"
+    ],
+    "file": "vek_30_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_30",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, так и сделаем: нас четверых в семью, бабушку на пенсионный. А оплачивать одним платежом и чтобы не забывать — автопополнение можно?",
+    "clean_text": "Отлично, так и сделаем: нас четверых в семью, бабушку на пенсионный. А оплачивать одним платежом и чтобы не забывать — автопополнение можно?",
+    "gold_doc_ids": [
+      "vektor_payment_methods",
+      "vektor_autopay"
+    ],
+    "file": "vek_30_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_30",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Здорово. А детям можно поставить ограничение по гигабайтам внутри семьи, чтобы они весь пакет за неделю не скачали?",
+    "clean_text": "Здорово. А детям можно поставить ограничение по гигабайтам внутри семьи, чтобы они весь пакет за неделю не скачали?",
+    "gold_doc_ids": [
+      "vektor_tariff_family"
+    ],
+    "file": "vek_30_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_30",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, всё как надо. Тогда оформляйте всё: семью, бабушку на пенсионный, лимиты детям и автоплатёж. Спасибо за подробное объяснение!",
+    "clean_text": "Отлично, всё как надо. Тогда оформляйте всё: семью, бабушку на пенсионный, лимиты детям и автоплатёж. Спасибо за подробное объяснение!",
+    "gold_doc_ids": [
+      "vektor_tariff_family",
+      "vektor_autopay"
+    ],
+    "file": "vek_30_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_31",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... простите, у меня голос дрожит. Сына не стало месяц назад, ему было двадцать три... Остался его телефон, совсем новый, там eSIM, без обычной карточки. Я хочу, чтобы его номер жил в этом аппарате, чтобы я могла иногда набрать и услышать гудок. Я ничего не понимаю в этих технологиях, помогите, пожалуйста.",
+    "clean_text": "Здравствуйте... простите, у меня голос дрожит. Сына не стало месяц назад, ему было двадцать три... Остался его телефон, совсем новый, там eSIM, без обычной карточки. Я хочу, чтобы его номер жил в этом аппарате, чтобы я могла иногда набрать и услышать гудок. Я ничего не понимаю в этих технологиях, помогите, пожалуйста.",
+    "gold_doc_ids": [
+      "vektor_esim"
+    ],
+    "file": "vek_31_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_31",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А этот код... я смогу сама? У меня руки трясутся, и я боюсь нажать что-то не так и потерять номер навсегда. Это ведь последнее, что от него осталось.",
+    "clean_text": "А этот код... я смогу сама? У меня руки трясутся, и я боюсь нажать что-то не так и потерять номер навсегда. Это ведь последнее, что от него осталось.",
+    "gold_doc_ids": [
+      "vektor_esim"
+    ],
+    "file": "vek_31_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_31",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Wi-Fi у меня дома есть... сейчас попробую навести камеру. А если профиль не загрузится, что тогда? Я опять разревусь, простите меня.",
+    "clean_text": "Wi-Fi у меня дома есть... сейчас попробую навести камеру. А если профиль не загрузится, что тогда? Я опять разревусь, простите меня.",
+    "gold_doc_ids": [
+      "vektor_esim"
+    ],
+    "file": "vek_31_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_31",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Получилось... появилось его имя на экране. Спасибо вам, что не торопили и были по-человечески рядом. Мне сейчас это очень важно.",
+    "clean_text": "Получилось... появилось его имя на экране. Спасибо вам, что не торопили и были по-человечески рядом. Мне сейчас это очень важно.",
+    "gold_doc_ids": [
+      "vektor_esim"
+    ],
+    "file": "vek_31_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_32",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Милая моя, я тут совсем одна осталась, дочка далеко, звонит раз в месяц, и то если успеет... А я то у плиты, то задремлю, и пропускаю её звонок, а потом плачу полночи, что не услышала её голос. Можно как-то сделать, чтобы она могла мне хоть словечко наговорить, если я не возьму трубку?",
+    "clean_text": "Милая моя, я тут совсем одна осталась, дочка далеко, звонит раз в месяц, и то если успеет... А я то у плиты, то задремлю, и пропускаю её звонок, а потом плачу полночи, что не услышала её голос. Можно как-то сделать, чтобы она могла мне хоть словечко наговорить, если я не возьму трубку?",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_32_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_32",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А как же я потом её голос послушаю? Я ведь в кнопках путаюсь, боюсь не разберусь и опять упущу...",
+    "clean_text": "А как же я потом её голос послушаю? Я ведь в кнопках путаюсь, боюсь не разберусь и опять упущу...",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_32_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_33",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... извините, я держусь из последних сил. Развелась, забрала двоих детей и съезжаю из нашей квартиры на съёмную, всё рушится. Единственное, за что я цепляюсь, чтобы у детей хоть интернет работал на новом месте, чтоб они уроки делали и не чувствовали, что весь мир развалился. Можно перенести ваш интернет на другой адрес?",
+    "clean_text": "Здравствуйте... извините, я держусь из последних сил. Развелась, забрала двоих детей и съезжаю из нашей квартиры на съёмную, всё рушится. Единственное, за что я цепляюсь, чтобы у детей хоть интернет работал на новом месте, чтоб они уроки делали и не чувствовали, что весь мир развалился. Можно перенести ваш интернет на другой адрес?",
+    "gold_doc_ids": [
+      "vektor_home_relocation"
+    ],
+    "file": "vek_33_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_33",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Улица Полевая, дом 14. А если у вас там нет возможности? Я просто не выдержу ещё и это, у меня на новый роутер денег нет совсем...",
+    "clean_text": "Улица Полевая, дом 14. А если у вас там нет возможности? Я просто не выдержу ещё и это, у меня на новый роутер денег нет совсем...",
+    "gold_doc_ids": [
+      "vektor_home_relocation"
+    ],
+    "file": "vek_33_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_33",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Бесплатно?.. А я уже боялась даже спрашивать про цену. Мы заезжаем только через две недели, до этого квартира пустая стоит. За эти дни ведь абонплата зря капать будет?",
+    "clean_text": "Бесплатно?.. А я уже боялась даже спрашивать про цену. Мы заезжаем только через две недели, до этого квартира пустая стоит. За эти дни ведь абонплата зря капать будет?",
+    "gold_doc_ids": [
+      "vektor_home_relocation",
+      "vektor_service_suspend"
+    ],
+    "file": "vek_33_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_33",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А мастер... он точно приедет, когда мы заедем? Я не смогу отпрашиваться с работы по нескольку раз, у меня теперь всё на мне держится.",
+    "clean_text": "А мастер... он точно приедет, когда мы заедем? Я не смогу отпрашиваться с работы по нескольку раз, у меня теперь всё на мне держится.",
+    "gold_doc_ids": [
+      "vektor_technician_visit"
+    ],
+    "file": "vek_33_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_33",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Спасибо вам огромное. Вы первый человек за этот месяц, кто просто помог и не сделал больно. Хоть с этим теперь спокойно.",
+    "clean_text": "Спасибо вам огромное. Вы первый человек за этот месяц, кто просто помог и не сделал больно. Хоть с этим теперь спокойно.",
+    "gold_doc_ids": [
+      "vektor_home_relocation"
+    ],
+    "file": "vek_33_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_33",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "А с оплатой как? Если денег в обрез, можно ли на новом месте на тариф подешевле перейти, чтоб полегче было?",
+    "clean_text": "А с оплатой как? Если денег в обрез, можно ли на новом месте на тариф подешевле перейти, чтоб полегче было?",
+    "gold_doc_ids": [
+      "vektor_home_tariffs"
+    ],
+    "file": "vek_33_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_34",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Дочка... я такой дурак старый, мне так стыдно, что и сказать боюсь. Позвонили, сказали из безопасности, что мой счёт грабят, я испугался, продиктовал им коды из эсэмэс... А там были все деньги, что мы с покойной женой на похороны откладывали. Теперь и проститься по-человечески не на что. Что мне делать, я всю ночь не сплю.",
+    "clean_text": "Дочка... я такой дурак старый, мне так стыдно, что и сказать боюсь. Позвонили, сказали из безопасности, что мой счёт грабят, я испугался, продиктовал им коды из эсэмэс... А там были все деньги, что мы с покойной женой на похороны откладывали. Теперь и проститься по-человечески не на что. Что мне делать, я всю ночь не сплю.",
+    "gold_doc_ids": [
+      "vektor_suspicious_calls"
+    ],
+    "file": "vek_34_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_34",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Я позвонил уже, карту заблокировали... А они ведь теперь и номер мой могут забрать? Они так напирали, я боюсь, что они и до телефона доберутся.",
+    "clean_text": "Я позвонил уже, карту заблокировали... А они ведь теперь и номер мой могут забрать? Они так напирали, я боюсь, что они и до телефона доберутся.",
+    "gold_doc_ids": [
+      "vektor_suspicious_calls",
+      "vektor_account_security"
+    ],
+    "file": "vek_34_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_34",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Спасибо... хоть номер цел. Включите эту защиту, пожалуйста, чтобы они больше не дозвонились до меня.",
+    "clean_text": "Спасибо... хоть номер цел. Включите эту защиту, пожалуйста, чтобы они больше не дозвонились до меня.",
+    "gold_doc_ids": [
+      "vektor_fraud_protection"
+    ],
+    "file": "vek_34_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_34",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Спасибо... а пароли эти как сменить? Я ведь и в кабинете вашем боюсь теперь, вдруг и туда они влезли.",
+    "clean_text": "Спасибо... а пароли эти как сменить? Я ведь и в кабинете вашем боюсь теперь, вдруг и туда они влезли.",
+    "gold_doc_ids": [
+      "vektor_account_security"
+    ],
+    "file": "vek_34_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_35",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Добрый день... у меня недавно умер муж, его номер пока остаётся у меня. На него до сих пор звонят его друзья, сослуживцы, кто ещё не знает... А я ношу два телефона, и его всё время забываю, пропускаю. Можно сделать, чтобы звонки с его номера приходили на мой, мне так будет легче с ними говорить.",
+    "clean_text": "Добрый день... у меня недавно умер муж, его номер пока остаётся у меня. На него до сих пор звонят его друзья, сослуживцы, кто ещё не знает... А я ношу два телефона, и его всё время забываю, пропускаю. Можно сделать, чтобы звонки с его номера приходили на мой, мне так будет легче с ними говорить.",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_35_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_35",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А как её включить? Я в этих кодах совсем не разбираюсь, боюсь напутать.",
+    "clean_text": "А как её включить? Я в этих кодах совсем не разбираюсь, боюсь напутать.",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_35_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_36",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... мы с мужем завтра вылетаем на лечение, у него тяжёлая болезнь, последняя надежда. Сначала клиника в Турции, потом, если возьмут, в Израиль. Я вся на нервах, ничего не соображаю. Мне нужно, чтобы телефон точно работал там, врачи будут писать, дети здесь будут ждать новостей. Я не могу остаться без связи в такой момент, понимаете?",
+    "clean_text": "Здравствуйте... мы с мужем завтра вылетаем на лечение, у него тяжёлая болезнь, последняя надежда. Сначала клиника в Турции, потом, если возьмут, в Израиль. Я вся на нервах, ничего не соображаю. Мне нужно, чтобы телефон точно работал там, врачи будут писать, дети здесь будут ждать новостей. Я не могу остаться без связи в такой момент, понимаете?",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_36_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_36",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А интернета хватит? Я ведь буду каждый анализ, каждый снимок врачам пересылать, и детям фото... Если вдруг кончится, я же не смогу написать, когда нужнее всего.",
+    "clean_text": "А интернета хватит? Я ведь буду каждый анализ, каждый снимок врачам пересылать, и детям фото... Если вдруг кончится, я же не смогу написать, когда нужнее всего.",
+    "gold_doc_ids": [
+      "vektor_roaming_world",
+      "vektor_roaming_packages"
+    ],
+    "file": "vek_36_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_36",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Давайте этот. А что мне сделать, чтобы оно точно заработало прямо в аэропорту, когда прилетим? Я боюсь стоять там одна с молчащим телефоном.",
+    "clean_text": "Давайте этот. А что мне сделать, чтобы оно точно заработало прямо в аэропорту, когда прилетим? Я боюсь стоять там одна с молчащим телефоном.",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_36_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_36",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А если вдруг там не появится сеть? У меня сердце оборвётся, если я не дозвонюсь детям после операции.",
+    "clean_text": "А если вдруг там не появится сеть? У меня сердце оборвётся, если я не дозвонюсь детям после операции.",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_36_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_36",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А деньги... я ведь не знаю, на сколько недель мы там застрянем. Эти 499 в сутки каждый день будут списываться, даже когда я просто рядом с мужем в палате сижу и не пишу?",
+    "clean_text": "А деньги... я ведь не знаю, на сколько недель мы там застрянем. Эти 499 в сутки каждый день будут списываться, даже когда я просто рядом с мужем в палате сижу и не пишу?",
+    "gold_doc_ids": [
+      "vektor_roaming_packages"
+    ],
+    "file": "vek_36_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_36",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Хорошо... спасибо вам. Хоть телефон теперь не будет лишней тревогой. Вы меня немножко успокоили.",
+    "clean_text": "Хорошо... спасибо вам. Хоть телефон теперь не будет лишней тревогой. Вы меня немножко успокоили.",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_36_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_37",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Добрый день... мне неловко звонить с таким. Меня сократили два месяца назад, деньги кончились, на счету ноль. А связь мне нужна как воздух, я через неё рассылаю резюме, жду звонков с собеседований. И тут как назло отключили. Я будто в яму проваливаюсь, без телефона я вообще никому не дозвонюсь.",
+    "clean_text": "Добрый день... мне неловко звонить с таким. Меня сократили два месяца назад, деньги кончились, на счету ноль. А связь мне нужна как воздух, я через неё рассылаю резюме, жду звонков с собеседований. И тут как назло отключили. Я будто в яму проваливаюсь, без телефона я вообще никому не дозвонюсь.",
+    "gold_doc_ids": [
+      "vektor_promised_payment"
+    ],
+    "file": "vek_37_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_37",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Подключите, пожалуйста, любую сумму, лишь бы заработало. А если я и через пять дней не найду денег? Я ведь не знаю, когда меня возьмут...",
+    "clean_text": "Подключите, пожалуйста, любую сумму, лишь бы заработало. А если я и через пять дней не найду денег? Я ведь не знаю, когда меня возьмут...",
+    "gold_doc_ids": [
+      "vektor_promised_payment"
+    ],
+    "file": "vek_37_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_37",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Спасибо. У меня ещё дома ваш интернет есть, но я им сейчас почти не пользуюсь, всё с телефона. Можно его как-то приостановить, чтоб не платить, пока я на мели?",
+    "clean_text": "Спасибо. У меня ещё дома ваш интернет есть, но я им сейчас почти не пользуюсь, всё с телефона. Можно его как-то приостановить, чтоб не платить, пока я на мели?",
+    "gold_doc_ids": [
+      "vektor_service_suspend"
+    ],
+    "file": "vek_37_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_37",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Хорошо, заморозьте. А мобильный тариф можно на что-то подешевле сменить? Мне сейчас гигабайты эти все не нужны, лишь бы звонки принимать.",
+    "clean_text": "Хорошо, заморозьте. А мобильный тариф можно на что-то подешевле сменить? Мне сейчас гигабайты эти все не нужны, лишь бы звонки принимать.",
+    "gold_doc_ids": [
+      "vektor_tariff_change"
+    ],
+    "file": "vek_37_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_37",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "Спасибо вам, правда. Хоть кто-то по-человечески, а не просто «нет денег, до свидания».",
+    "clean_text": "Спасибо вам, правда. Хоть кто-то по-человечески, а не просто «нет денег, до свидания».",
+    "gold_doc_ids": [
+      "vektor_promised_payment"
+    ],
+    "file": "vek_37_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_38",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... внучок у меня теперь на руках, родителей его в аварии не стало в феврале. Ему девять, в школу один ходит, а у меня сердце не на месте, вдруг что. Хочу ему телефончик подключить, недорого, и чтоб я видела, где он, и чтоб всякие чужие звонки до него не лезли. Я в пенсии своей считаю каждую копейку, но за него любые деньги отдам.",
+    "clean_text": "Здравствуйте... внучок у меня теперь на руках, родителей его в аварии не стало в феврале. Ему девять, в школу один ходит, а у меня сердце не на месте, вдруг что. Хочу ему телефончик подключить, недорого, и чтоб я видела, где он, и чтоб всякие чужие звонки до него не лезли. Я в пенсии своей считаю каждую копейку, но за него любые деньги отдам.",
+    "gold_doc_ids": [
+      "vektor_tariff_family"
+    ],
+    "file": "vek_38_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_38",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А эти мошенники, что старикам звонят, до него не доберутся? Я очень за это боюсь, он же доверчивый совсем.",
+    "clean_text": "А эти мошенники, что старикам звонят, до него не доберутся? Я очень за это боюсь, он же доверчивый совсем.",
+    "gold_doc_ids": [
+      "vektor_spam_filter"
+    ],
+    "file": "vek_38_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_39",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... у меня к вам очень личная просьба, я еле говорю. Папа полгода назад был в передаче на местном канале, я тогда нажала запись на вашей приставке. Папы не стало в апреле, и эта запись единственное видео, где он живой, говорит, улыбается. А сегодня зашла, её нет в «Моих записях». Я в панике, я не переживу, если она пропала.",
+    "clean_text": "Здравствуйте... у меня к вам очень личная просьба, я еле говорю. Папа полгода назад был в передаче на местном канале, я тогда нажала запись на вашей приставке. Папы не стало в апреле, и эта запись единственное видео, где он живой, говорит, улыбается. А сегодня зашла, её нет в «Моих записях». Я в панике, я не переживу, если она пропала.",
+    "gold_doc_ids": [
+      "vektor_tv_recording"
+    ],
+    "file": "vek_39_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_39",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] В корзине пусто... Скажите, что она у вас есть, пожалуйста. Может, место закончилось и она сама стёрлась? У меня же всего двадцать часов бесплатно было.",
+    "clean_text": "В корзине пусто... Скажите, что она у вас есть, пожалуйста. Может, место закончилось и она сама стёрлась? У меня же всего двадцать часов бесплатно было.",
+    "gold_doc_ids": [
+      "vektor_tv_recording"
+    ],
+    "file": "vek_39_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_39",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Слава богу, она цела... Спасибо, что не отмахнулись. Подключите этот архив, мне теперь страшно её потерять.",
+    "clean_text": "Слава богу, она цела... Спасибо, что не отмахнулись. Подключите этот архив, мне теперь страшно её потерять.",
+    "gold_doc_ids": [
+      "vektor_tv_recording"
+    ],
+    "file": "vek_39_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_39",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.4,
+    "send_text": "А эти двадцать часов бесплатных... мне их теперь хватит? Я ведь хочу ещё пару передач с ним сохранить, где он был раньше.",
+    "clean_text": "А эти двадцать часов бесплатных... мне их теперь хватит? Я ведь хочу ещё пару передач с ним сохранить, где он был раньше.",
+    "gold_doc_ids": [
+      "vektor_tv_recording"
+    ],
+    "file": "vek_39_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_40",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Так, объясните мне, что у вас за бардак! Я ухожу от вас к другому оператору, заявление подал, дату назначили на вчера. И что? Сегодня уже сутки прошли, а у меня всё ещё ваша сеть и номер не переключился! Вы что, специально держите меня, чтоб не отпустить?!",
+    "clean_text": "Так, объясните мне, что у вас за бардак! Я ухожу от вас к другому оператору, заявление подал, дату назначили на вчера. И что? Сегодня уже сутки прошли, а у меня всё ещё ваша сеть и номер не переключился! Вы что, специально держите меня, чтоб не отпустить?!",
+    "gold_doc_ids": [
+      "vektor_mnp_out"
+    ],
+    "file": "vek_40_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_40",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Долгов нет, баланс в ноль вывел, данные те же, что в паспорте! Я всё сделал как положено, а застряло у вас. Сколько мне ещё ждать, у меня телефон для работы!",
+    "clean_text": "Долгов нет, баланс в ноль вывел, данные те же, что в паспорте! Я всё сделал как положено, а застряло у вас. Сколько мне ещё ждать, у меня телефон для работы!",
+    "gold_doc_ids": [
+      "vektor_mnp_out",
+      "vektor_mnp_status"
+    ],
+    "file": "vek_40_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_40",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Сейчас, диктую: 778210. Хоть кто-то занялся делом. И сколько теперь ждать переключения?",
+    "clean_text": "Сейчас, диктую: 778210. Хоть кто-то занялся делом. И сколько теперь ждать переключения?",
+    "gold_doc_ids": [
+      "vektor_mnp_out"
+    ],
+    "file": "vek_40_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_40",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "А баланс мой остаточный? Я же в ноль вывел перед уходом. Ничего не зависнет?",
+    "clean_text": "А баланс мой остаточный? Я же в ноль вывел перед уходом. Ничего не зависнет?",
+    "gold_doc_ids": [
+      "vektor_mnp_out"
+    ],
+    "file": "vek_40_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_41",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Слушайте, у меня сейчас весь бизнес стоит из-за вас! Ваша виртуальная АТС, «Вектор Облако», не принимает звонки, клиенты жалуются, что у меня вечно занято или сбрасывает! У меня сезон, каждый звонок это заказ, а я теряю их пачками по вашей вине! Это деньги из моего кармана, вы понимаете?!",
+    "clean_text": "Слушайте, у меня сейчас весь бизнес стоит из-за вас! Ваша виртуальная АТС, «Вектор Облако», не принимает звонки, клиенты жалуются, что у меня вечно занято или сбрасывает! У меня сезон, каждый звонок это заказ, а я теряю их пачками по вашей вине! Это деньги из моего кармана, вы понимаете?!",
+    "gold_doc_ids": [
+      "vektor_virtual_pbx"
+    ],
+    "file": "vek_41_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_41",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] «Облако Про», тридцать сотрудников! Меню вроде отвечает, а дальше гудки и сброс. Менеджеры на местах, телефоны включены, но звонки до них не доходят! Что у вас сломалось?!",
+    "clean_text": "«Облако Про», тридцать сотрудников! Меню вроде отвечает, а дальше гудки и сброс. Менеджеры на местах, телефоны включены, но звонки до них не доходят! Что у вас сломалось?!",
+    "gold_doc_ids": [
+      "vektor_virtual_pbx"
+    ],
+    "file": "vek_41_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_41",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Так чините уже! У меня телефоны разрываются, а толку ноль. И я хочу понять, мне это компенсируют? Я плачу вам почти пять тысяч в месяц не за простой!",
+    "clean_text": "Так чините уже! У меня телефоны разрываются, а толку ноль. И я хочу понять, мне это компенсируют? Я плачу вам почти пять тысяч в месяц не за простой!",
+    "gold_doc_ids": [
+      "vektor_virtual_pbx",
+      "vektor_corporate_support"
+    ],
+    "file": "vek_41_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_41",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ладно. А пока чините, я что, так и буду заказы терять? Можно хоть временно завернуть все звонки на мой мобильный, чтоб я их сам принимал?",
+    "clean_text": "Ладно. А пока чините, я что, так и буду заказы терять? Можно хоть временно завернуть все звонки на мой мобильный, чтоб я их сам принимал?",
+    "gold_doc_ids": [
+      "vektor_virtual_pbx",
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_41_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_41",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Вот это по делу. Заворачивайте на мобильный и чините маршрутизацию. Жду, чтоб к вечеру всё было в норме.",
+    "clean_text": "Вот это по делу. Заворачивайте на мобильный и чините маршрутизацию. Жду, чтоб к вечеру всё было в норме.",
+    "gold_doc_ids": [
+      "vektor_corporate_support"
+    ],
+    "file": "vek_41_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_41",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "И ещё: чтобы такое больше не повторялось, можно как-то заранее узнавать о сбоях, а не от клиентов? Я не хочу опять вслепую сидеть.",
+    "clean_text": "И ещё: чтобы такое больше не повторялось, можно как-то заранее узнавать о сбоях, а не от клиентов? Я не хочу опять вслепую сидеть.",
+    "gold_doc_ids": [
+      "vektor_corporate_support"
+    ],
+    "file": "vek_41_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_42",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да сколько можно! У меня же подключён ваш антиспам, я за него плачу, а мне по десять раз на дню звонят какие-то мошенники, «служба безопасности», «выгодный кредит»! Зачем мне эта услуга, если она ни черта не блокирует?! Деньги дерёте, а толку ноль!",
+    "clean_text": "Да сколько можно! У меня же подключён ваш антиспам, я за него плачу, а мне по десять раз на дню звонят какие-то мошенники, «служба безопасности», «выгодный кредит»! Зачем мне эта услуга, если она ни черта не блокирует?! Деньги дерёте, а толку ноль!",
+    "gold_doc_ids": [
+      "vektor_spam_filter"
+    ],
+    "file": "vek_42_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_42",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ну вот переключите! А то, что они и так уже названивают, мне как? Один номер вообще каждый день в одно и то же время долбит.",
+    "clean_text": "Ну вот переключите! А то, что они и так уже названивают, мне как? Один номер вообще каждый день в одно и то же время долбит.",
+    "gold_doc_ids": [
+      "vektor_spam_filter"
+    ],
+    "file": "vek_42_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_43",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Это просто грабёж средь бела дня! Я съездил в Таиланд на неделю, а вы мне насчитали роуминг почти на восемь тысяч! Я же только в мессенджеры заходил, пару раз карту посмотрел! Откуда такие деньги?! Вы что там, с потолка ставки берёте?!",
+    "clean_text": "Это просто грабёж средь бела дня! Я съездил в Таиланд на неделю, а вы мне насчитали роуминг почти на восемь тысяч! Я же только в мессенджеры заходил, пару раз карту посмотрел! Откуда такие деньги?! Вы что там, с потолка ставки берёте?!",
+    "gold_doc_ids": [
+      "vektor_roaming_world"
+    ],
+    "file": "vek_43_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_43",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А я откуда знал про эту опцию?! Мне никто не сказал! И теперь что, я должен эти восемь тысяч платить за то, что меня не предупредили?!",
+    "clean_text": "А я откуда знал про эту опцию?! Мне никто не сказал! И теперь что, я должен эти восемь тысяч платить за то, что меня не предупредили?!",
+    "gold_doc_ids": [
+      "vektor_roaming_world",
+      "vektor_roaming_disable"
+    ],
+    "file": "vek_43_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_43",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Передавайте, проверяйте. И запрет этот поставьте, раз он бесплатный. Хоть какая-то защита от ваших сюрпризов.",
+    "clean_text": "Передавайте, проверяйте. И запрет этот поставьте, раз он бесплатный. Хоть какая-то защита от ваших сюрпризов.",
+    "gold_doc_ids": [
+      "vektor_roaming_disable"
+    ],
+    "file": "vek_43_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_43",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "А в следующий раз перед поездкой вы мне напомните про опцию? Или хотя бы как самому-то её подключить?",
+    "clean_text": "А в следующий раз перед поездкой вы мне напомните про опцию? Или хотя бы как самому-то её подключить?",
+    "gold_doc_ids": [
+      "vektor_roaming_packages"
+    ],
+    "file": "vek_43_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_44",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Всё, моё терпение лопнуло! Третий день нет интернета, я на удалёнке работаю, у меня дедлайны горят, а у вас этот ваш «Вектор Box» стоит и красным мигает, как новогодняя ёлка! Я уже всё перетыкал, перезагрузил сто раз, ноль! Вы вообще собираетесь это чинить или мне договор рвать?!",
+    "clean_text": "Всё, моё терпение лопнуло! Третий день нет интернета, я на удалёнке работаю, у меня дедлайны горят, а у вас этот ваш «Вектор Box» стоит и красным мигает, как новогодняя ёлка! Я уже всё перетыкал, перезагрузил сто раз, ноль! Вы вообще собираетесь это чинить или мне договор рвать?!",
+    "gold_doc_ids": [
+      "vektor_home_internet_down",
+      "vektor_router_indicators"
+    ],
+    "file": "vek_44_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_44",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] PON красный мигает, Power горит зелёным. Internet вообще не светится. Я что вам, техник, чтоб эти лампочки расшифровывать?! Просто скажите, когда будет интернет!",
+    "clean_text": "PON красный мигает, Power горит зелёным. Internet вообще не светится. Я что вам, техник, чтоб эти лампочки расшифровывать?! Просто скажите, когда будет интернет!",
+    "gold_doc_ids": [
+      "vektor_router_indicators",
+      "vektor_home_internet_down"
+    ],
+    "file": "vek_44_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_44",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Кабель целый, воткнут плотно. Значит, обрыв на вашей стороне? Ну так шлите мастера, и побыстрее! Я три дня без работы фактически сижу!",
+    "clean_text": "Кабель целый, воткнут плотно. Значит, обрыв на вашей стороне? Ну так шлите мастера, и побыстрее! Я три дня без работы фактически сижу!",
+    "gold_doc_ids": [
+      "vektor_technician_visit",
+      "vektor_cable_check"
+    ],
+    "file": "vek_44_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_44",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Давайте на завтра 9-13. И учтите, за эти три дня простоя я платить не намерен! Сделайте перерасчёт, иначе разговор будет другой.",
+    "clean_text": "Давайте на завтра 9-13. И учтите, за эти три дня простоя я платить не намерен! Сделайте перерасчёт, иначе разговор будет другой.",
+    "gold_doc_ids": [
+      "vektor_compensation"
+    ],
+    "file": "vek_44_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_44",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Ладно. А пока мастер не приехал, мне-то как работать? У меня созвоны сегодня, я не могу три дня выпадать.",
+    "clean_text": "Ладно. А пока мастер не приехал, мне-то как работать? У меня созвоны сегодня, я не могу три дня выпадать.",
+    "gold_doc_ids": [
+      "vektor_mobile_internet_setup"
+    ],
+    "file": "vek_44_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_44",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "О, вот это дело, давайте раздачу настроим и пакет добавьте. Хоть сегодня не сорвусь.",
+    "clean_text": "О, вот это дело, давайте раздачу настроим и пакет добавьте. Хоть сегодня не сорвусь.",
+    "gold_doc_ids": [
+      "vektor_data_limit"
+    ],
+    "file": "vek_44_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_45",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Что за безобразие?! Ваш автоплатёж только что дважды списал с моей карты по 500 рублей за один раз! Я вижу в банке два одинаковых списания подряд! Это вообще как понимать?! Верните мне мои деньги немедленно!",
+    "clean_text": "Что за безобразие?! Ваш автоплатёж только что дважды списал с моей карты по 500 рублей за один раз! Я вижу в банке два одинаковых списания подряд! Это вообще как понимать?! Верните мне мои деньги немедленно!",
+    "gold_doc_ids": [
+      "vektor_autopay",
+      "vektor_refund"
+    ],
+    "file": "vek_45_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_45",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Сейчас найду в банке... а вы уверены, что вернётся? А то знаю я эти ваши «оформим заявку» и тишина.",
+    "clean_text": "Сейчас найду в банке... а вы уверены, что вернётся? А то знаю я эти ваши «оформим заявку» и тишина.",
+    "gold_doc_ids": [
+      "vektor_refund"
+    ],
+    "file": "vek_45_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_46",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Объясните мне, куда уходят мои деньги! Каждый день по 20-30 рублей испаряются со счёта, я ничего не подключал! За месяц набежало почти семьсот рублей в никуда! Вы там что, втихаря подписки на меня вешаете и доите?!",
+    "clean_text": "Объясните мне, куда уходят мои деньги! Каждый день по 20-30 рублей испаряются со счёта, я ничего не подключал! За месяц набежало почти семьсот рублей в никуда! Вы там что, втихаря подписки на меня вешаете и доите?!",
+    "gold_doc_ids": [
+      "vektor_detailization",
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_46_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_46",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Какие ещё подписки?! Я ничего не оформлял! Что там у меня висит?!",
+    "clean_text": "Какие ещё подписки?! Я ничего не оформлял! Что там у меня висит?!",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_46_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_46",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Вот это другое дело. Отключайте всё и возврат оформляйте. И защиту эту поставьте обязательно.",
+    "clean_text": "Вот это другое дело. Отключайте всё и возврат оформляйте. И защиту эту поставьте обязательно.",
+    "gold_doc_ids": [
+      "vektor_paid_subscriptions"
+    ],
+    "file": "vek_46_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_46",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "А детализацию эту я сам где смотреть могу, чтоб следить? Не хочу опять прозевать.",
+    "clean_text": "А детализацию эту я сам где смотреть могу, чтоб следить? Не хочу опять прозевать.",
+    "gold_doc_ids": [
+      "vektor_detailization"
+    ],
+    "file": "vek_46_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_47",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Всё, с меня хватит! Шесть лет я с вами, шесть лет плачу исправно, а связь в последнее время то обрывается, то интернет еле ползёт! Я уже присмотрел тариф у конкурента, дешевле и без этих проблем. Так что готовьте мне расторжение, ухожу от вас, и точка!",
+    "clean_text": "Всё, с меня хватит! Шесть лет я с вами, шесть лет плачу исправно, а связь в последнее время то обрывается, то интернет еле ползёт! Я уже присмотрел тариф у конкурента, дешевле и без этих проблем. Так что готовьте мне расторжение, ухожу от вас, и точка!",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_47_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_47",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да всё вместе бесит! Но главное связь рвётся дома, в спальне вообще палочки нет, разговариваю и обрывается на полуслове. И плачу я при этом немало!",
+    "clean_text": "Да всё вместе бесит! Но главное связь рвётся дома, в спальне вообще палочки нет, разговариваю и обрывается на полуслове. И плачу я при этом немало!",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_47_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_47",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Какое ещё предложение? Если это очередные слова, чтоб меня удержать, то не надо. Мне реально дешевле у других.",
+    "clean_text": "Какое ещё предложение? Если это очередные слова, чтоб меня удержать, то не надо. Мне реально дешевле у других.",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_47_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_47",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ну... скидка ощутимая. А если связь в спальне так и не наладится после вашей диагностики, я смогу всё-таки уйти и номер сохранить?",
+    "clean_text": "Ну... скидка ощутимая. А если связь в спальне так и не наладится после вашей диагностики, я смогу всё-таки уйти и номер сохранить?",
+    "gold_doc_ids": [
+      "vektor_retention",
+      "vektor_mnp_out"
+    ],
+    "file": "vek_47_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_47",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ладно, договорились. Останусь пока, попробуем вашу диагностику и скидку. Если наладите, никуда не пойду.",
+    "clean_text": "Ладно, договорились. Останусь пока, попробуем вашу диагностику и скидку. Если наладите, никуда не пойду.",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_47_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_47",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Хорошо. А скидку эту куда применят, на следующий счёт сразу или как? Хочу понимать, что это не на словах.",
+    "clean_text": "Хорошо. А скидку эту куда применят, на следующий счёт сразу или как? Хочу понимать, что это не на словах.",
+    "gold_doc_ids": [
+      "vektor_retention"
+    ],
+    "file": "vek_47_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_48",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Это что такое?! Я смотрю в счёт за ТВ, а там какой-то пакет «Спорт Про» за 399 рублей! Я спорт вообще не смотрю и ничего такого не подключал! Кто вам разрешил вешать на меня платные каналы без спроса?! Немедленно уберите и верните деньги!",
+    "clean_text": "Это что такое?! Я смотрю в счёт за ТВ, а там какой-то пакет «Спорт Про» за 399 рублей! Я спорт вообще не смотрю и ничего такого не подключал! Кто вам разрешил вешать на меня платные каналы без спроса?! Немедленно уберите и верните деньги!",
+    "gold_doc_ids": [
+      "vektor_tv_packages"
+    ],
+    "file": "vek_48_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_48",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вот и проверяйте! И отключайте сейчас же. Может, у меня дети случайно ткнули на приставке, но платить-то за это я не должен!",
+    "clean_text": "Вот и проверяйте! И отключайте сейчас же. Может, у меня дети случайно ткнули на приставке, но платить-то за это я не должен!",
+    "gold_doc_ids": [
+      "vektor_tv_packages"
+    ],
+    "file": "vek_48_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_48",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "Да, поставьте этот пин, чтоб больше такого не было. И за деньги жду ответ.",
+    "clean_text": "Да, поставьте этот пин, чтоб больше такого не было. И за деньги жду ответ.",
+    "gold_doc_ids": [
+      "vektor_tv_packages"
+    ],
+    "file": "vek_48_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_48",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.4,
+    "send_text": "А базовые-то каналы у меня останутся? А то мало ли, отключите этот пакет и всё пропадёт.",
+    "clean_text": "А базовые-то каналы у меня останутся? А то мало ли, отключите этот пакет и всё пропадёт.",
+    "gold_doc_ids": [
+      "vektor_tv_packages"
+    ],
+    "file": "vek_48_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_49",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Добрый день. Хочу перейти к вам от своего оператора, но обязательно со своим номером, он у меня привязан к куче сервисов, менять не хочу. Как это сделать и сколько займёт?",
+    "clean_text": "Добрый день. Хочу перейти к вам от своего оператора, но обязательно со своим номером, он у меня привязан к куче сервисов, менять не хочу. Как это сделать и сколько займёт?",
+    "gold_doc_ids": [
+      "vektor_mnp_in"
+    ],
+    "file": "vek_49_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_49",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "А я смогу как-то отслеживать, на каком этапе перенос? Не хочется в день икс остаться вообще без связи.",
+    "clean_text": "А я смогу как-то отслеживать, на каком этапе перенос? Не хочется в день икс остаться вообще без связи.",
+    "gold_doc_ids": [
+      "vektor_mnp_status"
+    ],
+    "file": "vek_49_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_50",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Здравствуйте! Хотим всей семьёй на один тариф перейти, нас четверо, муж, я и двое подростков. Слышала, у вас есть что-то семейное с общими гигабайтами? Расскажите, очень интересно.",
+    "clean_text": "Здравствуйте! Хотим всей семьёй на один тариф перейти, нас четверо, муж, я и двое подростков. Слышала, у вас есть что-то семейное с общими гигабайтами? Расскажите, очень интересно.",
+    "gold_doc_ids": [
+      "vektor_tariff_family"
+    ],
+    "file": "vek_50_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_50",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Здорово! А за детьми смогу присматривать, где они? И как всех добавить?",
+    "clean_text": "Здорово! А за детьми смогу присматривать, где они? И как всех добавить?",
+    "gold_doc_ids": [
+      "vektor_tariff_family"
+    ],
+    "file": "vek_50_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_50",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Прекрасно, нам это очень подходит! Тогда оформляйте, мы готовы.",
+    "clean_text": "Прекрасно, нам это очень подходит! Тогда оформляйте, мы готовы.",
+    "gold_doc_ids": [
+      "vektor_tariff_family"
+    ],
+    "file": "vek_50_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_51",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Добрый день. У меня квартира большая, под сто метров, и в дальней комнате Wi-Fi почти не ловит, видео виснет, звонки рвутся. Роутер ваш стоит в коридоре. Что можно сделать, чтобы добивало по всей квартире?",
+    "clean_text": "Добрый день. У меня квартира большая, под сто метров, и в дальней комнате Wi-Fi почти не ловит, видео виснет, звонки рвутся. Роутер ваш стоит в коридоре. Что можно сделать, чтобы добивало по всей квартире?",
+    "gold_doc_ids": [
+      "vektor_wifi_weak"
+    ],
+    "file": "vek_51_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_51",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Роутер переставить особо некуда, он у входа из-за кабеля. Так что давайте сразу про надёжное решение.",
+    "clean_text": "Роутер переставить особо некуда, он у входа из-за кабеля. Так что давайте сразу про надёжное решение.",
+    "gold_doc_ids": [
+      "vektor_mesh_repeater"
+    ],
+    "file": "vek_51_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_51",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Понятно. А настроить его сложно? Я не очень в технике.",
+    "clean_text": "Понятно. А настроить его сложно? Я не очень в технике.",
+    "gold_doc_ids": [
+      "vektor_mesh_repeater"
+    ],
+    "file": "vek_51_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_51",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "А один узел на сто метров хватит, или надо два брать? Не хочется потом докупать.",
+    "clean_text": "А один узел на сто метров хватит, или надо два брать? Не хочется потом докупать.",
+    "gold_doc_ids": [
+      "vektor_mesh_repeater"
+    ],
+    "file": "vek_51_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_52",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Мы разворачиваем у себя колл-центр на Asterisk и хотим подключить его к телефонной сети через вас по SIP. Подскажите, поддерживаете ли вы такое и что нужно для подключения?",
+    "clean_text": "Здравствуйте. Мы разворачиваем у себя колл-центр на Asterisk и хотим подключить его к телефонной сети через вас по SIP. Подскажите, поддерживаете ли вы такое и что нужно для подключения?",
+    "gold_doc_ids": [
+      "vektor_sip_trunk"
+    ],
+    "file": "vek_52_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_52",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "На старте каналов десять, но к сезону может вырасти до двадцати-тридцати. Хочется, чтобы можно было добавить без переподключения. И вопрос безопасности, пароль по SIP не очень надёжно.",
+    "clean_text": "На старте каналов десять, но к сезону может вырасти до двадцати-тридцати. Хочется, чтобы можно было добавить без переподключения. И вопрос безопасности, пароль по SIP не очень надёжно.",
+    "gold_doc_ids": [
+      "vektor_sip_trunk"
+    ],
+    "file": "vek_52_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_52",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Отлично, IP статические, пришлю. У нас ещё есть пара городских номеров от старого провайдера, их можно сохранить и завести на новый транк?",
+    "clean_text": "Отлично, IP статические, пришлю. У нас ещё есть пара городских номеров от старого провайдера, их можно сохранить и завести на новый транк?",
+    "gold_doc_ids": [
+      "vektor_sip_trunk"
+    ],
+    "file": "vek_52_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_52",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Понял. А если у нас одновременно ещё и обычные мобильные SIM на сотрудников нужны, отдельный договор оформлять или можно всё в одном месте?",
+    "clean_text": "Понял. А если у нас одновременно ещё и обычные мобильные SIM на сотрудников нужны, отдельный договор оформлять или можно всё в одном месте?",
+    "gold_doc_ids": [
+      "vektor_business_tariffs"
+    ],
+    "file": "vek_52_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_52",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Это удобно. Тогда давайте оформлять и транк, и тариф на сотрудников. Куда отправлять IP и реквизиты компании?",
+    "clean_text": "Это удобно. Тогда давайте оформлять и транк, и тариф на сотрудников. Куда отправлять IP и реквизиты компании?",
+    "gold_doc_ids": [
+      "vektor_corporate_support"
+    ],
+    "file": "vek_52_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_52",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Понял. А по деньгам как считается, абонплата за канал плюс минуты? Хочу прикинуть бюджет до подписания.",
+    "clean_text": "Понял. А по деньгам как считается, абонплата за канал плюс минуты? Хочу прикинуть бюджет до подписания.",
+    "gold_doc_ids": [
+      "vektor_sip_trunk"
+    ],
+    "file": "vek_52_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_53",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Здравствуйте! Хочу сменить свой номер на какой-нибудь красивый, с повторяющимися цифрами. Это вообще реально у вас, и не слетят ли при этом мой тариф и баланс?",
+    "clean_text": "Здравствуйте! Хочу сменить свой номер на какой-нибудь красивый, с повторяющимися цифрами. Это вообще реально у вас, и не слетят ли при этом мой тариф и баланс?",
+    "gold_doc_ids": [
+      "vektor_number_change"
+    ],
+    "file": "vek_53_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_53",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Супер! А старый номер точно никому не отдадут сразу? Мало ли, кто-то его наберёт по привычке.",
+    "clean_text": "Супер! А старый номер точно никому не отдадут сразу? Мало ли, кто-то его наберёт по привычке.",
+    "gold_doc_ids": [
+      "vektor_number_change"
+    ],
+    "file": "vek_53_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_54",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Добрый день. Еду в командировку в Казахстан на неделю. Хочу заранее всё настроить по роумингу, чтобы там быть на связи и не попасть на бешеные деньги. Что посоветуете?",
+    "clean_text": "Добрый день. Еду в командировку в Казахстан на неделю. Хочу заранее всё настроить по роумингу, чтобы там быть на связи и не попасть на бешеные деньги. Что посоветуете?",
+    "gold_doc_ids": [
+      "vektor_roaming_cis"
+    ],
+    "file": "vek_54_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_54",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "200 мегабайт в день, а если мне на работу больше надо, карты, почта, созвоны? Не маловато?",
+    "clean_text": "200 мегабайт в день, а если мне на работу больше надо, карты, почта, созвоны? Не маловато?",
+    "gold_doc_ids": [
+      "vektor_roaming_packages"
+    ],
+    "file": "vek_54_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_54",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Пожалуй, возьму «Мир+», раз будет много работы. А подключить как, и когда оно активируется?",
+    "clean_text": "Пожалуй, возьму «Мир+», раз будет много работы. А подключить как, и когда оно активируется?",
+    "gold_doc_ids": [
+      "vektor_roaming_packages"
+    ],
+    "file": "vek_54_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_54",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "А когда вернусь, эту опцию надо самому отключать, чтоб не капало? Или она сама?",
+    "clean_text": "А когда вернусь, эту опцию надо самому отключать, чтоб не капало? Или она сама?",
+    "gold_doc_ids": [
+      "vektor_roaming_disable"
+    ],
+    "file": "vek_54_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_55",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Уезжаю на вахту на четыре месяца, там своя симка местная будет. Не хочу, чтобы за это время мой номер сгорел или с него абонплата капала. Можно как-то его сохранить, пока я в отъезде?",
+    "clean_text": "Здравствуйте. Уезжаю на вахту на четыре месяца, там своя симка местная будет. Не хочу, чтобы за это время мой номер сгорел или с него абонплата капала. Можно как-то его сохранить, пока я в отъезде?",
+    "gold_doc_ids": [
+      "vektor_service_suspend"
+    ],
+    "file": "vek_55_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_55",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "А что за комбинация? Главное, чтобы номер мне вернули в целости, я его лет десять держу.",
+    "clean_text": "А что за комбинация? Главное, чтобы номер мне вернули в целости, я его лет десять держу.",
+    "gold_doc_ids": [
+      "vektor_number_reserve"
+    ],
+    "file": "vek_55_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_55",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, так и сделаем. Подключайте резерв, спасибо за совет.",
+    "clean_text": "Отлично, так и сделаем. Подключайте резерв, спасибо за совет.",
+    "gold_doc_ids": [
+      "vektor_number_reserve"
+    ],
+    "file": "vek_55_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_56",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Добрый день. Переехал в новую квартиру, у меня тут договор оформлен, кабель завели, лежит ваш роутер «Вектор Box» в коробке и приставка ТВ. Хочу всё подключить сам, по телефону с вами. С чего начать?",
+    "clean_text": "Добрый день. Переехал в новую квартиру, у меня тут договор оформлен, кабель завели, лежит ваш роутер «Вектор Box» в коробке и приставка ТВ. Хочу всё подключить сам, по телефону с вами. С чего начать?",
+    "gold_doc_ids": [
+      "vektor_home_internet_setup"
+    ],
+    "file": "vek_56_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_56",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Так, Power горит зелёным. Дальше что? Куда вводить эти логин с паролем?",
+    "clean_text": "Так, Power горит зелёным. Дальше что? Куда вводить эти логин с паролем?",
+    "gold_doc_ids": [
+      "vektor_router_setup",
+      "vektor_pppoe_setup"
+    ],
+    "file": "vek_56_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_56",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Ввёл, сохранил... Internet загорелся зелёным, интернет на телефоне появился! Теперь приставку давайте подключим.",
+    "clean_text": "Ввёл, сохранил... Internet загорелся зелёным, интернет на телефоне появился! Теперь приставку давайте подключим.",
+    "gold_doc_ids": [
+      "vektor_tv_setup"
+    ],
+    "file": "vek_56_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_56",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вошёл, каналы пошли! Здорово. А на телефоне эти же каналы можно смотреть, когда я не дома? Часто в разъездах.",
+    "clean_text": "Вошёл, каналы пошли! Здорово. А на телефоне эти же каналы можно смотреть, когда я не дома? Часто в разъездах.",
+    "gold_doc_ids": [
+      "vektor_tv_app"
+    ],
+    "file": "vek_56_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_56",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Супер, всё работает, и дома, и в дороге. Спасибо, что провели по шагам, я бы сам запутался.",
+    "clean_text": "Супер, всё работает, и дома, и в дороге. Спасибо, что провели по шагам, я бы сам запутался.",
+    "gold_doc_ids": [
+      "vektor_tv_app"
+    ],
+    "file": "vek_56_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_56",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "А если вдруг скорость по Wi-Fi просядет в дальней комнате, что делать? Квартира немаленькая.",
+    "clean_text": "А если вдруг скорость по Wi-Fi просядет в дальней комнате, что делать? Квартира немаленькая.",
+    "gold_doc_ids": [
+      "vektor_wifi_weak"
+    ],
+    "file": "vek_56_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_57",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Здравствуйте! Поставил дома ваши камеры «Вектор Дом», всё классно работает. Хочу теперь заходить на них с дачи и с работы, из любого места. Сейчас почему-то снаружи не подключается. Что нужно докрутить?",
+    "clean_text": "Здравствуйте! Поставил дома ваши камеры «Вектор Дом», всё классно работает. Хочу теперь заходить на них с дачи и с работы, из любого места. Сейчас почему-то снаружи не подключается. Что нужно докрутить?",
+    "gold_doc_ids": [
+      "vektor_smart_home_cameras",
+      "vektor_static_ip"
+    ],
+    "file": "vek_57_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_57",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Понял, давайте подключим. А настраивать потом что-то сложное надо будет?",
+    "clean_text": "Понял, давайте подключим. А настраивать потом что-то сложное надо будет?",
+    "gold_doc_ids": [
+      "vektor_static_ip"
+    ],
+    "file": "vek_57_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_57",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, спасибо! Тогда подключайте, а с пробросом портов я к вам потом ещё раз обращусь, как адрес дадут.",
+    "clean_text": "Отлично, спасибо! Тогда подключайте, а с пробросом портов я к вам потом ещё раз обращусь, как адрес дадут.",
+    "gold_doc_ids": [
+      "vektor_static_ip"
+    ],
+    "file": "vek_57_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_57",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] А облачный архив для камер тоже стоит брать, или хватит того, что на карту памяти пишется?",
+    "clean_text": "А облачный архив для камер тоже стоит брать, или хватит того, что на карту памяти пишется?",
+    "gold_doc_ids": [
+      "vektor_smart_home_cameras"
+    ],
+    "file": "vek_57_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_58",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Добрый день. Я работаю сам на себя, часто за рулём или с клиентом, не могу взять трубку. И боюсь упускать заказы, человек не дозвонился и ушёл. Можно сделать, чтобы мне могли оставить сообщение, если я не отвечаю?",
+    "clean_text": "Добрый день. Я работаю сам на себя, часто за рулём или с клиентом, не могу взять трубку. И боюсь упускать заказы, человек не дозвонился и ушёл. Можно сделать, чтобы мне могли оставить сообщение, если я не отвечаю?",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_58_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_58",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Да, подключайте. А приветствие своё записать смогу, чтобы по-деловому звучало?",
+    "clean_text": "Да, подключайте. А приветствие своё записать смогу, чтобы по-деловому звучало?",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_58_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_59",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Ухожу в отпуск на две недели, и хочу, чтобы все звонки с моего рабочего номера в это время шли на коллегу, он меня подменяет. Как настроить, чтобы потом легко вернуть обратно?",
+    "clean_text": "Здравствуйте. Ухожу в отпуск на две недели, и хочу, чтобы все звонки с моего рабочего номера в это время шли на коллегу, он меня подменяет. Как настроить, чтобы потом легко вернуть обратно?",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_59_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_59",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "А можно как-то погибче, чтобы переадресация работала только в рабочие часы, а вечером звонки всё же мне приходили? Или это сложно?",
+    "clean_text": "А можно как-то погибче, чтобы переадресация работала только в рабочие часы, а вечером звонки всё же мне приходили? Или это сложно?",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_59_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_59",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Отлично, это как раз то, что нужно. Тогда давайте через приложение настроим по расписанию.",
+    "clean_text": "Отлично, это как раз то, что нужно. Тогда давайте через приложение настроим по расписанию.",
+    "gold_doc_ids": [
+      "vektor_call_forwarding"
+    ],
+    "file": "vek_59_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_59",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "А если коллега тоже не возьмёт трубку, звонок не потеряется? Хочется, чтоб клиент хоть сообщение оставил.",
+    "clean_text": "А если коллега тоже не возьмёт трубку, звонок не потеряется? Хочется, чтоб клиент хоть сообщение оставил.",
+    "gold_doc_ids": [
+      "vektor_voicemail"
+    ],
+    "file": "vek_59_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_60",
+    "company": "vektor",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Здравствуйте, голубчик. Я на пенсии, плачу за телефон больше, чем трачу, всё дорого. Соседка говорит, у вас есть какой-то дешёвый тариф для пенсионеров. Расскажите, что за тариф и сколько стоит?",
+    "clean_text": "Здравствуйте, голубчик. Я на пенсии, плачу за телефон больше, чем трачу, всё дорого. Соседка говорит, у вас есть какой-то дешёвый тариф для пенсионеров. Расскажите, что за тариф и сколько стоит?",
+    "gold_doc_ids": [
+      "vektor_tariff_senior"
+    ],
+    "file": "vek_60_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_60",
+    "company": "vektor",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Двести пятьдесят это хорошо, это мне по карману. А то у меня сейчас рублей шестьсот уходит. А статус этот как подтвердить, мне до салона далеко ехать.",
+    "clean_text": "Двести пятьдесят это хорошо, это мне по карману. А то у меня сейчас рублей шестьсот уходит. А статус этот как подтвердить, мне до салона далеко ехать.",
+    "gold_doc_ids": [
+      "vektor_tariff_senior"
+    ],
+    "file": "vek_60_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_60",
+    "company": "vektor",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Вот спасибо. А то мне эти мошенники покоя не дают, звонят и звонят, «из банка», «из полиции». Боюсь я их, ночами не сплю. Можно как-то от них защититься на этом тарифе?",
+    "clean_text": "Вот спасибо. А то мне эти мошенники покоя не дают, звонят и звонят, «из банка», «из полиции». Боюсь я их, ночами не сплю. Можно как-то от них защититься на этом тарифе?",
+    "gold_doc_ids": [
+      "vektor_spam_filter",
+      "vektor_tariff_senior"
+    ],
+    "file": "vek_60_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_60",
+    "company": "vektor",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Ой, как славно. А ещё бы знать, кто звонит, когда номер незнакомый, а то возьму трубку, а там опять они. Это возможно?",
+    "clean_text": "Ой, как славно. А ещё бы знать, кто звонит, когда номер незнакомый, а то возьму трубку, а там опять они. Это возможно?",
+    "gold_doc_ids": [
+      "vektor_caller_id"
+    ],
+    "file": "vek_60_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_60",
+    "company": "vektor",
+    "turn_idx": 8,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Замечательно. А если что-то непонятное со счётом будет, я ведь к вам смогу позвонить и спросить по-человечески, не через эти кнопки?",
+    "clean_text": "Замечательно. А если что-то непонятное со счётом будет, я ведь к вам смогу позвонить и спросить по-человечески, не через эти кнопки?",
+    "gold_doc_ids": [
+      "vektor_tariff_senior",
+      "vektor_balance_check"
+    ],
+    "file": "vek_60_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "vek_60",
+    "company": "vektor",
+    "turn_idx": 10,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "И последнее, голубчик: автоплатёж этот, про который по телевизору говорят, мне не нужен? А то боюсь, спишут чего лишнего.",
+    "clean_text": "И последнее, голубчик: автоплатёж этот, про который по телевизору говорят, мне не нужен? А то боюсь, спишут чего лишнего.",
+    "gold_doc_ids": [
+      "vektor_autopay"
+    ],
+    "file": "vek_60_t10.mp3",
+    "ok": true,
+    "error": ""
+  }
+]

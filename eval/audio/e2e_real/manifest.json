@@ -1,0 +1,2233 @@
+[
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... мне очень тяжело это говорить. Месяц назад меня сократили, я остался совсем без денег, и каждый рубль сейчас на счету. Ваша абонентка для меня стала просто неподъёмной, я не знаю, как дальше платить.",
+    "clean_text": "Здравствуйте... мне очень тяжело это говорить. Месяц назад меня сократили, я остался совсем без денег, и каждый рубль сейчас на счету. Ваша абонентка для меня стала просто неподъёмной, я не знаю, как дальше платить.",
+    "gold_doc_ids": [
+      "mts_retention",
+      "mts_tariff_change"
+    ],
+    "file": "rc_01_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Я правда боюсь остаться вообще без связи, ведь без телефона я даже на собеседование не смогу откликнуться. Но и текущую сумму я просто не потяну, понимаете?",
+    "clean_text": "Я правда боюсь остаться вообще без связи, ведь без телефона я даже на собеседование не смогу откликнуться. Но и текущую сумму я просто не потяну, понимаете?",
+    "gold_doc_ids": [
+      "mts_tariff_change",
+      "mts_tariff_details"
+    ],
+    "file": "rc_01_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Да мне почти ничего не надо — звонки по работе и чуть-чуть интернета, чтобы вакансии смотреть. Лишь бы подешевле, совсем.",
+    "clean_text": "Да мне почти ничего не надо — звонки по работе и чуть-чуть интернета, чтобы вакансии смотреть. Лишь бы подешевле, совсем.",
+    "gold_doc_ids": [
+      "mts_tariff_change"
+    ],
+    "file": "rc_01_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А можно ещё проверить, нет ли у меня каких-то платных услуг, которые зря тянут деньги? Боюсь, я где-то лишнее подключил и даже не заметил.",
+    "clean_text": "А можно ещё проверить, нет ли у меня каких-то платных услуг, которые зря тянут деньги? Боюсь, я где-то лишнее подключил и даже не заметил.",
+    "gold_doc_ids": [
+      "mts_paid_subscriptions",
+      "mts_balance_check"
+    ],
+    "file": "rc_01_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 8,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Нашли что-нибудь? Каждая копейка сейчас важна, правда...",
+    "clean_text": "Нашли что-нибудь? Каждая копейка сейчас важна, правда...",
+    "gold_doc_ids": [
+      "mts_paid_subscriptions"
+    ],
+    "file": "rc_01_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 10,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А если я совсем не смогу пополнить вовремя, меня сразу отключат? Я боюсь именно остаться без связи в самый нужный момент.",
+    "clean_text": "А если я совсем не смогу пополнить вовремя, меня сразу отключат? Я боюсь именно остаться без связи в самый нужный момент.",
+    "gold_doc_ids": [
+      "mts_topup",
+      "mts_balance_check"
+    ],
+    "file": "rc_01_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_01",
+    "company": "mts",
+    "turn_idx": 12,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо вам большое... честно, я уже думал, что придётся всё расторгать. Хоть немного легче стало.",
+    "clean_text": "Спасибо вам большое... честно, я уже думал, что придётся всё расторгать. Хоть немного легче стало.",
+    "gold_doc_ids": [
+      "mts_retention"
+    ],
+    "file": "rc_01_t12.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_02",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Это вообще что такое?! Я вернулся из отпуска, а вы с меня сняли почти восемь тысяч за интернет! Я никаких опций не подключал, кто вам разрешил так грабить людей?!",
+    "clean_text": "Это вообще что такое?! Я вернулся из отпуска, а вы с меня сняли почти восемь тысяч за интернет! Я никаких опций не подключал, кто вам разрешил так грабить людей?!",
+    "gold_doc_ids": [
+      "mts_roaming_world",
+      "mts_compensation"
+    ],
+    "file": "rc_02_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_02",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да мне плевать на ваши опции! Меня никто не предупредил, что будет такой космический ценник. Верните деньги, иначе я ухожу к другому оператору!",
+    "clean_text": "Да мне плевать на ваши опции! Меня никто не предупредил, что будет такой космический ценник. Верните деньги, иначе я ухожу к другому оператору!",
+    "gold_doc_ids": [
+      "mts_compensation",
+      "mts_detailization"
+    ],
+    "file": "rc_02_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_02",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И сколько мне ждать этого вашего перерасчёта? Опять месяц мотать нервы?",
+    "clean_text": "И сколько мне ждать этого вашего перерасчёта? Опять месяц мотать нервы?",
+    "gold_doc_ids": [
+      "mts_compensation",
+      "mts_escalation_l2"
+    ],
+    "file": "rc_02_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_02",
+    "company": "mts",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И как мне теперь вообще ездить за границу, чтобы снова не попасть на такие деньги?!",
+    "clean_text": "И как мне теперь вообще ездить за границу, чтобы снова не попасть на такие деньги?!",
+    "gold_doc_ids": [
+      "mts_roaming_world"
+    ],
+    "file": "rc_02_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_02",
+    "company": "mts",
+    "turn_idx": 8,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ладно, допустим. Но если перерасчёт мне не сделают, я этого так не оставлю, имейте в виду!",
+    "clean_text": "Ладно, допустим. Но если перерасчёт мне не сделают, я этого так не оставлю, имейте в виду!",
+    "gold_doc_ids": [
+      "mts_compensation",
+      "mts_escalation_l2"
+    ],
+    "file": "rc_02_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_03",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Добрый день. Купил новый телефон, хочу перейти с обычной симки на eSIM. Подскажете, как это сделать?",
+    "clean_text": "Добрый день. Купил новый телефон, хочу перейти с обычной симки на eSIM. Подскажете, как это сделать?",
+    "gold_doc_ids": [
+      "mts_esim"
+    ],
+    "file": "rc_03_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_03",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Телефон точно поддерживает, я проверял. А старая симка сразу перестанет работать?",
+    "clean_text": "Телефон точно поддерживает, я проверял. А старая симка сразу перестанет работать?",
+    "gold_doc_ids": [
+      "mts_esim"
+    ],
+    "file": "rc_03_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_03",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Понял, спасибо. А если QR-код не считается, что делать?",
+    "clean_text": "Понял, спасибо. А если QR-код не считается, что делать?",
+    "gold_doc_ids": [
+      "mts_esim"
+    ],
+    "file": "rc_03_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_04",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте, хочу перейти к вам, но чтобы мой номер остался прежним. Так можно?",
+    "clean_text": "Здравствуйте, хочу перейти к вам, но чтобы мой номер остался прежним. Так можно?",
+    "gold_doc_ids": [
+      "mts_mnp_port_in"
+    ],
+    "file": "rc_04_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_04",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Долгов нет. А сколько займёт перенос и не останусь ли я без связи в этот период?",
+    "clean_text": "Долгов нет. А сколько займёт перенос и не останусь ли я без связи в этот период?",
+    "gold_doc_ids": [
+      "mts_mnp_port_in"
+    ],
+    "file": "rc_04_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_04",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично. А тариф мне сразу поможете выбрать, чтобы интернета побольше было?",
+    "clean_text": "Отлично. А тариф мне сразу поможете выбрать, чтобы интернета побольше было?",
+    "gold_doc_ids": [
+      "mts_mnp_port_in",
+      "mts_tariff_change"
+    ],
+    "file": "rc_04_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_04",
+    "company": "mts",
+    "turn_idx": 6,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Супер. А после переноса интернет точно сразу заработает или что-то ещё настраивать?",
+    "clean_text": "Супер. А после переноса интернет точно сразу заработает или что-то ещё настраивать?",
+    "gold_doc_ids": [
+      "mts_mnp_port_in",
+      "mts_apn_settings"
+    ],
+    "file": "rc_04_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_05",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... Я звоню из больницы, лежу после операции, очень слаб. У меня в палате пропал телефон, и я в панике — там привязаны все карты, я боюсь, что меня обчистят...",
+    "clean_text": "Здравствуйте... Я звоню из больницы, лежу после операции, очень слаб. У меня в палате пропал телефон, и я в панике — там привязаны все карты, я боюсь, что меня обчистят...",
+    "gold_doc_ids": [
+      "mts_block_number",
+      "mts_sim_replacement"
+    ],
+    "file": "rc_05_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_05",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Да-да, заблокируйте скорее, пожалуйста... У меня совсем нет сил, а тут ещё это. Я даже из палаты выйти не могу.",
+    "clean_text": "Да-да, заблокируйте скорее, пожалуйста... У меня совсем нет сил, а тут ещё это. Я даже из палаты выйти не могу.",
+    "gold_doc_ids": [
+      "mts_block_number"
+    ],
+    "file": "rc_05_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_05",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А новую симку как потом получить? Я ведь не скоро смогу куда-то ходить...",
+    "clean_text": "А новую симку как потом получить? Я ведь не скоро смогу куда-то ходить...",
+    "gold_doc_ids": [
+      "mts_sim_replacement"
+    ],
+    "file": "rc_05_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Сколько можно?! У меня четвёртый день нет домашнего интернета! Я на удалёнке, я теряю работу и деньги, а вы молчите! Это просто издевательство!",
+    "clean_text": "Сколько можно?! У меня четвёртый день нет домашнего интернета! Я на удалёнке, я теряю работу и деньги, а вы молчите! Это просто издевательство!",
+    "gold_doc_ids": [
+      "mts_home_internet_down",
+      "mts_compensation"
+    ],
+    "file": "rc_06_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да я уже всё перезагружал сто раз! Роутер выключал, кабели дёргал — без толку! Проблема явно у вас, а не у меня!",
+    "clean_text": "Да я уже всё перезагружал сто раз! Роутер выключал, кабели дёргал — без толку! Проблема явно у вас, а не у меня!",
+    "gold_doc_ids": [
+      "mts_home_internet_down",
+      "mts_router_reboot"
+    ],
+    "file": "rc_06_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И сколько мне ещё ждать?! Мне СЕГОДНЯ работать надо, у меня дедлайны горят!",
+    "clean_text": "И сколько мне ещё ждать?! Мне СЕГОДНЯ работать надо, у меня дедлайны горят!",
+    "gold_doc_ids": [
+      "mts_escalation_l2"
+    ],
+    "file": "rc_06_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А что мне сейчас-то делать, чтобы хоть как-то выйти в сеть?! Совещание через час!",
+    "clean_text": "А что мне сейчас-то делать, чтобы хоть как-то выйти в сеть?! Совещание через час!",
+    "gold_doc_ids": [
+      "mts_mobile_internet_down",
+      "mts_roaming_russia"
+    ],
+    "file": "rc_06_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 8,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ладно, раздам с телефона. Но за четыре дня оплаченного интернета вы мне ответите?! Кто это компенсирует?!",
+    "clean_text": "Ладно, раздам с телефона. Но за четыре дня оплаченного интернета вы мне ответите?! Кто это компенсирует?!",
+    "gold_doc_ids": [
+      "mts_compensation"
+    ],
+    "file": "rc_06_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 10,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И сколько это будет? И когда деньги вернутся?",
+    "clean_text": "И сколько это будет? И когда деньги вернутся?",
+    "gold_doc_ids": [
+      "mts_compensation"
+    ],
+    "file": "rc_06_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_06",
+    "company": "mts",
+    "turn_idx": 12,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Хорошо. Но если завтра интернет не появится, я снова буду звонить, и тогда уже всерьёз!",
+    "clean_text": "Хорошо. Но если завтра интернет не появится, я снова буду звонить, и тогда уже всерьёз!",
+    "gold_doc_ids": [
+      "mts_escalation_l2",
+      "mts_retention"
+    ],
+    "file": "rc_06_t12.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_07",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Я наконец-то посмотрел детализацию и в шоке! С меня каждую неделю списывают какие-то подписки, которые я в глаза не видел! Вы что, воруете у клиентов потихоньку?!",
+    "clean_text": "Я наконец-то посмотрел детализацию и в шоке! С меня каждую неделю списывают какие-то подписки, которые я в глаза не видел! Вы что, воруете у клиентов потихоньку?!",
+    "gold_doc_ids": [
+      "beeline_paid_subscriptions",
+      "beeline_detailization"
+    ],
+    "file": "rc_07_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_07",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Я по рекламе никуда не тыкал! Отключайте всё это немедленно и верните мне мои деньги за три месяца!",
+    "clean_text": "Я по рекламе никуда не тыкал! Отключайте всё это немедленно и верните мне мои деньги за три месяца!",
+    "gold_doc_ids": [
+      "beeline_paid_subscriptions",
+      "beeline_compensation"
+    ],
+    "file": "rc_07_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_07",
+    "company": "beeline",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А где гарантия, что эта дрянь снова не налипнет на мой номер через неделю?!",
+    "clean_text": "А где гарантия, что эта дрянь снова не налипнет на мой номер через неделю?!",
+    "gold_doc_ids": [
+      "beeline_paid_subscriptions"
+    ],
+    "file": "rc_07_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_07",
+    "company": "beeline",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ладно. И когда деньги-то вернутся? Только не говорите, что через сто лет.",
+    "clean_text": "Ладно. И когда деньги-то вернутся? Только не говорите, что через сто лет.",
+    "gold_doc_ids": [
+      "beeline_compensation",
+      "beeline_escalation_l2"
+    ],
+    "file": "rc_07_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_07",
+    "company": "beeline",
+    "turn_idx": 8,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И ещё хочу полную детализацию за эти три месяца, чтобы я сам видел, сколько вы с меня сняли!",
+    "clean_text": "И ещё хочу полную детализацию за эти три месяца, чтобы я сам видел, сколько вы с меня сняли!",
+    "gold_doc_ids": [
+      "beeline_detailization"
+    ],
+    "file": "rc_07_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_08",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... Я звоню по поводу номера моей мамы. Она... недавно ушла из жизни. Мне очень тяжело, но нужно закрыть её номер и договор.",
+    "clean_text": "Здравствуйте... Я звоню по поводу номера моей мамы. Она... недавно ушла из жизни. Мне очень тяжело, но нужно закрыть её номер и договор.",
+    "gold_doc_ids": [
+      "beeline_contract_termination"
+    ],
+    "file": "rc_08_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_08",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо... Я просто не знаю, с чего начать. Что мне для этого нужно?",
+    "clean_text": "Спасибо... Я просто не знаю, с чего начать. Что мне для этого нужно?",
+    "gold_doc_ids": [
+      "beeline_contract_termination"
+    ],
+    "file": "rc_08_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_08",
+    "company": "beeline",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А там вроде интернет домашний к ней был подключён, и какой-то роутер... С ним что делать?",
+    "clean_text": "А там вроде интернет домашний к ней был подключён, и какой-то роутер... С ним что делать?",
+    "gold_doc_ids": [
+      "beeline_contract_termination"
+    ],
+    "file": "rc_08_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_08",
+    "company": "beeline",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А деньги, что у неё на счету остались... мне их вернут или они просто сгорят? Я не из-за денег, просто хочется всё закрыть по-человечески.",
+    "clean_text": "А деньги, что у неё на счету остались... мне их вернут или они просто сгорят? Я не из-за денег, просто хочется всё закрыть по-человечески.",
+    "gold_doc_ids": [
+      "beeline_contract_termination"
+    ],
+    "file": "rc_08_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_09",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Добрый день. Хочу понять, сколько у меня сейчас на счету и куда вообще уходят деньги за месяц.",
+    "clean_text": "Добрый день. Хочу понять, сколько у меня сейчас на счету и куда вообще уходят деньги за месяц.",
+    "gold_doc_ids": [
+      "beeline_balance_check",
+      "beeline_detailization"
+    ],
+    "file": "rc_09_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_09",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Давайте детализацию. А она придёт куда — на почту или как?",
+    "clean_text": "Давайте детализацию. А она придёт куда — на почту или как?",
+    "gold_doc_ids": [
+      "beeline_detailization"
+    ],
+    "file": "rc_09_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_10",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Здравствуйте, купил новый телефон, а старая симка туда не влезает — нужен формат поменьше. Номер потеряю?",
+    "clean_text": "Здравствуйте, купил новый телефон, а старая симка туда не влезает — нужен формат поменьше. Номер потеряю?",
+    "gold_doc_ids": [
+      "beeline_sim_replacement"
+    ],
+    "file": "rc_10_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_10",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Понял. А баланс и подключённые услуги тоже останутся?",
+    "clean_text": "Понял. А баланс и подключённые услуги тоже останутся?",
+    "gold_doc_ids": [
+      "beeline_sim_replacement"
+    ],
+    "file": "rc_10_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_10",
+    "company": "beeline",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Нет, давайте обычную nano. А долго новую активируют после того, как я её вставлю?",
+    "clean_text": "Нет, давайте обычную nano. А долго новую активируют после того, как я её вставлю?",
+    "gold_doc_ids": [
+      "beeline_sim_replacement"
+    ],
+    "file": "rc_10_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_11",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Доченька, помоги старику... У меня домашний телефон замолчал, гудков нет совсем. Это же моя единственная ниточка к детям, я живу один, они мне только по нему и звонят... мне так страшно и одиноко без него.",
+    "clean_text": "Доченька, помоги старику... У меня домашний телефон замолчал, гудков нет совсем. Это же моя единственная ниточка к детям, я живу один, они мне только по нему и звонят... мне так страшно и одиноко без него.",
+    "gold_doc_ids": [
+      "beeline_home_phone"
+    ],
+    "file": "rc_11_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_11",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Совсем тихо, как будто умер он. Я уж и так и сяк трубку поднимал, и провод смотрел... руки трясутся, ничего не пойму.",
+    "clean_text": "Совсем тихо, как будто умер он. Я уж и так и сяк трубку поднимал, и провод смотрел... руки трясутся, ничего не пойму.",
+    "gold_doc_ids": [
+      "beeline_home_phone"
+    ],
+    "file": "rc_11_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_11",
+    "company": "beeline",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вот... пошевелил провод у розетки — кажется, он был неплотно. Сейчас послушаю... ой, гудок появился! Появился, родная!",
+    "clean_text": "Вот... пошевелил провод у розетки — кажется, он был неплотно. Сейчас послушаю... ой, гудок появился! Появился, родная!",
+    "gold_doc_ids": [
+      "beeline_home_phone"
+    ],
+    "file": "rc_11_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_11",
+    "company": "beeline",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо тебе огромное, я уж думал, совсем меня тут забыли все... А если опять замолчит, я ведь и не знаю, что делать.",
+    "clean_text": "Спасибо тебе огромное, я уж думал, совсем меня тут забыли все... А если опять замолчит, я ведь и не знаю, что делать.",
+    "gold_doc_ids": [
+      "beeline_home_phone",
+      "beeline_escalation_l2"
+    ],
+    "file": "rc_11_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_11",
+    "company": "beeline",
+    "turn_idx": 8,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А можно как-то сделать, чтобы дети меня и на мобильный набирали, если домашний опять подведёт? Мне бы спокойнее было.",
+    "clean_text": "А можно как-то сделать, чтобы дети меня и на мобильный набирали, если домашний опять подведёт? Мне бы спокойнее было.",
+    "gold_doc_ids": [
+      "beeline_tariff_details",
+      "beeline_balance_check"
+    ],
+    "file": "rc_11_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_11",
+    "company": "beeline",
+    "turn_idx": 10,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вот спасибо, успокоила старика. Дай тебе бог здоровья, доченька.",
+    "clean_text": "Вот спасибо, успокоила старика. Дай тебе бог здоровья, доченька.",
+    "gold_doc_ids": [
+      "beeline_home_phone"
+    ],
+    "file": "rc_11_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_12",
+    "company": "beeline",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] У меня дома вообще сеть пропала, телефон пишет «Только экстренные вызовы»! Я не могу ни позвонить, ни принять звонок! Что у вас опять сломалось?!",
+    "clean_text": "У меня дома вообще сеть пропала, телефон пишет «Только экстренные вызовы»! Я не могу ни позвонить, ни принять звонок! Что у вас опять сломалось?!",
+    "gold_doc_ids": [
+      "beeline_no_signal"
+    ],
+    "file": "rc_12_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_12",
+    "company": "beeline",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Делал я этот режим полёта, и перезагружал! Не помогает ничего! У меня уже три дня так, я задолбался!",
+    "clean_text": "Делал я этот режим полёта, и перезагружал! Не помогает ничего! У меня уже три дня так, я задолбался!",
+    "gold_doc_ids": [
+      "beeline_no_signal",
+      "beeline_compensation"
+    ],
+    "file": "rc_12_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_12",
+    "company": "beeline",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Три дня без связи — и это вы называете «неудобства»?! Я плачу деньги, а получаю ноль! Где компенсация?!",
+    "clean_text": "Три дня без связи — и это вы называете «неудобства»?! Я плачу деньги, а получаю ноль! Где компенсация?!",
+    "gold_doc_ids": [
+      "beeline_compensation",
+      "beeline_escalation_l2"
+    ],
+    "file": "rc_12_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_12",
+    "company": "beeline",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И когда уже эту вышку почините?! Мне до сих пор не позвонить никому, я как в каменном веке!",
+    "clean_text": "И когда уже эту вышку почините?! Мне до сих пор не позвонить никому, я как в каменном веке!",
+    "gold_doc_ids": [
+      "beeline_no_signal",
+      "beeline_escalation_l2"
+    ],
+    "file": "rc_12_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_13",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вы опять подняли мне абонентку без спроса! Я уже устал от этих ваших постоянных повышений. Всё, перевожусь к другому оператору, надоело переплачивать!",
+    "clean_text": "Вы опять подняли мне абонентку без спроса! Я уже устал от этих ваших постоянных повышений. Всё, перевожусь к другому оператору, надоело переплачивать!",
+    "gold_doc_ids": [
+      "megafon_retention",
+      "megafon_tariff_change"
+    ],
+    "file": "rc_13_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_13",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да я уже на архивном тарифе сижу сто лет, и он мне дорожает каждый год! Что вы можете предложить, чтобы я остался?",
+    "clean_text": "Да я уже на архивном тарифе сижу сто лет, и он мне дорожает каждый год! Что вы можете предложить, чтобы я остался?",
+    "gold_doc_ids": [
+      "megafon_tariff_change",
+      "megafon_tariff_details"
+    ],
+    "file": "rc_13_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_13",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Мне бы интернета побольше, гигов так на тридцать, и звонки. Если выйдет дешевле — может, и останусь.",
+    "clean_text": "Мне бы интернета побольше, гигов так на тридцать, и звонки. Если выйдет дешевле — может, и останусь.",
+    "gold_doc_ids": [
+      "megafon_tariff_change",
+      "megafon_retention"
+    ],
+    "file": "rc_13_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_13",
+    "company": "megafon",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "А мои неиспользованные гигабайты с текущего тарифа перенесутся или сгорят?",
+    "clean_text": "А мои неиспользованные гигабайты с текущего тарифа перенесутся или сгорят?",
+    "gold_doc_ids": [
+      "megafon_tariff_change"
+    ],
+    "file": "rc_13_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_13",
+    "company": "megafon",
+    "turn_idx": 8,
+    "emotion": "neutral",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.4,
+    "send_text": "Ладно, уговорили, давайте попробуем новый тариф. Но если будет хуже — я всё-таки уйду.",
+    "clean_text": "Ладно, уговорили, давайте попробуем новый тариф. Но если будет хуже — я всё-таки уйду.",
+    "gold_doc_ids": [
+      "megafon_tariff_change",
+      "megafon_retention"
+    ],
+    "file": "rc_13_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_14",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Пожалуйста, помогите скорее... У меня маленький сын горит весь в температуре, мне нужно вызвать врача, а у меня телефон сеть не ловит! Я одна с ним, я в ужасе, не знаю, что делать!",
+    "clean_text": "Пожалуйста, помогите скорее... У меня маленький сын горит весь в температуре, мне нужно вызвать врача, а у меня телефон сеть не ловит! Я одна с ним, я в ужасе, не знаю, что делать!",
+    "gold_doc_ids": [
+      "megafon_no_signal"
+    ],
+    "file": "rc_14_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_14",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Сделала... подождите... нет, всё равно ничего, ни одной палочки! Господи, ну почему сейчас-то, когда ребёнку плохо...",
+    "clean_text": "Сделала... подождите... нет, всё равно ничего, ни одной палочки! Господи, ну почему сейчас-то, когда ребёнку плохо...",
+    "gold_doc_ids": [
+      "megafon_no_signal"
+    ],
+    "file": "rc_14_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_14",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Перезагрузила, симку поправила... ой, появилась сеть! Две палочки! Спасибо, я уже звоню в скорую!",
+    "clean_text": "Перезагрузила, симку поправила... ой, появилась сеть! Две палочки! Спасибо, я уже звоню в скорую!",
+    "gold_doc_ids": [
+      "megafon_no_signal"
+    ],
+    "file": "rc_14_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_14",
+    "company": "megafon",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А вдруг опять пропадёт, пока врач едет? Я так боюсь снова остаться без связи с ним наедине...",
+    "clean_text": "А вдруг опять пропадёт, пока врач едет? Я так боюсь снова остаться без связи с ним наедине...",
+    "gold_doc_ids": [
+      "megafon_no_signal",
+      "megafon_escalation_l2"
+    ],
+    "file": "rc_14_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_14",
+    "company": "megafon",
+    "turn_idx": 8,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А можно, чтобы у меня хоть на экстренный случай всегда были деньги на счету? Вдруг закончатся, и я снова не дозвонюсь...",
+    "clean_text": "А можно, чтобы у меня хоть на экстренный случай всегда были деньги на счету? Вдруг закончатся, и я снова не дозвонюсь...",
+    "gold_doc_ids": [
+      "megafon_autopay",
+      "megafon_balance_check"
+    ],
+    "file": "rc_14_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_14",
+    "company": "megafon",
+    "turn_idx": 10,
+    "emotion": "positive",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Спасибо вам огромное... вы меня правда выручили. Мне теперь хоть немного спокойнее.",
+    "clean_text": "Спасибо вам огромное... вы меня правда выручили. Мне теперь хоть немного спокойнее.",
+    "gold_doc_ids": [
+      "megafon_no_signal"
+    ],
+    "file": "rc_14_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_15",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Через неделю лечу в Турцию, хочу заранее разобраться, как с интернетом и звонками, чтобы потом счёт не удивил.",
+    "clean_text": "Здравствуйте. Через неделю лечу в Турцию, хочу заранее разобраться, как с интернетом и звонками, чтобы потом счёт не удивил.",
+    "gold_doc_ids": [
+      "megafon_roaming_world"
+    ],
+    "file": "rc_15_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_15",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Да, давайте такую опцию. А что-то ещё стоит сделать, чтобы случайно деньги не утекли?",
+    "clean_text": "Да, давайте такую опцию. А что-то ещё стоит сделать, чтобы случайно деньги не утекли?",
+    "gold_doc_ids": [
+      "megafon_roaming_world"
+    ],
+    "file": "rc_15_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_16",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Добрый день. Постоянно забываю пополнять счёт и уходит в минус. Можно как-то сделать, чтобы пополнялось само?",
+    "clean_text": "Добрый день. Постоянно забываю пополнять счёт и уходит в минус. Можно как-то сделать, чтобы пополнялось само?",
+    "gold_doc_ids": [
+      "megafon_autopay"
+    ],
+    "file": "rc_16_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_16",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "А карту надо привязывать? И уведомления о списаниях будут приходить?",
+    "clean_text": "А карту надо привязывать? И уведомления о списаниях будут приходить?",
+    "gold_doc_ids": [
+      "megafon_autopay"
+    ],
+    "file": "rc_16_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_16",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Удобно. Давайте настроим по порогу, чтоб не уходило в минус.",
+    "clean_text": "Удобно. Давайте настроим по порогу, чтоб не уходило в минус.",
+    "gold_doc_ids": [
+      "megafon_autopay"
+    ],
+    "file": "rc_16_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_17",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] У меня мобильный интернет вообще сдох! Сайты не грузятся, мессенджеры молчат, а деления сети при этом есть! Я уже сутки как без интернета, это безобразие!",
+    "clean_text": "У меня мобильный интернет вообще сдох! Сайты не грузятся, мессенджеры молчат, а деления сети при этом есть! Я уже сутки как без интернета, это безобразие!",
+    "gold_doc_ids": [
+      "megafon_mobile_internet_down"
+    ],
+    "file": "rc_17_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_17",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Передачу данных включал, перезагружал — НИЧЕГО! Пакет у меня точно не кончился, я только вчера проверял! В чём дело?!",
+    "clean_text": "Передачу данных включал, перезагружал — НИЧЕГО! Пакет у меня точно не кончился, я только вчера проверял! В чём дело?!",
+    "gold_doc_ids": [
+      "megafon_mobile_internet_down",
+      "megafon_apn_settings"
+    ],
+    "file": "rc_17_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_17",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ладно, прислали настройки, применил... вроде заработало. Но сутки-то я без интернета сидел! Кто мне это вернёт?!",
+    "clean_text": "Ладно, прислали настройки, применил... вроде заработало. Но сутки-то я без интернета сидел! Кто мне это вернёт?!",
+    "gold_doc_ids": [
+      "megafon_compensation"
+    ],
+    "file": "rc_17_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_17",
+    "company": "megafon",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вот и оформляйте. И сделайте уже так, чтобы это не повторялось каждую неделю!",
+    "clean_text": "Вот и оформляйте. И сделайте уже так, чтобы это не повторялось каждую неделю!",
+    "gold_doc_ids": [
+      "megafon_compensation",
+      "megafon_escalation_l2"
+    ],
+    "file": "rc_17_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_17",
+    "company": "megafon",
+    "turn_idx": 8,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И детализацию мне пришлите за эти сутки, хочу видеть, что вы там насчитали!",
+    "clean_text": "И детализацию мне пришлите за эти сутки, хочу видеть, что вы там насчитали!",
+    "gold_doc_ids": [
+      "megafon_detailization"
+    ],
+    "file": "rc_17_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_18",
+    "company": "megafon",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... Мне ужасно стыдно звонить с таким вопросом. Я уже два месяца без работы, денег совсем нет, и у меня копится долг по счёту. Я не знаю, как выбраться из этой ямы...",
+    "clean_text": "Здравствуйте... Мне ужасно стыдно звонить с таким вопросом. Я уже два месяца без работы, денег совсем нет, и у меня копится долг по счёту. Я не знаю, как выбраться из этой ямы...",
+    "gold_doc_ids": [
+      "megafon_balance_check",
+      "megafon_topup"
+    ],
+    "file": "rc_18_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_18",
+    "company": "megafon",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Я просто боюсь, что мне сейчас совсем отключат связь, а без телефона я и работу не найду... это какой-то замкнутый круг.",
+    "clean_text": "Я просто боюсь, что мне сейчас совсем отключат связь, а без телефона я и работу не найду... это какой-то замкнутый круг.",
+    "gold_doc_ids": [
+      "megafon_tariff_change",
+      "megafon_topup"
+    ],
+    "file": "rc_18_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_18",
+    "company": "megafon",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо... а можно проверить, нет ли лишних услуг, за которые с меня капают деньги? Каждый рубль на счету.",
+    "clean_text": "Спасибо... а можно проверить, нет ли лишних услуг, за которые с меня капают деньги? Каждый рубль на счету.",
+    "gold_doc_ids": [
+      "megafon_paid_subscriptions"
+    ],
+    "file": "rc_18_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_18",
+    "company": "megafon",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А сколько хоть будет стоить связь на этом экономном тарифе? Мне надо понимать, потяну я или нет...",
+    "clean_text": "А сколько хоть будет стоить связь на этом экономном тарифе? Мне надо понимать, потяну я или нет...",
+    "gold_doc_ids": [
+      "megafon_tariff_change",
+      "megafon_tariff_details"
+    ],
+    "file": "rc_18_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_18",
+    "company": "megafon",
+    "turn_idx": 8,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А если я смогу пополнять только понемногу, по чуть-чуть? Сразу всю сумму мне сейчас никак не собрать.",
+    "clean_text": "А если я смогу пополнять только понемногу, по чуть-чуть? Сразу всю сумму мне сейчас никак не собрать.",
+    "gold_doc_ids": [
+      "megafon_topup",
+      "megafon_autopay"
+    ],
+    "file": "rc_18_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_18",
+    "company": "megafon",
+    "turn_idx": 10,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо вам... вы первый человек за долгое время, кто не отмахнулся от меня. Мне правда стало чуть легче.",
+    "clean_text": "Спасибо вам... вы первый человек за долгое время, кто не отмахнулся от меня. Мне правда стало чуть легче.",
+    "gold_doc_ids": [
+      "megafon_retention"
+    ],
+    "file": "rc_18_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_19",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Еду на месяц в Сочи к родственникам, хочу заранее узнать — связь и интернет там будут работать как дома или появится какая-то доплата?",
+    "clean_text": "Здравствуйте. Еду на месяц в Сочи к родственникам, хочу заранее узнать — связь и интернет там будут работать как дома или появится какая-то доплата?",
+    "gold_doc_ids": [
+      "tele2_roaming_russia"
+    ],
+    "file": "rc_19_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_19",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, а входящие звонки там тоже бесплатные будут?",
+    "clean_text": "Отлично, а входящие звонки там тоже бесплатные будут?",
+    "gold_doc_ids": [
+      "tele2_roaming_russia"
+    ],
+    "file": "rc_19_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_20",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Что за дела? У меня деньги со счёта утекают непонятно куда, баланс тает на глазах! Наверняка вы мне каких-то подписок навешали без спроса!",
+    "clean_text": "Что за дела? У меня деньги со счёта утекают непонятно куда, баланс тает на глазах! Наверняка вы мне каких-то подписок навешали без спроса!",
+    "gold_doc_ids": [
+      "tele2_paid_subscriptions",
+      "tele2_balance_check"
+    ],
+    "file": "rc_20_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_20",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вот именно отключите всё! И больше чтобы никаких сюрпризов на моём счету не было!",
+    "clean_text": "Вот именно отключите всё! И больше чтобы никаких сюрпризов на моём счету не было!",
+    "gold_doc_ids": [
+      "tele2_paid_subscriptions"
+    ],
+    "file": "rc_20_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_20",
+    "company": "tele2",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Nikolay Confident RU",
+    "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А за то, что уже списали зря, деньги можно вернуть?",
+    "clean_text": "А за то, что уже списали зря, деньги можно вернуть?",
+    "gold_doc_ids": [
+      "tele2_detailization",
+      "tele2_compensation"
+    ],
+    "file": "rc_20_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_21",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... Я недавно похоронила мужа. У него был номер у вас, и мне нужно его закрыть. Простите, мне очень трудно об этом говорить, мы прожили вместе сорок лет...",
+    "clean_text": "Здравствуйте... Я недавно похоронила мужа. У него был номер у вас, и мне нужно его закрыть. Простите, мне очень трудно об этом говорить, мы прожили вместе сорок лет...",
+    "gold_doc_ids": [
+      "tele2_contract_termination"
+    ],
+    "file": "rc_21_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_21",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо за понимание... Я совсем растерянная, у меня сил ни на что нет. Что мне нужно сделать?",
+    "clean_text": "Спасибо за понимание... Я совсем растерянная, у меня сил ни на что нет. Что мне нужно сделать?",
+    "gold_doc_ids": [
+      "tele2_contract_termination"
+    ],
+    "file": "rc_21_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_21",
+    "company": "tele2",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А с него вдруг ещё какие-то деньги списываться будут, пока я туда дойду? Я не хочу, чтобы долг рос...",
+    "clean_text": "А с него вдруг ещё какие-то деньги списываться будут, пока я туда дойду? Я не хочу, чтобы долг рос...",
+    "gold_doc_ids": [
+      "tele2_block_number"
+    ],
+    "file": "rc_21_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_21",
+    "company": "tele2",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Да, заблокируйте, пожалуйста... Хоть на одну заботу меньше будет. Спасибо вам, что вы так по-человечески.",
+    "clean_text": "Да, заблокируйте, пожалуйста... Хоть на одну заботу меньше будет. Спасибо вам, что вы так по-человечески.",
+    "gold_doc_ids": [
+      "tele2_block_number",
+      "tele2_contract_termination"
+    ],
+    "file": "rc_21_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_21",
+    "company": "tele2",
+    "turn_idx": 8,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А остаток денег с его счёта... мне его правда вернут? Там немного, но всё же.",
+    "clean_text": "А остаток денег с его счёта... мне его правда вернут? Там немного, но всё же.",
+    "gold_doc_ids": [
+      "tele2_contract_termination",
+      "tele2_balance_check"
+    ],
+    "file": "rc_21_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_21",
+    "company": "tele2",
+    "turn_idx": 10,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо... вы очень добры. Мне было так страшно звонить, а вы всё разъяснили.",
+    "clean_text": "Спасибо... вы очень добры. Мне было так страшно звонить, а вы всё разъяснили.",
+    "gold_doc_ids": [
+      "tele2_contract_termination"
+    ],
+    "file": "rc_21_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_22",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Добрый вечер. У меня телевизор пишет «Нет сигнала», приставка вроде включена, а картинки нет. Поможете разобраться?",
+    "clean_text": "Добрый вечер. У меня телевизор пишет «Нет сигнала», приставка вроде включена, а картинки нет. Поможете разобраться?",
+    "gold_doc_ids": [
+      "tele2_iptv_no_signal"
+    ],
+    "file": "rc_22_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_22",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Так, вход переключил, приставку и роутер выключал-включал... о, картинка появилась! А почему оно вообще пропало?",
+    "clean_text": "Так, вход переключил, приставку и роутер выключал-включал... о, картинка появилась! А почему оно вообще пропало?",
+    "gold_doc_ids": [
+      "tele2_iptv_no_signal"
+    ],
+    "file": "rc_22_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_22",
+    "company": "tele2",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Понял, спасибо. А если совсем перестанет работать, что тогда?",
+    "clean_text": "Понял, спасибо. А если совсем перестанет работать, что тогда?",
+    "gold_doc_ids": [
+      "tele2_iptv_no_signal"
+    ],
+    "file": "rc_22_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_22",
+    "company": "tele2",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "А ТВ ведь через домашний интернет работает? Если интернет совсем пропадёт, телевизор тоже встанет?",
+    "clean_text": "А ТВ ведь через домашний интернет работает? Если интернет совсем пропадёт, телевизор тоже встанет?",
+    "gold_doc_ids": [
+      "tele2_iptv_no_signal",
+      "tele2_home_internet_down"
+    ],
+    "file": "rc_22_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_23",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Я переехал в новую квартиру, и у меня тут вообще нет вашей сети! Ни позвонить, ни выйти в интернет! Я плачу вам деньги за воздух, это что вообще такое?!",
+    "clean_text": "Я переехал в новую квартиру, и у меня тут вообще нет вашей сети! Ни позвонить, ни выйти в интернет! Я плачу вам деньги за воздух, это что вообще такое?!",
+    "gold_doc_ids": [
+      "tele2_no_signal"
+    ],
+    "file": "rc_23_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_23",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Делал я всё это! И режим полёта, и перезагрузку, и симку перетыкал! По нулям! У соседа другой оператор ловит, а ваш — нет!",
+    "clean_text": "Делал я всё это! И режим полёта, и перезагрузку, и симку перетыкал! По нулям! У соседа другой оператор ловит, а ваш — нет!",
+    "gold_doc_ids": [
+      "tele2_no_signal",
+      "tele2_escalation_l2"
+    ],
+    "file": "rc_23_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_23",
+    "company": "tele2",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И что мне теперь, сидеть без связи и ждать у моря погоды?! Я же плачу полную абонентку, а пользоваться не могу!",
+    "clean_text": "И что мне теперь, сидеть без связи и ждать у моря погоды?! Я же плачу полную абонентку, а пользоваться не могу!",
+    "gold_doc_ids": [
+      "tele2_compensation"
+    ],
+    "file": "rc_23_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_23",
+    "company": "tele2",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А если у вас тут вообще покрытия нормального нет и не будет? Мне тогда вообще от вас уходить?",
+    "clean_text": "А если у вас тут вообще покрытия нормального нет и не будет? Мне тогда вообще от вас уходить?",
+    "gold_doc_ids": [
+      "tele2_escalation_l2",
+      "tele2_retention"
+    ],
+    "file": "rc_23_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_23",
+    "company": "tele2",
+    "turn_idx": 8,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] А пока суд да дело — мне как вообще на связь выходить?! Мне по работе звонят постоянно!",
+    "clean_text": "А пока суд да дело — мне как вообще на связь выходить?! Мне по работе звонят постоянно!",
+    "gold_doc_ids": [
+      "tele2_wifi_weak",
+      "tele2_apn_settings"
+    ],
+    "file": "rc_23_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_23",
+    "company": "tele2",
+    "turn_idx": 10,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ладно, Wi-Fi у меня есть, попробую. Но если за неделю ничего не решите — я ухожу, и компенсацию свою заберу!",
+    "clean_text": "Ладно, Wi-Fi у меня есть, попробую. Но если за неделю ничего не решите — я ухожу, и компенсацию свою заберу!",
+    "gold_doc_ids": [
+      "tele2_compensation",
+      "tele2_escalation_l2"
+    ],
+    "file": "rc_23_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_24",
+    "company": "tele2",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте, подскажите, какими способами можно пополнить счёт? Хочу выбрать что-то без комиссии.",
+    "clean_text": "Здравствуйте, подскажите, какими способами можно пополнить счёт? Хочу выбрать что-то без комиссии.",
+    "gold_doc_ids": [
+      "tele2_topup"
+    ],
+    "file": "rc_24_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_24",
+    "company": "tele2",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Larisa Actrisa RU",
+    "voice_id": "AB9XsbSA4eLG12t2myjN",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Отлично, тогда через приложение и буду. А деньги сразу зачисляются?",
+    "clean_text": "Отлично, тогда через приложение и буду. А деньги сразу зачисляются?",
+    "gold_doc_ids": [
+      "tele2_topup",
+      "tele2_balance_check"
+    ],
+    "file": "rc_24_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Шестой день нет интернета! ШЕСТОЙ! Я работаю из дома, и из-за вас уже чуть не вылетел с работы! Сколько можно кормить завтраками?!",
+    "clean_text": "Шестой день нет интернета! ШЕСТОЙ! Я работаю из дома, и из-за вас уже чуть не вылетел с работы! Сколько можно кормить завтраками?!",
+    "gold_doc_ids": [
+      "rostelecom_home_internet_down",
+      "rostelecom_router_indicators"
+    ],
+    "file": "rc_25_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Да горит там какой-то красный значок! Я уже всё перезагружал по сто раз, кабели проверял — БЕСПОЛЕЗНО!",
+    "clean_text": "Да горит там какой-то красный значок! Я уже всё перезагружал по сто раз, кабели проверял — БЕСПОЛЕЗНО!",
+    "gold_doc_ids": [
+      "rostelecom_router_indicators",
+      "rostelecom_cable_check"
+    ],
+    "file": "rc_25_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 4,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Вот и я о том! Проблема у вас, а не у меня! Когда вы наконец это почините?!",
+    "clean_text": "Вот и я о том! Проблема у вас, а не у меня! Когда вы наконец это почините?!",
+    "gold_doc_ids": [
+      "rostelecom_technician_visit",
+      "rostelecom_escalation_l2"
+    ],
+    "file": "rc_25_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 6,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Завтра с утра, и чтоб точно приехали, а не как обычно! А мне дома обязательно быть?",
+    "clean_text": "Завтра с утра, и чтоб точно приехали, а не как обычно! А мне дома обязательно быть?",
+    "gold_doc_ids": [
+      "rostelecom_technician_visit"
+    ],
+    "file": "rc_25_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 8,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И что — я просто подарю вам неделю оплаченного интернета?! Где компенсация за этот кошмар?!",
+    "clean_text": "И что — я просто подарю вам неделю оплаченного интернета?! Где компенсация за этот кошмар?!",
+    "gold_doc_ids": [
+      "rostelecom_compensation"
+    ],
+    "file": "rc_25_t8.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 10,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] И за выезд мастера мне ещё платить?! Этого только не хватало!",
+    "clean_text": "И за выезд мастера мне ещё платить?! Этого только не хватало!",
+    "gold_doc_ids": [
+      "rostelecom_technician_visit"
+    ],
+    "file": "rc_25_t10.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_25",
+    "company": "rostelecom",
+    "turn_idx": 12,
+    "emotion": "angry",
+    "voice_name": "Sergey Deep RU",
+    "voice_id": "XuEV9VY3VUASYgJVNBh0",
+    "stability": 0.3,
+    "send_text": "[furious] [shouting] Ну хоть так. Смотрите, если завтра не приедут и не починят — я этого так не оставлю!",
+    "clean_text": "Ну хоть так. Смотрите, если завтра не приедут и не починят — я этого так не оставлю!",
+    "gold_doc_ids": [
+      "rostelecom_escalation_l2"
+    ],
+    "file": "rc_25_t12.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_26",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... Я развелась, переезжаю одна на съёмную квартиру, начинаю жизнь с нуля. Хочу хотя бы интернет с собой забрать, чтоб совсем уж пусто не было. Это вообще возможно?",
+    "clean_text": "Здравствуйте... Я развелась, переезжаю одна на съёмную квартиру, начинаю жизнь с нуля. Хочу хотя бы интернет с собой забрать, чтоб совсем уж пусто не было. Это вообще возможно?",
+    "gold_doc_ids": [
+      "rostelecom_relocation"
+    ],
+    "file": "rc_26_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_26",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Адрес скажу... А если там можно подключить, мне тариф не поднимут? У меня сейчас и так каждая копейка на счету.",
+    "clean_text": "Адрес скажу... А если там можно подключить, мне тариф не поднимут? У меня сейчас и так каждая копейка на счету.",
+    "gold_doc_ids": [
+      "rostelecom_relocation"
+    ],
+    "file": "rc_26_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_26",
+    "company": "rostelecom",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Это хоть немного успокаивает... А когда смогут подключить? Я очень не хочу оставаться там совсем одна и без связи.",
+    "clean_text": "Это хоть немного успокаивает... А когда смогут подключить? Я очень не хочу оставаться там совсем одна и без связи.",
+    "gold_doc_ids": [
+      "rostelecom_relocation",
+      "rostelecom_technician_visit"
+    ],
+    "file": "rc_26_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_26",
+    "company": "rostelecom",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А роутер свой я могу с собой забрать? Просто покупать новый сейчас мне совсем не по карману...",
+    "clean_text": "А роутер свой я могу с собой забрать? Просто покупать новый сейчас мне совсем не по карману...",
+    "gold_doc_ids": [
+      "rostelecom_relocation",
+      "rostelecom_equipment_return"
+    ],
+    "file": "rc_26_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_27",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.4,
+    "send_text": "Добрый день. Включаю телевизор, а там чёрный экран и «Нет сигнала», приставка Ростелеком вроде работает. Что не так?",
+    "clean_text": "Добрый день. Включаю телевизор, а там чёрный экран и «Нет сигнала», приставка Ростелеком вроде работает. Что не так?",
+    "gold_doc_ids": [
+      "rostelecom_iptv_no_signal"
+    ],
+    "file": "rc_27_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_27",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "positive",
+    "voice_name": "Nadia Energetic RU",
+    "voice_id": "gedzfqL7OGdPbwm0ynTP",
+    "stability": 0.35,
+    "send_text": "[happy] [excited] Вход переключил, приставку перезагрузил — картинка появилась! Спасибо. А это надолго починилось?",
+    "clean_text": "Вход переключил, приставку перезагрузил — картинка появилась! Спасибо. А это надолго починилось?",
+    "gold_doc_ids": [
+      "rostelecom_iptv_no_signal"
+    ],
+    "file": "rc_27_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_28",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. Интернет работает, но всё жутко медленно — видео тормозит, сайты долго грузятся. У меня вроде тариф быстрый. В чём может быть дело?",
+    "clean_text": "Здравствуйте. Интернет работает, но всё жутко медленно — видео тормозит, сайты долго грузятся. У меня вроде тариф быстрый. В чём может быть дело?",
+    "gold_doc_ids": [
+      "rostelecom_speed_slow"
+    ],
+    "file": "rc_28_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_28",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "По кабелю замерил — скорость нормальная, как в тарифе. А вот по Wi-Fi на телефоне совсем медленно.",
+    "clean_text": "По кабелю замерил — скорость нормальная, как в тарифе. А вот по Wi-Fi на телефоне совсем медленно.",
+    "gold_doc_ids": [
+      "rostelecom_speed_slow",
+      "rostelecom_wifi_weak"
+    ],
+    "file": "rc_28_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_28",
+    "company": "rostelecom",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "А роутер у меня в углу за шкафом стоит. Может, в этом причина?",
+    "clean_text": "А роутер у меня в углу за шкафом стоит. Может, в этом причина?",
+    "gold_doc_ids": [
+      "rostelecom_wifi_weak"
+    ],
+    "file": "rc_28_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_28",
+    "company": "rostelecom",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Maxim Calm RU",
+    "voice_id": "HcaxAsrhw4ByUo4CBCBN",
+    "stability": 0.4,
+    "send_text": "Понял, переставлю. А если и это не поможет, есть ещё что-то?",
+    "clean_text": "Понял, переставлю. А если и это не поможет, есть ещё что-то?",
+    "gold_doc_ids": [
+      "rostelecom_wifi_weak",
+      "rostelecom_router_reboot"
+    ],
+    "file": "rc_28_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_29",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Здравствуйте... У меня умер отец, месяц назад. Я разбираю его дела, и у него был ваш домашний интернет. Мне нужно всё это закрыть, но мне очень тяжело этим заниматься...",
+    "clean_text": "Здравствуйте... У меня умер отец, месяц назад. Я разбираю его дела, и у него был ваш домашний интернет. Мне нужно всё это закрыть, но мне очень тяжело этим заниматься...",
+    "gold_doc_ids": [
+      "rostelecom_contract_termination"
+    ],
+    "file": "rc_29_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_29",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Спасибо... Я просто хочу, чтобы за его номером не копился долг, пока я всё оформлю. И там оборудование какое-то осталось.",
+    "clean_text": "Спасибо... Я просто хочу, чтобы за его номером не копился долг, пока я всё оформлю. И там оборудование какое-то осталось.",
+    "gold_doc_ids": [
+      "rostelecom_contract_termination",
+      "rostelecom_equipment_return"
+    ],
+    "file": "rc_29_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_29",
+    "company": "rostelecom",
+    "turn_idx": 4,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] А что именно надо вернуть? Я нашёл у него какой-то роутер и коробочку с проводами, но не знаю, ваше это или нет.",
+    "clean_text": "А что именно надо вернуть? Я нашёл у него какой-то роутер и коробочку с проводами, но не знаю, ваше это или нет.",
+    "gold_doc_ids": [
+      "rostelecom_equipment_return"
+    ],
+    "file": "rc_29_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_29",
+    "company": "rostelecom",
+    "turn_idx": 6,
+    "emotion": "sad",
+    "voice_name": "Marina Soft RU",
+    "voice_id": "ymDCYd8puC7gYjxIamPt",
+    "stability": 0.7,
+    "send_text": "[sad] [crying] Хорошо... спасибо вам, что так спокойно и по-человечески объясняете. Мне правда сейчас тяжело со всем этим.",
+    "clean_text": "Хорошо... спасибо вам, что так спокойно и по-человечески объясняете. Мне правда сейчас тяжело со всем этим.",
+    "gold_doc_ids": [
+      "rostelecom_contract_termination",
+      "rostelecom_escalation_l2"
+    ],
+    "file": "rc_29_t6.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_30",
+    "company": "rostelecom",
+    "turn_idx": 0,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Здравствуйте. У меня Wi-Fi в дальней комнате почти не ловит, а рядом с роутером всё нормально. Как это можно улучшить?",
+    "clean_text": "Здравствуйте. У меня Wi-Fi в дальней комнате почти не ловит, а рядом с роутером всё нормально. Как это можно улучшить?",
+    "gold_doc_ids": [
+      "rostelecom_wifi_weak"
+    ],
+    "file": "rc_30_t0.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_30",
+    "company": "rostelecom",
+    "turn_idx": 2,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "А индикаторы на роутере как должны выглядеть, чтобы я понимал, что всё в порядке?",
+    "clean_text": "А индикаторы на роутере как должны выглядеть, чтобы я понимал, что всё в порядке?",
+    "gold_doc_ids": [
+      "rostelecom_router_indicators"
+    ],
+    "file": "rc_30_t2.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_30",
+    "company": "rostelecom",
+    "turn_idx": 4,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "Понятно. А если переставить роутер не поможет, есть ещё варианты усилить сигнал?",
+    "clean_text": "Понятно. А если переставить роутер не поможет, есть ещё варианты усилить сигнал?",
+    "gold_doc_ids": [
+      "rostelecom_wifi_weak"
+    ],
+    "file": "rc_30_t4.mp3",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "dialogue_id": "rc_30",
+    "company": "rostelecom",
+    "turn_idx": 6,
+    "emotion": "neutral",
+    "voice_name": "Georgy Calm RU",
+    "voice_id": "MYw0upsxdtxs1n97djly",
+    "stability": 0.4,
+    "send_text": "А перезагрузка роутера может помочь? Я его, кажется, год не выключал вообще.",
+    "clean_text": "А перезагрузка роутера может помочь? Я его, кажется, год не выключал вообще.",
+    "gold_doc_ids": [
+      "rostelecom_router_reboot"
+    ],
+    "file": "rc_30_t6.mp3",
+    "ok": true,
+    "error": ""
+  }
+]

@@ -1,0 +1,1136 @@
+[
+  {
+    "file": "polite_complaint_v1_t00.wav",
+    "dialog_id": "polite_complaint_v1",
+    "scenario": "polite_complaint",
+    "label": "sad",
+    "text": "Грустно, что после стольких лет с вами вот такие проблемы.",
+    "speaker": "kseniya",
+    "duration_sec": 3.26
+  },
+  {
+    "file": "polite_complaint_v1_t01.wav",
+    "dialog_id": "polite_complaint_v1",
+    "scenario": "polite_complaint",
+    "label": "sad",
+    "text": "Понимаю ваше беспокойство. Давайте уточним, были ли какие-либо недавние изменения или работы в вашем районе, которые могли бы повлиять на связь?",
+    "speaker": "kseniya",
+    "duration_sec": 9.06
+  },
+  {
+    "file": "polite_complaint_v1_t02.wav",
+    "dialog_id": "polite_complaint_v1",
+    "scenario": "polite_complaint",
+    "label": "neutral",
+    "text": "Понимаю, давайте уточним. Возможно, что-то изменилось в районе или на линии. Проверим, не было ли недавно ремонтов или аварий.",
+    "speaker": "kseniya",
+    "duration_sec": 8.07
+  },
+  {
+    "file": "router_reboot_works_v1_t00.wav",
+    "dialog_id": "router_reboot_works_v1",
+    "scenario": "router_reboot_works",
+    "label": "neutral",
+    "text": "На моём роутере мигает красная лампочка, что это значит?",
+    "speaker": "aidar",
+    "duration_sec": 3.73
+  },
+  {
+    "file": "router_reboot_works_v1_t01.wav",
+    "dialog_id": "router_reboot_works_v1",
+    "scenario": "router_reboot_works",
+    "label": "neutral",
+    "text": "Проверю настройки и состояние роутера, чтобы исключить возможные проблемы.",
+    "speaker": "aidar",
+    "duration_sec": 4.97
+  },
+  {
+    "file": "router_reboot_works_v1_t02.wav",
+    "dialog_id": "router_reboot_works_v1",
+    "scenario": "router_reboot_works",
+    "label": "positive",
+    "text": "Уже проверяю состояние, возможно, обновление прошивки поможет.",
+    "speaker": "aidar",
+    "duration_sec": 4.51
+  },
+  {
+    "file": "planned_works_v1_t00.wav",
+    "dialog_id": "planned_works_v1",
+    "scenario": "planned_works",
+    "label": "neutral",
+    "text": "Интернет отключили без предупреждения! Это безобразие!",
+    "speaker": "aidar",
+    "duration_sec": 3.89
+  },
+  {
+    "file": "planned_works_v1_t01.wav",
+    "dialog_id": "planned_works_v1",
+    "scenario": "planned_works",
+    "label": "angry",
+    "text": "Понимаю ваше недовольство. Давайте уточним, какие именно проблемы вы сейчас испытываете. Возможно, это временные неполадки, и мы постараемся их оперативно устранить.",
+    "speaker": "aidar",
+    "duration_sec": 11.29
+  },
+  {
+    "file": "no_internet_resolved_v0_t00.wav",
+    "dialog_id": "no_internet_resolved_v0",
+    "scenario": "no_internet_resolved",
+    "label": "neutral",
+    "text": "Алло, у меня не работает интернет, помогите разобраться.",
+    "speaker": "kseniya",
+    "duration_sec": 3.15
+  },
+  {
+    "file": "no_internet_resolved_v0_t01.wav",
+    "dialog_id": "no_internet_resolved_v0",
+    "scenario": "no_internet_resolved",
+    "label": "neutral",
+    "text": "Хорошо, давайте перезагрузим роутер. Если проблема останется, попробуем другие шаги.",
+    "speaker": "kseniya",
+    "duration_sec": 5.47
+  },
+  {
+    "file": "no_internet_resolved_v0_t02.wav",
+    "dialog_id": "no_internet_resolved_v0",
+    "scenario": "no_internet_resolved",
+    "label": "neutral",
+    "text": "Хорошо, давайте проверим настройки и перезагрузим роутер. Это поможет понять, не в них ли причина проблемы.",
+    "speaker": "kseniya",
+    "duration_sec": 6.5
+  },
+  {
+    "file": "no_internet_resolved_v0_t03.wav",
+    "dialog_id": "no_internet_resolved_v0",
+    "scenario": "no_internet_resolved",
+    "label": "positive",
+    "text": "Понял, сейчас перезагрузим роутер. Это часто помогает, если проблема временная.",
+    "speaker": "kseniya",
+    "duration_sec": 5.05
+  },
+  {
+    "file": "planned_works_v0_t00.wav",
+    "dialog_id": "planned_works_v0",
+    "scenario": "planned_works",
+    "label": "neutral",
+    "text": "Интернет отключили без предупреждения! Это безобразие!",
+    "speaker": "baya",
+    "duration_sec": 3.84
+  },
+  {
+    "file": "planned_works_v0_t01.wav",
+    "dialog_id": "planned_works_v0",
+    "scenario": "planned_works",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за задержки. Сейчас уточню у специалистов и постараюсь решить проблему как можно быстрее. Возможно, есть возможность подключить временный резервный канал, чтобы вы могли продолжить работу без перебоев?",
+    "speaker": "baya",
+    "duration_sec": 15.14
+  },
+  {
+    "file": "iptv_broken_v1_t00.wav",
+    "dialog_id": "iptv_broken_v1",
+    "scenario": "iptv_broken",
+    "label": "neutral",
+    "text": "Телевизор показывает что нет сигнала, что случилось?",
+    "speaker": "xenia",
+    "duration_sec": 3.2
+  },
+  {
+    "file": "iptv_broken_v1_t01.wav",
+    "dialog_id": "iptv_broken_v1",
+    "scenario": "iptv_broken",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за неудобства. Давайте попробуем быстрее разобраться: проверим, не было ли обновлений настройки или сбой в сети.",
+    "speaker": "xenia",
+    "duration_sec": 8.34
+  },
+  {
+    "file": "polite_complaint_v0_t00.wav",
+    "dialog_id": "polite_complaint_v0",
+    "scenario": "polite_complaint",
+    "label": "sad",
+    "text": "Грустно, что после стольких лет с вами вот такие проблемы.",
+    "speaker": "kseniya",
+    "duration_sec": 3.26
+  },
+  {
+    "file": "polite_complaint_v0_t01.wav",
+    "dialog_id": "polite_complaint_v0",
+    "scenario": "polite_complaint",
+    "label": "sad",
+    "text": "Понимаю ваше беспокойство, давайте уточним, что именно вызывает у вас недовольство. Возможно, это поможет быстрее найти решение.",
+    "speaker": "kseniya",
+    "duration_sec": 8.1
+  },
+  {
+    "file": "polite_complaint_v0_t02.wav",
+    "dialog_id": "polite_complaint_v0",
+    "scenario": "polite_complaint",
+    "label": "neutral",
+    "text": "Давайте уточним, возможно, проблема в настройках или программном обеспечении. Попробуем разобраться вместе.",
+    "speaker": "kseniya",
+    "duration_sec": 6.83
+  },
+  {
+    "file": "wifi_weak_v0_t00.wav",
+    "dialog_id": "wifi_weak_v0",
+    "scenario": "wifi_weak",
+    "label": "neutral",
+    "text": "Wi-Fi плохо ловит в дальней комнате, что посоветуете?",
+    "speaker": "kseniya",
+    "duration_sec": 2.9
+  },
+  {
+    "file": "wifi_weak_v0_t01.wav",
+    "dialog_id": "wifi_weak_v0",
+    "scenario": "wifi_weak",
+    "label": "neutral",
+    "text": "Хорошо, проверим, какие репитеры подойдут для вашего роутера. Давайте уточним, где именно слабый сигнал, чтобы подобрать оптимальное решение.",
+    "speaker": "kseniya",
+    "duration_sec": 8.49
+  },
+  {
+    "file": "tech_visit_needed_v1_t00.wav",
+    "dialog_id": "tech_visit_needed_v1",
+    "scenario": "tech_visit_needed",
+    "label": "neutral",
+    "text": "Кабель повреждён в подъезде, можете прислать мастера?",
+    "speaker": "aidar",
+    "duration_sec": 3.23
+  },
+  {
+    "file": "tech_visit_needed_v1_t01.wav",
+    "dialog_id": "tech_visit_needed_v1",
+    "scenario": "tech_visit_needed",
+    "label": "neutral",
+    "text": "Понял. Давайте уточним, какой именно кабель и где повреждение, чтобы мастер мог быстро найти проблему.",
+    "speaker": "aidar",
+    "duration_sec": 6.8
+  },
+  {
+    "file": "tech_visit_needed_v1_t02.wav",
+    "dialog_id": "tech_visit_needed_v1",
+    "scenario": "tech_visit_needed",
+    "label": "positive",
+    "text": "Понял, уточню у техника, где он находится. Вам нужно будет немного подождать, чтобы мы могли организовать быстрый выезд.",
+    "speaker": "aidar",
+    "duration_sec": 7.91
+  },
+  {
+    "file": "escalation_2nd_line_v0_t00.wav",
+    "dialog_id": "escalation_2nd_line_v0",
+    "scenario": "escalation_2nd_line",
+    "label": "angry",
+    "text": "Я звоню уже третий раз, никто не может ничего сделать!",
+    "speaker": "kseniya",
+    "duration_sec": 3.48
+  },
+  {
+    "file": "escalation_2nd_line_v0_t01.wav",
+    "dialog_id": "escalation_2nd_line_v0",
+    "scenario": "escalation_2nd_line",
+    "label": "angry",
+    "text": "Понимаю ваше недовольство, извините за задержку. Давайте попробуем решить проблему прямо сейчас, чтобы всё исправить. Сначала проверим, не было ли аварий в вашем районе.",
+    "speaker": "kseniya",
+    "duration_sec": 10.44
+  },
+  {
+    "file": "escalation_2nd_line_v0_t02.wav",
+    "dialog_id": "escalation_2nd_line_v0",
+    "scenario": "escalation_2nd_line",
+    "label": "neutral",
+    "text": "Хорошо, сейчас проверю, не было ли проблем в вашем районе. Это займёт минуту-две.",
+    "speaker": "kseniya",
+    "duration_sec": 5.16
+  },
+  {
+    "file": "relocation_v1_t00.wav",
+    "dialog_id": "relocation_v1",
+    "scenario": "relocation",
+    "label": "neutral",
+    "text": "Я переезжаю в другую квартиру, можно перенести интернет?",
+    "speaker": "baya",
+    "duration_sec": 4.08
+  },
+  {
+    "file": "relocation_v1_t01.wav",
+    "dialog_id": "relocation_v1",
+    "scenario": "relocation",
+    "label": "neutral",
+    "text": "Понял, уточните, пожалуйста, адрес новой квартиры, чтобы мы могли быстро завершить настройку.",
+    "speaker": "baya",
+    "duration_sec": 6.56
+  },
+  {
+    "file": "relocation_v1_t02.wav",
+    "dialog_id": "relocation_v1",
+    "scenario": "relocation",
+    "label": "positive",
+    "text": "Спасибо за уточнение! Номер дома и квартиры — это всё, что нужно для точной настройки. Сейчас уточню и сообщу, когда можно будет начать подключение.",
+    "speaker": "baya",
+    "duration_sec": 10.24
+  },
+  {
+    "file": "compensation_request_v0_t00.wav",
+    "dialog_id": "compensation_request_v0",
+    "scenario": "compensation_request",
+    "label": "angry",
+    "text": "Три дня без интернета, верните мне деньги за этот месяц!",
+    "speaker": "aidar",
+    "duration_sec": 3.48
+  },
+  {
+    "file": "compensation_request_v0_t01.wav",
+    "dialog_id": "compensation_request_v0",
+    "scenario": "compensation_request",
+    "label": "angry",
+    "text": "Извините за задержку, понимаю ваше раздражение. Давайте попробуем ускорить процесс. Возможно, можно будет вернуть деньги за последние дни. Сейчас уточню, какие у нас есть варианты.",
+    "speaker": "aidar",
+    "duration_sec": 12.45
+  },
+  {
+    "file": "compensation_request_v0_t02.wav",
+    "dialog_id": "compensation_request_v0",
+    "scenario": "compensation_request",
+    "label": "neutral",
+    "text": "Хорошо, уточню, какие есть возможности для возврата средств. Ваши данные уже проверены, жду ответа от финансового отдела.",
+    "speaker": "aidar",
+    "duration_sec": 8.49
+  },
+  {
+    "file": "mac_binding_v1_t00.wav",
+    "dialog_id": "mac_binding_v1",
+    "scenario": "mac_binding",
+    "label": "neutral",
+    "text": "Старый роутер сломался, поставил новый — интернета нет.",
+    "speaker": "xenia",
+    "duration_sec": 3.5
+  },
+  {
+    "file": "mac_binding_v1_t01.wav",
+    "dialog_id": "mac_binding_v1",
+    "scenario": "mac_binding",
+    "label": "neutral",
+    "text": "Хорошо, сейчас проверим настройки маршрутизатора. Возможно, нужно немного подправить параметры.",
+    "speaker": "xenia",
+    "duration_sec": 5.7
+  },
+  {
+    "file": "mac_binding_v1_t02.wav",
+    "dialog_id": "mac_binding_v1",
+    "scenario": "mac_binding",
+    "label": "angry",
+    "text": "Прошу прощения за неудобства. Давайте попробуем иначе. Проверим настройки роутера и сети, чтобы точно понять причину проблемы.",
+    "speaker": "xenia",
+    "duration_sec": 7.33
+  },
+  {
+    "file": "pppoe_new_router_v1_t00.wav",
+    "dialog_id": "pppoe_new_router_v1",
+    "scenario": "pppoe_new_router",
+    "label": "neutral",
+    "text": "Купил новый роутер, не могу настроить интернет.",
+    "speaker": "baya",
+    "duration_sec": 3.27
+  },
+  {
+    "file": "pppoe_new_router_v1_t01.wav",
+    "dialog_id": "pppoe_new_router_v1",
+    "scenario": "pppoe_new_router",
+    "label": "neutral",
+    "text": "Проверим настройки PPPoE. Сейчас посмотрим, что можно сделать.",
+    "speaker": "baya",
+    "duration_sec": 3.81
+  },
+  {
+    "file": "firmware_curious_v1_t00.wav",
+    "dialog_id": "firmware_curious_v1",
+    "scenario": "firmware_curious",
+    "label": "neutral",
+    "text": "Стоит ли обновить прошивку роутера? Безопасно?",
+    "speaker": "baya",
+    "duration_sec": 3.35
+  },
+  {
+    "file": "cable_damage_v1_t00.wav",
+    "dialog_id": "cable_damage_v1",
+    "scenario": "cable_damage",
+    "label": "neutral",
+    "text": "Кот перегрыз кабель от роутера, что теперь делать?",
+    "speaker": "aidar",
+    "duration_sec": 2.94
+  },
+  {
+    "file": "cable_damage_v1_t01.wav",
+    "dialog_id": "cable_damage_v1",
+    "scenario": "cable_damage",
+    "label": "sad",
+    "text": "Понимаю ваше беспокойство. Если индикаторы не горят, давайте проверим кабель.",
+    "speaker": "aidar",
+    "duration_sec": 5.34
+  },
+  {
+    "file": "cable_damage_v1_t02.wav",
+    "dialog_id": "cable_damage_v1",
+    "scenario": "cable_damage",
+    "label": "neutral",
+    "text": "Проверьте, пожалуйста, подключение роутера к сети. Включите его и посмотрите на индикаторы питания и интернета.",
+    "speaker": "aidar",
+    "duration_sec": 7.31
+  },
+  {
+    "file": "no_internet_escalating_v0_t00.wav",
+    "dialog_id": "no_internet_escalating_v0",
+    "scenario": "no_internet_escalating",
+    "label": "neutral",
+    "text": "Третий день не работает интернет, что вы вообще делаете?",
+    "speaker": "baya",
+    "duration_sec": 3.49
+  },
+  {
+    "file": "no_internet_escalating_v0_t01.wav",
+    "dialog_id": "no_internet_escalating_v0",
+    "scenario": "no_internet_escalating",
+    "label": "angry",
+    "text": "Прошу прощения за задержку. Давайте попробуем разобраться с проблемой прямо сейчас. Возможно, есть что-то, что мы упустили. Ваши действия помогут нам быстрее найти решение.",
+    "speaker": "baya",
+    "duration_sec": 11.8
+  },
+  {
+    "file": "no_internet_escalating_v0_t02.wav",
+    "dialog_id": "no_internet_escalating_v0",
+    "scenario": "no_internet_escalating",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за задержку. Давайте попробуем иначе: я быстро проверю, не было ли недавно проблем с сетью в вашем районе.",
+    "speaker": "baya",
+    "duration_sec": 9.2
+  },
+  {
+    "file": "no_internet_escalating_v1_t00.wav",
+    "dialog_id": "no_internet_escalating_v1",
+    "scenario": "no_internet_escalating",
+    "label": "neutral",
+    "text": "Третий день не работает интернет, что вы вообще делаете?",
+    "speaker": "kseniya",
+    "duration_sec": 3.1
+  },
+  {
+    "file": "no_internet_escalating_v1_t01.wav",
+    "dialog_id": "no_internet_escalating_v1",
+    "scenario": "no_internet_escalating",
+    "label": "angry",
+    "text": "Понимаю ваше нетерпение. Давайте уточню: возможно, проблема с роутером или настройками. Пожалуйста, подождите, я сейчас проверю состояние подключения.",
+    "speaker": "kseniya",
+    "duration_sec": 10.05
+  },
+  {
+    "file": "no_internet_escalating_v1_t02.wav",
+    "dialog_id": "no_internet_escalating_v1",
+    "scenario": "no_internet_escalating",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение. Прошу прощения за задержку. Давайте проверим, не произошло ли отключение в вашем районе. Возможно, проблема с роутером, и я сразу проверю его состояние.",
+    "speaker": "kseniya",
+    "duration_sec": 11.75
+  },
+  {
+    "file": "mobile_apn_v1_t00.wav",
+    "dialog_id": "mobile_apn_v1",
+    "scenario": "mobile_apn",
+    "label": "neutral",
+    "text": "Купил новый телефон, мобильный интернет не работает.",
+    "speaker": "baya",
+    "duration_sec": 3.58
+  },
+  {
+    "file": "mobile_apn_v1_t01.wav",
+    "dialog_id": "mobile_apn_v1",
+    "scenario": "mobile_apn",
+    "label": "neutral",
+    "text": "Давайте попробуем настроить APN вручную, это часто помогает. Укажите, пожалуйста, модель вашего телефона.",
+    "speaker": "baya",
+    "duration_sec": 7.22
+  },
+  {
+    "file": "outage_check_v0_t00.wav",
+    "dialog_id": "outage_check_v0",
+    "scenario": "outage_check",
+    "label": "neutral",
+    "text": "Соседи говорят что у них тоже нет интернета, у вас авария?",
+    "speaker": "xenia",
+    "duration_sec": 3.44
+  },
+  {
+    "file": "outage_check_v0_t01.wav",
+    "dialog_id": "outage_check_v0",
+    "scenario": "outage_check",
+    "label": "neutral",
+    "text": "Проверим, есть ли проблемы с подключением. Подождите, уточню у специалистов.",
+    "speaker": "xenia",
+    "duration_sec": 4.61
+  },
+  {
+    "file": "sim_replacement_v1_t00.wav",
+    "dialog_id": "sim_replacement_v1",
+    "scenario": "sim_replacement",
+    "label": "neutral",
+    "text": "Телефон не видит SIM-карту, можно её заменить?",
+    "speaker": "aidar",
+    "duration_sec": 2.67
+  },
+  {
+    "file": "relocation_v0_t00.wav",
+    "dialog_id": "relocation_v0",
+    "scenario": "relocation",
+    "label": "neutral",
+    "text": "Я переезжаю в другую квартиру, можно перенести интернет?",
+    "speaker": "aidar",
+    "duration_sec": 3.81
+  },
+  {
+    "file": "relocation_v0_t01.wav",
+    "dialog_id": "relocation_v0",
+    "scenario": "relocation",
+    "label": "neutral",
+    "text": "Подскажите, пожалуйста, ваш новый адрес и номер квартиры. Это поможет быстрее уточнить возможность подключения.",
+    "speaker": "aidar",
+    "duration_sec": 7.5
+  },
+  {
+    "file": "relocation_v0_t02.wav",
+    "dialog_id": "relocation_v0",
+    "scenario": "relocation",
+    "label": "positive",
+    "text": "Отлично, ваш новый адрес и номер квартиры. Уточним, возможно ли подключение и какие условия. Мы постараемся сделать всё максимально быстро и качественно.",
+    "speaker": "aidar",
+    "duration_sec": 10.59
+  },
+  {
+    "file": "mac_binding_v0_t00.wav",
+    "dialog_id": "mac_binding_v0",
+    "scenario": "mac_binding",
+    "label": "neutral",
+    "text": "Старый роутер сломался, поставил новый — интернета нет.",
+    "speaker": "baya",
+    "duration_sec": 4.08
+  },
+  {
+    "file": "mac_binding_v0_t01.wav",
+    "dialog_id": "mac_binding_v0",
+    "scenario": "mac_binding",
+    "label": "neutral",
+    "text": "Проверим настройки роутера, возможно, нужно ввести MAC-адрес устройства для корректного подключения.",
+    "speaker": "baya",
+    "duration_sec": 6.46
+  },
+  {
+    "file": "mac_binding_v0_t02.wav",
+    "dialog_id": "mac_binding_v0",
+    "scenario": "mac_binding",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за неудобства. Давайте попробуем сначала проверить, не блокируется ли подключение на стороне провайдера. Это займет пару минут.",
+    "speaker": "baya",
+    "duration_sec": 10.72
+  },
+  {
+    "file": "tariff_limit_v0_t00.wav",
+    "dialog_id": "tariff_limit_v0",
+    "scenario": "tariff_limit",
+    "label": "neutral",
+    "text": "Резко стал работать медленно, что случилось с интернетом?",
+    "speaker": "xenia",
+    "duration_sec": 3.33
+  },
+  {
+    "file": "tariff_limit_v0_t01.wav",
+    "dialog_id": "tariff_limit_v0",
+    "scenario": "tariff_limit",
+    "label": "neutral",
+    "text": "Проверим, не было ли изменений в тарифе или настройках. Возможно, стоит проверить параметры подключения в личном кабинете.",
+    "speaker": "xenia",
+    "duration_sec": 6.83
+  },
+  {
+    "file": "pppoe_new_router_v0_t00.wav",
+    "dialog_id": "pppoe_new_router_v0",
+    "scenario": "pppoe_new_router",
+    "label": "neutral",
+    "text": "Купил новый роутер, не могу настроить интернет.",
+    "speaker": "baya",
+    "duration_sec": 3.27
+  },
+  {
+    "file": "pppoe_new_router_v0_t01.wav",
+    "dialog_id": "pppoe_new_router_v0",
+    "scenario": "pppoe_new_router",
+    "label": "neutral",
+    "text": "Хорошо, давайте уточним параметры подключения. В разделе «Интернет» настройки должны быть верными, проверьте, пожалуйста.",
+    "speaker": "baya",
+    "duration_sec": 8.09
+  },
+  {
+    "file": "router_reboot_fails_v0_t00.wav",
+    "dialog_id": "router_reboot_fails_v0",
+    "scenario": "router_reboot_fails",
+    "label": "neutral",
+    "text": "Уже пять раз перезагружал, ничего не помогает.",
+    "speaker": "xenia",
+    "duration_sec": 2.81
+  },
+  {
+    "file": "router_reboot_fails_v0_t01.wav",
+    "dialog_id": "router_reboot_fails_v0",
+    "scenario": "router_reboot_fails",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за неудобства. Давайте попробуем ещё раз: проверим настройки маршрутизатора. Возможно, там есть скрытые параметры, которые помогут. Надеюсь, это решит проблему.",
+    "speaker": "xenia",
+    "duration_sec": 11.82
+  },
+  {
+    "file": "router_reboot_fails_v0_t02.wav",
+    "dialog_id": "router_reboot_fails_v0",
+    "scenario": "router_reboot_fails",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за задержку. Давайте проверим маршрутизатор прямо сейчас. Надеюсь, быстро найдём решение.",
+    "speaker": "xenia",
+    "duration_sec": 7.55
+  },
+  {
+    "file": "threat_to_leave_v1_t00.wav",
+    "dialog_id": "threat_to_leave_v1",
+    "scenario": "threat_to_leave",
+    "label": "angry",
+    "text": "Всё, надоело, расторгайте договор, ухожу к Билайну!",
+    "speaker": "xenia",
+    "duration_sec": 3.71
+  },
+  {
+    "file": "threat_to_leave_v1_t01.wav",
+    "dialog_id": "threat_to_leave_v1",
+    "scenario": "threat_to_leave",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, давайте разберёмся прямо сейчас. Проверю, какие у вас проблемы с подключением, и постараюсь ускорить решение.",
+    "speaker": "xenia",
+    "duration_sec": 7.55
+  },
+  {
+    "file": "threat_to_leave_v1_t02.wav",
+    "dialog_id": "threat_to_leave_v1",
+    "scenario": "threat_to_leave",
+    "label": "neutral",
+    "text": "Проверим, всё ли в порядке с подключением. Возможно, нужно перезагрузить оборудование.",
+    "speaker": "xenia",
+    "duration_sec": 4.99
+  },
+  {
+    "file": "iptv_broken_v0_t00.wav",
+    "dialog_id": "iptv_broken_v0",
+    "scenario": "iptv_broken",
+    "label": "neutral",
+    "text": "Телевизор показывает что нет сигнала, что случилось?",
+    "speaker": "xenia",
+    "duration_sec": 3.2
+  },
+  {
+    "file": "iptv_broken_v0_t01.wav",
+    "dialog_id": "iptv_broken_v0",
+    "scenario": "iptv_broken",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за неудобства. Давайте попробуем перезагрузить приставку, это часто решает проблему. Надеюсь, это поможет.",
+    "speaker": "xenia",
+    "duration_sec": 8.49
+  },
+  {
+    "file": "router_reboot_works_v0_t00.wav",
+    "dialog_id": "router_reboot_works_v0",
+    "scenario": "router_reboot_works",
+    "label": "neutral",
+    "text": "На моём роутере мигает красная лампочка, что это значит?",
+    "speaker": "kseniya",
+    "duration_sec": 3.46
+  },
+  {
+    "file": "router_reboot_works_v0_t01.wav",
+    "dialog_id": "router_reboot_works_v0",
+    "scenario": "router_reboot_works",
+    "label": "neutral",
+    "text": "Давайте проверим, не было ли недавно обновлений прошивки. Это может влиять на работу устройства.",
+    "speaker": "kseniya",
+    "duration_sec": 6.09
+  },
+  {
+    "file": "router_reboot_works_v0_t02.wav",
+    "dialog_id": "router_reboot_works_v0",
+    "scenario": "router_reboot_works",
+    "label": "positive",
+    "text": "Понял, сейчас проверим. Возможно, что-то изменилось в настройках или обновлениях. Давайте вместе разберёмся.",
+    "speaker": "kseniya",
+    "duration_sec": 7.04
+  },
+  {
+    "file": "escalation_2nd_line_v1_t00.wav",
+    "dialog_id": "escalation_2nd_line_v1",
+    "scenario": "escalation_2nd_line",
+    "label": "angry",
+    "text": "Я звоню уже третий раз, никто не может ничего сделать!",
+    "speaker": "xenia",
+    "duration_sec": 3.5
+  },
+  {
+    "file": "escalation_2nd_line_v1_t01.wav",
+    "dialog_id": "escalation_2nd_line_v1",
+    "scenario": "escalation_2nd_line",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за задержку. Давайте проверим, что можно сделать прямо сейчас, чтобы ускорить решение проблемы. Дайте мне пару минут, и я вернусь с предложением.",
+    "speaker": "xenia",
+    "duration_sec": 10.29
+  },
+  {
+    "file": "escalation_2nd_line_v1_t02.wav",
+    "dialog_id": "escalation_2nd_line_v1",
+    "scenario": "escalation_2nd_line",
+    "label": "neutral",
+    "text": "Хорошо, уточню, не было ли проблем с оборудованием в вашем районе. Сейчас вернусь с информацией.",
+    "speaker": "xenia",
+    "duration_sec": 5.72
+  },
+  {
+    "file": "compensation_request_v1_t00.wav",
+    "dialog_id": "compensation_request_v1",
+    "scenario": "compensation_request",
+    "label": "angry",
+    "text": "Три дня без интернета, верните мне деньги за этот месяц!",
+    "speaker": "baya",
+    "duration_sec": 3.62
+  },
+  {
+    "file": "compensation_request_v1_t01.wav",
+    "dialog_id": "compensation_request_v1",
+    "scenario": "compensation_request",
+    "label": "angry",
+    "text": "Понимаю ваше разочарование, и правда, ситуация с компенсациями не всегда простая. Давайте уточним, какие именно проблемы у вас возникли, чтобы я мог предложить быстрое решение.",
+    "speaker": "baya",
+    "duration_sec": 11.96
+  },
+  {
+    "file": "compensation_request_v1_t02.wav",
+    "dialog_id": "compensation_request_v1",
+    "scenario": "compensation_request",
+    "label": "neutral",
+    "text": "Давайте уточним, какие именно проблемы с компенсацией вас беспокоят. Возможно, у нас есть готовые решения для вашего случая.",
+    "speaker": "baya",
+    "duration_sec": 8.39
+  },
+  {
+    "file": "cable_damage_v0_t00.wav",
+    "dialog_id": "cable_damage_v0",
+    "scenario": "cable_damage",
+    "label": "neutral",
+    "text": "Кот перегрыз кабель от роутера, что теперь делать?",
+    "speaker": "xenia",
+    "duration_sec": 2.94
+  },
+  {
+    "file": "cable_damage_v0_t01.wav",
+    "dialog_id": "cable_damage_v0",
+    "scenario": "cable_damage",
+    "label": "sad",
+    "text": "Понимаю ваше беспокойство. Давайте попробуем подключить кабель напрямую и посмотрим, улучшится ли сигнал. Это действительно важно для вас сейчас.",
+    "speaker": "xenia",
+    "duration_sec": 8.14
+  },
+  {
+    "file": "cable_damage_v0_t02.wav",
+    "dialog_id": "cable_damage_v0",
+    "scenario": "cable_damage",
+    "label": "neutral",
+    "text": "Хорошо, сейчас проверим кабель. Подключим напрямую, это быстро.",
+    "speaker": "xenia",
+    "duration_sec": 4.16
+  },
+  {
+    "file": "balance_zero_v1_t00.wav",
+    "dialog_id": "balance_zero_v1",
+    "scenario": "balance_zero",
+    "label": "neutral",
+    "text": "Интернет отключили, наверное оплата не прошла, что делать?",
+    "speaker": "aidar",
+    "duration_sec": 3.64
+  },
+  {
+    "file": "balance_zero_v1_t01.wav",
+    "dialog_id": "balance_zero_v1",
+    "scenario": "balance_zero",
+    "label": "sad",
+    "text": "Понимаю вашу тревогу. Давайте уточним, возможно, проблема временная. Подождите, сейчас проверим баланс и активность услуг.",
+    "speaker": "aidar",
+    "duration_sec": 8.34
+  },
+  {
+    "file": "balance_zero_v1_t02.wav",
+    "dialog_id": "balance_zero_v1",
+    "scenario": "balance_zero",
+    "label": "neutral",
+    "text": "Сейчас проверим баланс и активные услуги. Возможно, это поможет понять причину.",
+    "speaker": "aidar",
+    "duration_sec": 5.66
+  },
+  {
+    "file": "mobile_apn_v0_t00.wav",
+    "dialog_id": "mobile_apn_v0",
+    "scenario": "mobile_apn",
+    "label": "neutral",
+    "text": "Купил новый телефон, мобильный интернет не работает.",
+    "speaker": "baya",
+    "duration_sec": 3.58
+  },
+  {
+    "file": "mobile_apn_v0_t01.wav",
+    "dialog_id": "mobile_apn_v0",
+    "scenario": "mobile_apn",
+    "label": "neutral",
+    "text": "Проверим настройки APN, возможно, они изменились. Ваша сеть стабильна?",
+    "speaker": "baya",
+    "duration_sec": 4.71
+  },
+  {
+    "file": "factory_reset_v0_t00.wav",
+    "dialog_id": "factory_reset_v0",
+    "scenario": "factory_reset",
+    "label": "neutral",
+    "text": "Не могу войти в админку роутера, забыл пароль.",
+    "speaker": "aidar",
+    "duration_sec": 3.12
+  },
+  {
+    "file": "factory_reset_v0_t01.wav",
+    "dialog_id": "factory_reset_v0",
+    "scenario": "factory_reset",
+    "label": "neutral",
+    "text": "Проверьте, правильно ли удерживали кнопку. Возможно, стоит повторить попытку.",
+    "speaker": "aidar",
+    "duration_sec": 5.08
+  },
+  {
+    "file": "wifi_no_connect_v0_t00.wav",
+    "dialog_id": "wifi_no_connect_v0",
+    "scenario": "wifi_no_connect",
+    "label": "neutral",
+    "text": "Телефон не подключается к Wi-Fi, пишет неверный пароль.",
+    "speaker": "xenia",
+    "duration_sec": 2.8
+  },
+  {
+    "file": "wifi_no_connect_v0_t01.wav",
+    "dialog_id": "wifi_no_connect_v0",
+    "scenario": "wifi_no_connect",
+    "label": "neutral",
+    "text": "Хорошо, давайте попробуем сбросить настройки. Это стандартная процедура, которая часто помогает.",
+    "speaker": "xenia",
+    "duration_sec": 5.95
+  },
+  {
+    "file": "firmware_curious_v0_t00.wav",
+    "dialog_id": "firmware_curious_v0",
+    "scenario": "firmware_curious",
+    "label": "neutral",
+    "text": "Стоит ли обновить прошивку роутера? Безопасно?",
+    "speaker": "aidar",
+    "duration_sec": 3.24
+  },
+  {
+    "file": "balance_zero_v0_t00.wav",
+    "dialog_id": "balance_zero_v0",
+    "scenario": "balance_zero",
+    "label": "neutral",
+    "text": "Интернет отключили, наверное оплата не прошла, что делать?",
+    "speaker": "xenia",
+    "duration_sec": 3.52
+  },
+  {
+    "file": "balance_zero_v0_t01.wav",
+    "dialog_id": "balance_zero_v0",
+    "scenario": "balance_zero",
+    "label": "sad",
+    "text": "Понимаю ваше беспокойство, сейчас уточню статус платежа и постараюсь решить проблему как можно быстрее.",
+    "speaker": "xenia",
+    "duration_sec": 5.56
+  },
+  {
+    "file": "balance_zero_v0_t02.wav",
+    "dialog_id": "balance_zero_v0",
+    "scenario": "balance_zero",
+    "label": "neutral",
+    "text": "Понимаю, давайте уточним, когда именно произошло отключение. Это поможет быстрее разобраться в ситуации.",
+    "speaker": "xenia",
+    "duration_sec": 6.0
+  },
+  {
+    "file": "wifi_weak_v1_t00.wav",
+    "dialog_id": "wifi_weak_v1",
+    "scenario": "wifi_weak",
+    "label": "neutral",
+    "text": "Wi-Fi плохо ловит в дальней комнате, что посоветуете?",
+    "speaker": "xenia",
+    "duration_sec": 3.01
+  },
+  {
+    "file": "wifi_weak_v1_t01.wav",
+    "dialog_id": "wifi_weak_v1",
+    "scenario": "wifi_weak",
+    "label": "neutral",
+    "text": "Хорошо, давайте проверим настройки маршрутизатора. Возможно, стоит сбросить его до заводских настроек, чтобы исключить проблемы с программным обеспечением.",
+    "speaker": "xenia",
+    "duration_sec": 8.65
+  },
+  {
+    "file": "no_internet_resolved_v1_t00.wav",
+    "dialog_id": "no_internet_resolved_v1",
+    "scenario": "no_internet_resolved",
+    "label": "neutral",
+    "text": "Алло, у меня не работает интернет, помогите разобраться.",
+    "speaker": "aidar",
+    "duration_sec": 3.74
+  },
+  {
+    "file": "no_internet_resolved_v1_t01.wav",
+    "dialog_id": "no_internet_resolved_v1",
+    "scenario": "no_internet_resolved",
+    "label": "neutral",
+    "text": "Понял, давайте перезагрузим ваш роутер и проверим стабильность соединения.",
+    "speaker": "aidar",
+    "duration_sec": 4.79
+  },
+  {
+    "file": "no_internet_resolved_v1_t02.wav",
+    "dialog_id": "no_internet_resolved_v1",
+    "scenario": "no_internet_resolved",
+    "label": "neutral",
+    "text": "Хорошо, давайте проверим. Подключите роутер и подождите, пока он загрузится. Затем попробуйте подключиться к сети. Появился ли интернет?",
+    "speaker": "aidar",
+    "duration_sec": 9.0
+  },
+  {
+    "file": "no_internet_resolved_v1_t03.wav",
+    "dialog_id": "no_internet_resolved_v1",
+    "scenario": "no_internet_resolved",
+    "label": "positive",
+    "text": "Сейчас проверю, всё ли в порядке с подключением. Возможно, проблема временная, и перезагрузка роутера поможет.",
+    "speaker": "aidar",
+    "duration_sec": 7.2
+  },
+  {
+    "file": "router_reboot_fails_v1_t00.wav",
+    "dialog_id": "router_reboot_fails_v1",
+    "scenario": "router_reboot_fails",
+    "label": "neutral",
+    "text": "Уже пять раз перезагружал, ничего не помогает.",
+    "speaker": "aidar",
+    "duration_sec": 3.3
+  },
+  {
+    "file": "router_reboot_fails_v1_t01.wav",
+    "dialog_id": "router_reboot_fails_v1",
+    "scenario": "router_reboot_fails",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение. Давайте проверим настройки роутера, чтобы быстрее решить проблему. Надеюсь, это поможет.",
+    "speaker": "aidar",
+    "duration_sec": 7.86
+  },
+  {
+    "file": "router_reboot_fails_v1_t02.wav",
+    "dialog_id": "router_reboot_fails_v1",
+    "scenario": "router_reboot_fails",
+    "label": "angry",
+    "text": "Понимаю, что это вызывает раздражение. Давайте попробуем разобраться с проблемой прямо сейчас, и если что-то пойдет не так, я предложу альтернативные шаги.",
+    "speaker": "aidar",
+    "duration_sec": 10.18
+  },
+  {
+    "file": "wifi_no_connect_v1_t00.wav",
+    "dialog_id": "wifi_no_connect_v1",
+    "scenario": "wifi_no_connect",
+    "label": "neutral",
+    "text": "Телефон не подключается к Wi-Fi, пишет неверный пароль.",
+    "speaker": "kseniya",
+    "duration_sec": 3.05
+  },
+  {
+    "file": "wifi_no_connect_v1_t01.wav",
+    "dialog_id": "wifi_no_connect_v1",
+    "scenario": "wifi_no_connect",
+    "label": "neutral",
+    "text": "Проверьте, пожалуйста, в настройках роутера, включен ли Wi-Fi и правильный ли пароль.",
+    "speaker": "kseniya",
+    "duration_sec": 4.17
+  },
+  {
+    "file": "threat_to_leave_v0_t00.wav",
+    "dialog_id": "threat_to_leave_v0",
+    "scenario": "threat_to_leave",
+    "label": "angry",
+    "text": "Всё, надоело, расторгайте договор, ухожу к Билайну!",
+    "speaker": "xenia",
+    "duration_sec": 3.71
+  },
+  {
+    "file": "threat_to_leave_v0_t01.wav",
+    "dialog_id": "threat_to_leave_v0",
+    "scenario": "threat_to_leave",
+    "label": "angry",
+    "text": "Понимаю ваше недовольство, извините за неудобства. Позвольте предложить вам временную скидку на услуги, пока мы разберёмся с проблемой.",
+    "speaker": "xenia",
+    "duration_sec": 7.16
+  },
+  {
+    "file": "threat_to_leave_v0_t02.wav",
+    "dialog_id": "threat_to_leave_v0",
+    "scenario": "threat_to_leave",
+    "label": "neutral",
+    "text": "Давайте уточним, какие именно проблемы вас беспокоят, чтобы быстрее решить их.",
+    "speaker": "xenia",
+    "duration_sec": 4.61
+  },
+  {
+    "file": "tech_visit_needed_v0_t00.wav",
+    "dialog_id": "tech_visit_needed_v0",
+    "scenario": "tech_visit_needed",
+    "label": "neutral",
+    "text": "Кабель повреждён в подъезде, можете прислать мастера?",
+    "speaker": "aidar",
+    "duration_sec": 3.23
+  },
+  {
+    "file": "tech_visit_needed_v0_t01.wav",
+    "dialog_id": "tech_visit_needed_v0",
+    "scenario": "tech_visit_needed",
+    "label": "neutral",
+    "text": "Понимаю, что важно быстро решить проблему. Давайте уточним, есть ли возможность приезда мастера сегодня.",
+    "speaker": "aidar",
+    "duration_sec": 7.0
+  },
+  {
+    "file": "tech_visit_needed_v0_t02.wav",
+    "dialog_id": "tech_visit_needed_v0",
+    "scenario": "tech_visit_needed",
+    "label": "positive",
+    "text": "Очень хорошо, что вы уже успели проверить! Сейчас уточню, есть ли возможность приезда мастера сегодня.",
+    "speaker": "aidar",
+    "duration_sec": 6.64
+  },
+  {
+    "file": "outage_check_v1_t00.wav",
+    "dialog_id": "outage_check_v1",
+    "scenario": "outage_check",
+    "label": "neutral",
+    "text": "Соседи говорят что у них тоже нет интернета, у вас авария?",
+    "speaker": "baya",
+    "duration_sec": 3.65
+  },
+  {
+    "file": "outage_check_v1_t01.wav",
+    "dialog_id": "outage_check_v1",
+    "scenario": "outage_check",
+    "label": "neutral",
+    "text": "Очень хорошо, сейчас уточню, есть ли проблемы в вашем районе. Ваши данные уже на мониторинге, так что скоро узнаем.",
+    "speaker": "baya",
+    "duration_sec": 8.06
+  },
+  {
+    "file": "slow_speed_v0_t00.wav",
+    "dialog_id": "slow_speed_v0",
+    "scenario": "slow_speed",
+    "label": "neutral",
+    "text": "Интернет тормозит ужасно, скорость в два раза ниже тарифа.",
+    "speaker": "kseniya",
+    "duration_sec": 3.73
+  },
+  {
+    "file": "slow_speed_v0_t01.wav",
+    "dialog_id": "slow_speed_v0",
+    "scenario": "slow_speed",
+    "label": "neutral",
+    "text": "Проверим, нет ли проблем с интернетом в вашем районе. Сейчас уточню, не было ли аварий.",
+    "speaker": "kseniya",
+    "duration_sec": 5.41
+  },
+  {
+    "file": "slow_speed_v0_t02.wav",
+    "dialog_id": "slow_speed_v0",
+    "scenario": "slow_speed",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за задержки. Давайте попробуем обойти проблему с другой стороны. Сейчас я проверю, не связана ли проблема с сетевыми настройками, и если нужно, предложу вам быстрый способ решения.",
+    "speaker": "kseniya",
+    "duration_sec": 13.21
+  },
+  {
+    "file": "tariff_limit_v1_t00.wav",
+    "dialog_id": "tariff_limit_v1",
+    "scenario": "tariff_limit",
+    "label": "neutral",
+    "text": "Резко стал работать медленно, что случилось с интернетом?",
+    "speaker": "baya",
+    "duration_sec": 3.61
+  },
+  {
+    "file": "tariff_limit_v1_t01.wav",
+    "dialog_id": "tariff_limit_v1",
+    "scenario": "tariff_limit",
+    "label": "neutral",
+    "text": "Сейчас проверим, нет ли перегрузки на вашем канале. Возможно, стоит перезагрузить роутер для проверки.",
+    "speaker": "baya",
+    "duration_sec": 6.99
+  },
+  {
+    "file": "slow_speed_v1_t00.wav",
+    "dialog_id": "slow_speed_v1",
+    "scenario": "slow_speed",
+    "label": "neutral",
+    "text": "Интернет тормозит ужасно, скорость в два раза ниже тарифа.",
+    "speaker": "aidar",
+    "duration_sec": 4.03
+  },
+  {
+    "file": "slow_speed_v1_t01.wav",
+    "dialog_id": "slow_speed_v1",
+    "scenario": "slow_speed",
+    "label": "neutral",
+    "text": "Хорошо, сейчас проверим, не произошло ли каких-то изменений в настройках или сбоях. Проверим, не требуется ли перезагрузка роутера.",
+    "speaker": "aidar",
+    "duration_sec": 8.4
+  },
+  {
+    "file": "slow_speed_v1_t02.wav",
+    "dialog_id": "slow_speed_v1",
+    "scenario": "slow_speed",
+    "label": "angry",
+    "text": "Понимаю ваше раздражение, извините за неудобства. Давайте попробуем перезагрузить роутер, это часто помогает. Вам нужно будет просто выключить его на пару минут, а затем включить обратно.",
+    "speaker": "aidar",
+    "duration_sec": 12.65
+  },
+  {
+    "file": "sim_replacement_v0_t00.wav",
+    "dialog_id": "sim_replacement_v0",
+    "scenario": "sim_replacement",
+    "label": "neutral",
+    "text": "Телефон не видит SIM-карту, можно её заменить?",
+    "speaker": "kseniya",
+    "duration_sec": 2.5
+  },
+  {
+    "file": "factory_reset_v1_t00.wav",
+    "dialog_id": "factory_reset_v1",
+    "scenario": "factory_reset",
+    "label": "neutral",
+    "text": "Не могу войти в админку роутера, забыл пароль.",
+    "speaker": "aidar",
+    "duration_sec": 3.12
+  },
+  {
+    "file": "factory_reset_v1_t01.wav",
+    "dialog_id": "factory_reset_v1",
+    "scenario": "factory_reset",
+    "label": "neutral",
+    "text": "Проверю настройки роутера, чтобы сбросить их. Сейчас попробую.",
+    "speaker": "aidar",
+    "duration_sec": 4.35
+  }
+]

@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Тёмная тема в стиле Telegram */
+    --background: 208 30% 13%;        /* #17212b — оболочка */
+    --foreground: 214 33% 96%;
+    --card: 208 30% 13%;
+    --card-foreground: 214 33% 96%;
+    --primary: 207 84% 56%;           /* #3390ec */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 213 26% 19%;         /* #242f3d — поля/чипы */
+    --secondary-foreground: 214 20% 86%;
+    --muted: 213 26% 19%;
+    --muted-foreground: 210 12% 60%;
+    --accent: 210 47% 24%;            /* выделение */
+    --accent-foreground: 207 84% 82%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 209 32% 9%;             /* тёмные разделители */
+    --radius: 0.75rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html, body {
+    @apply h-full;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    overflow: hidden;
+  }
+}
+
+/* Обои чата — тёмные, как в Telegram */
+.tg-wallpaper {
+  background-color: #0e1621;
+  background-image:
+    radial-gradient(1000px circle at 18% 0%, rgba(43, 82, 120, 0.16), transparent 55%),
+    radial-gradient(1000px circle at 82% 100%, rgba(30, 50, 70, 0.18), transparent 55%);
+}
+
+/* Пузырь сообщения */
+.tg-bubble {
+  position: relative;
+  max-width: 76%;
+  border-radius: 14px;
+  padding: 6px 10px 5px;
+  box-shadow: 0 1px 1.5px rgb(0 0 0 / 0.25);
+  font-size: 14.5px;
+  line-height: 1.4;
+}
+.tg-in {
+  background: #182533;
+  color: #e9f0f7;
+  border-bottom-left-radius: 5px;
+}
+.tg-out {
+  background: #2b5278;             /* фирменный синий исходящих в тёмной теме */
+  color: #f3f8fd;
+  margin-left: auto;
+  border-bottom-right-radius: 5px;
+}
+
+/* Светлая тема */
+.light {
+  --background: 0 0% 100%;
+  --foreground: 213 30% 15%;
+  --card: 0 0% 100%;
+  --card-foreground: 213 30% 15%;
+  --primary: 207 84% 53%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 210 18% 94%;
+  --secondary-foreground: 213 22% 28%;
+  --muted: 210 18% 94%;
+  --muted-foreground: 213 10% 45%;
+  --accent: 207 80% 92%;
+  --accent-foreground: 207 84% 35%;
+  --border: 214 22% 88%;
+}
+.light .tg-wallpaper {
+  background-color: #eef1f5;
+  background-image:
+    radial-gradient(1000px circle at 18% 0%, rgba(120, 160, 200, 0.10), transparent 55%),
+    radial-gradient(1000px circle at 82% 100%, rgba(150, 175, 200, 0.12), transparent 55%);
+}
+.light .tg-in {
+  background: #ffffff;
+  color: #1c2733;
+  box-shadow: 0 1px 1.5px rgb(0 0 0 / 0.08);
+}
+.light .tg-out {
+  background: #cfe9ff;
+  color: #14334d;
+}
+.light .glass {
+  background: #ffffff;
+  border: 1px solid hsl(214 22% 90%);
+}
+.light .scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgb(0 0 0 / 0.16);
+}
+.light .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: rgb(0 0 0 / 0.26);
+}
+
+.tg-avatar {
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 9999px; color: #fff; font-weight: 600;
+}
+
+/* Карточка (панели справа/композер) — чуть светлее фона */
+.glass {
+  background: hsl(208 28% 16%);
+  border: 1px solid hsl(209 30% 10%);
+  border-radius: var(--radius);
+}
+.card-hover { transition: background-color .15s ease, border-color .15s ease; }
+
+/* Мелкий заголовок секции */
+.eyebrow {
+  font-size: 0.7rem; font-weight: 600; letter-spacing: 0.05em;
+  text-transform: uppercase; color: hsl(var(--muted-foreground));
+}
+
+.scrollbar-thin::-webkit-scrollbar { width: 7px; }
+.scrollbar-thin::-webkit-scrollbar-track { background: transparent; }
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgb(255 255 255 / 0.16);
+  border-radius: 4px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover { background: rgb(255 255 255 / 0.26); }
